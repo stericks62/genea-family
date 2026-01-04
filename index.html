@@ -690,12 +690,12 @@
 	  document.addEventListener('genea-ready', () => {
 	    fetch('data/CE4.ged')
 	      .then(r => r.text())
-	      .then(mydata => {
+	      .then(data => {
 	        // Switch to the tree page (same as clicking a sample)
 	        genea.page = "tree";
 	
 	        // Load your GEDCOM using the correct API
-	        stamboom.load(mydata);
+	        stamboom.load(data);
 	
 	        // Optional: auto-select the first person in the file
 	        // If you know the ID of a root person, put it here
