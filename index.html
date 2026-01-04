@@ -690,7 +690,12 @@
 	  document.addEventListener('genea-ready', () => {
 	    fetch('data/CE4.ged')
 	      .then(r => r.text())
-	      .then(text => window.genea.loadGedcom(text))
+	      .then(text => {
+	        window.genea.loadGedcom(text);
+	
+	        // 👇 This is the missing piece
+	        window.genea.showApp = true;
+	      })
 	      .catch(err => console.error('Could not load GEDCOM:', err));
 	  });
 	</script>
