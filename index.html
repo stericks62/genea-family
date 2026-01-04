@@ -687,13 +687,14 @@
     </script>
 	<!-- SPE 1/4/26 custom GED file auto-load --->
 	<script>
-	  fetch('data/CE4.ged')
-	    .then(response => response.text())
-	    .then(text => {
-	      window.genea.loadGedcom(text);
-	    })
-	    .catch(err => console.error('Could not load GEDCOM:', err));
+	  document.addEventListener('genea-ready', () => {
+	    fetch('data/CE4.ged')
+	      .then(r => r.text())
+	      .then(text => window.genea.loadGedcom(text))
+	      .catch(err => console.error('Could not load GEDCOM:', err));
+	  });
 	</script>
+
 </body>
 
 </html>
