@@ -1,0 +1,12049 @@
+0 HEAD
+1 SOUR GeneWeb
+2 VERS 6.07
+2 NAME gwb2ged
+2 CORP INRIA
+3 ADDR http://www.geneweb.org
+2 DATA CE3.gwb
+1 DATE 03 JAN 2026
+2 TIME 11:20:41
+1 FILE CE4.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 NOTE Created by FamilyGTG app.
+0 @I1@ INDI
+1 NAME Carl Melvin /Grimsrud/
+1 SEX M
+1 BIRT
+2 DATE 29 MAY 1872
+2 PLAC Coon Valley WIsconsin
+1 DEAT
+2 DATE 11 DEC 1945
+2 PLAC Moorhead, MN
+1 BURI
+2 PLAC Salem West Cemetry Hitterdal Mn
+1 FAMC @F1@
+1 FAMS @F2@
+1 NOTE Was installed as pastor at Salem Lutheran Church Hitterdal MN Aug 23 1
+2 CONC 929
+0 @I2@ INDI
+1 NAME Gunder Anundsen /Bandaksli/
+1 SEX M
+1 BIRT
+2 DATE 22 NOV 1822
+2 PLAC Skafsa
+1 BAPM
+2 DATE 26 DEC 1822
+1 DEAT
+2 DATE 1908
+1 FAMC @F3@
+1 FAMS @F4@
+1 NOTE Name in Norway: Gunnar Anundson Lauvvikskos 
+2 CONT Came to America in 1872 at age 50
+0 @I3@ INDI
+1 NAME Aslaug /Torbjornsdtr/
+1 SEX F
+1 BIRT
+2 DATE 1820
+1 DEAT
+2 DATE 1898
+1 FAMC @F5@
+1 FAMS @F4@
+1 NOTE Came to America in 1872 at age 52
+0 @I4@ INDI
+1 NAME Tone /Bandaksli/
+1 SEX F
+1 BIRT
+2 DATE 07 OCT 1846
+1 DEAT
+2 DATE 01 DEC 1915
+1 FAMC @F4@
+1 FAMS @F6@
+1 NOTE Norway Record born 1846 Don Jahr
+2 CONT Grave stone says 1847..
+2 CONT Came to America 1869
+2 CONT Name in Norway Tone Gunnarsdatter 
+0 @I5@ INDI
+1 NAME Nels Grefte /Erickson/
+1 SEX M
+1 BIRT
+2 DATE 08 JUL 1845
+2 PLAC Mattmar Sweden
+1 DEAT
+2 DATE 02 JUL 1924
+2 PLAC Hitterdal MN
+1 BURI
+2 PLAC Salem Cemetary
+1 OCCU Farmer
+1 FAMC @F7@
+1 FAMS @F6@
+1 NOTE Nils Grefte immigrated in 1871 from Sweden
+0 @I6@ INDI
+1 NAME Cora /Erickson/
+1 SEX F
+1 BIRT
+2 DATE 09 JUN 1875
+2 PLAC Hitterdal MN
+1 DEAT
+2 DATE 10 OCT 1926
+1 FAMC @F6@
+1 FAMS @F8@
+0 @I7@ INDI
+1 NAME Edwin /Kittelson/
+1 SEX M
+1 BIRT
+2 DATE 1863
+1 DEAT
+2 DATE 1938
+1 FAMS @F8@
+1 FAMS @F9@
+1 NOTE Edwin Kittelson had 2 children from a previous marriage - Lenora and T
+2 CONC heodore
+2 CONT In 1920 census lists Curtis W Fowler as step child age 6y and Margare
+2 CONC t E Fowler age 3y 
+0 @I8@ INDI
+1 NAME Laura /Kittelson/
+1 SEX F
+1 BIRT
+2 DATE 1903
+1 DEAT
+1 FAMC @F8@
+0 @I9@ INDI
+1 NAME Nina /Kittelson/
+1 SEX F
+1 BIRT
+2 DATE 1906
+1 DEAT
+1 FAMC @F8@
+1 FAMS @F10@
+0 @I10@ INDI
+1 NAME Ray /Manning/
+1 SEX M
+1 DEAT
+1 FAMS @F10@
+0 @I11@ INDI
+1 NAME Nancy /Manning/
+1 SEX F
+1 DEAT
+1 FAMC @F10@
+0 @I12@ INDI
+1 NAME Annette /Erickson/
+1 SEX F
+1 BIRT
+2 DATE 23 FEB 1878
+1 DEAT
+2 DATE 18 DEC 1969
+1 FAMC @F6@
+1 FAMS @F11@
+0 @I13@ INDI
+1 NAME Knute /Bergseid/
+1 SEX M
+1 DEAT
+1 FAMS @F11@
+0 @I14@ INDI
+1 NAME Norman /Bergseid/
+1 SEX M
+1 BIRT
+2 DATE 19 APR 1911
+1 DEAT
+2 DATE 26 JUN 2009
+2 PLAC Hawley Senior Living Hawley MN
+1 FAMC @F11@
+0 @I15@ INDI
+1 NAME Thomas /Bergseid/
+1 SEX M
+1 BIRT
+2 DATE 23 NOV 1913
+1 DEAT
+2 DATE 24 DEC 1985
+1 FAMC @F11@
+1 FAMS @F12@
+1 FAMS @F13@
+0 @I16@ INDI
+1 NAME Marie /Foster/
+1 SEX F
+1 BIRT
+2 DATE 23 JUN 1920
+1 DEAT
+1 FAMS @F12@
+0 @I17@ INDI
+1 NAME Donna /Bergseid/
+1 SEX F
+1 BIRT
+2 DATE 05 AUG 1940
+1 DEAT
+2 DATE 24 DEC 2015
+1 FAMC @F12@
+1 FAMS @F14@
+1 FAMS @F15@
+0 @I18@ INDI
+1 NAME Harriet Belle /Hamilton/
+1 SEX F
+1 BIRT
+2 DATE 09 AUG 1920
+1 DEAT
+2 DATE MAY 1990
+1 FAMS @F13@
+0 @I19@ INDI
+1 NAME Thomas /Bergseid/
+1 SEX M
+1 BIRT
+2 DATE 04 APR 1952
+1 DEAT
+2 DATE 22 MAR 2007
+2 PLAC Greeley CO
+1 FAMC @F13@
+1 FAMS @F16@
+0 @I20@ INDI
+1 NAME Keith /Bergseid/
+1 SEX M
+1 BIRT
+2 DATE 10 MAY 1953
+1 FAMC @F13@
+1 FAMS @F17@
+0 @I21@ INDI
+1 NAME Kenneth /Bergseid/
+1 SEX M
+1 BIRT
+2 DATE 10 NOV 1915
+1 DEAT
+2 DATE 1987
+1 FAMC @F11@
+1 FAMS @F18@
+0 @I22@ INDI
+1 NAME Lorraine /Mickelson/
+1 SEX F
+1 BIRT
+2 DATE 01 NOV 1929
+1 DEAT
+2 DATE 31 DEC 2015
+1 FAMS @F18@
+0 @I23@ INDI
+1 NAME Sherwood Allen /Bergseid/
+1 SEX M
+1 BIRT
+2 DATE 27 NOV 1954
+1 FAMC @F18@
+1 FAMS @F19@
+0 @I24@ INDI
+1 NAME Cheryl /Bergseid/
+1 SEX F
+1 BIRT
+2 DATE 15 OCT 1957
+1 FAMC @F18@
+1 FAMS @F20@
+0 @I25@ INDI
+1 NAME Gena /Erickson/
+1 SEX F
+1 BIRT
+2 DATE 30 APR 1881
+1 DEAT
+2 DATE 08 JAN 1979
+1 FAMC @F6@
+0 @I26@ INDI
+1 NAME Theodore /Erickson/
+1 SEX M
+1 BIRT
+2 DATE 08 FEB 1884
+1 DEAT
+2 DATE 13 MAR 1935
+1 FAMC @F6@
+0 @I27@ INDI
+1 NAME Leonora /Erickson/
+1 SEX F
+1 BIRT
+2 DATE 21 OCT 1886
+1 DEAT
+2 DATE 27 JAN 1927
+1 FAMC @F6@
+1 FAMS @F21@
+0 @I28@ INDI
+1 NAME Edward Alfred /Erickson/
+1 SEX M
+1 BIRT
+2 DATE 22 NOV 1889
+1 DEAT
+2 DATE 11 JUL 1978
+1 FAMC @F6@
+1 FAMS @F22@
+0 @I29@ INDI
+1 NAME Theodore /Bergseid/
+1 SEX M
+1 DEAT
+1 FAMS @F21@
+0 @I30@ INDI
+1 NAME Nedia /Bergseid/
+1 SEX F
+1 BIRT
+2 DATE 27 MAY 1920
+1 DEAT
+2 DATE 23 APR 2016
+1 FAMC @F21@
+1 FAMS @F23@
+0 @I31@ INDI
+1 NAME Laverne /Bergseid/
+1 SEX M
+1 BIRT
+2 DATE 08 OCT 1921
+1 DEAT
+1 FAMC @F21@
+1 FAMS @F24@
+0 @I32@ INDI
+1 NAME Arvid /Bergseid/
+1 SEX M
+1 BIRT
+2 DATE 14 AUG 1923
+1 DEAT
+2 DATE 08 JUN 1980
+1 FAMC @F21@
+1 FAMS @F25@
+0 @I33@ INDI
+1 NAME Allan W. /Lien/
+1 SEX M
+1 BIRT
+2 DATE 1916
+1 DEAT
+2 DATE 1978
+1 FAMS @F23@
+0 @I34@ INDI
+1 NAME Zola /Holland/
+1 SEX F
+1 BIRT
+2 DATE 25 DEC 1926
+1 DEAT
+2 DATE 1989
+1 FAMS @F24@
+0 @I35@ INDI
+1 NAME Kathy /Bergseid/
+1 SEX F
+1 BIRT
+2 DATE 12 OCT 1945
+1 FAMC @F24@
+0 @I36@ INDI
+1 NAME Janice /Bergseid/
+1 SEX F
+1 BIRT
+2 DATE 06 FEB 1948
+1 FAMC @F24@
+1 FAMS @F26@
+0 @I37@ INDI
+1 NAME Kevin /Bergseid/
+1 SEX M
+1 BIRT
+2 DATE 02 MAR 1951
+1 FAMC @F24@
+1 FAMS @F27@
+0 @I38@ INDI
+1 NAME James /Clark/
+1 SEX M
+1 DEAT
+1 FAMS @F26@
+0 @I39@ INDI
+1 NAME Margaret /King/
+1 SEX F
+1 DEAT
+1 FAMS @F27@
+0 @I40@ INDI
+1 NAME Lorene /Bergseid/
+1 SEX F
+1 BIRT
+2 DATE 23 OCT 1952
+1 FAMC @F24@
+1 FAMS @F28@
+0 @I41@ INDI
+1 NAME Donald /Oday/
+1 SEX M
+1 DEAT
+1 FAMS @F28@
+0 @I42@ INDI
+1 NAME Eunice /Haugtvedt/
+1 SEX F
+1 BIRT
+2 DATE 18 APR 1933
+1 DEAT
+1 FAMS @F25@
+0 @I43@ INDI
+1 NAME Tanya /Bergseid/
+1 SEX F
+1 BIRT
+2 DATE 30 OCT 1950
+1 FAMC @F25@
+1 FAMS @F29@
+0 @I44@ INDI
+1 NAME Keith /Bergseid/
+1 SEX M
+1 DEAT
+1 FAMC @F25@
+0 @I45@ INDI
+1 NAME Melanie /Bergseid/
+1 SEX F
+1 DEAT
+1 FAMC @F25@
+1 FAMS @F30@
+0 @I46@ INDI
+1 NAME Wayne /Haslerud/
+1 SEX M
+1 DEAT
+1 FAMS @F29@
+0 @I47@ INDI
+1 NAME James /Odegaard/
+1 SEX M
+1 DEAT
+1 FAMS @F30@
+0 @I48@ INDI
+1 NAME Nels August /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 25 JUL 1939
+2 PLAC Kanakanak Alaska
+1 DEAT
+1 FAMS @F31@
+0 @I49@ INDI
+1 NAME Dorothy Annette /Erickson/
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 1936
+2 PLAC Goose Prairie Clay Cty MN
+1 DEAT
+1 FAMC @F22@
+1 FAMS @F31@
+0 @I50@ INDI
+1 NAME Greta Louise /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 16 JUL 1964
+2 PLAC Fairbanks Alaska
+1 FAMC @F31@
+1 FAMS @F32@
+0 @I51@ INDI
+1 NAME Kullah Nels /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 20 JUN 1966
+2 PLAC Fairbanks Alaska
+1 FAMC @F31@
+1 FAMS @F33@
+0 @I52@ INDI
+1 NAME Everett /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 17 OCT 1971
+2 PLAC Anchorage Alaska
+1 FAMC @F31@
+1 FAMS @F34@
+0 @I53@ INDI
+1 NAME Gudrun Leonora /Grimsrud/
+1 SEX F
+1 BIRT
+2 DATE 15 JAN 1906
+1 DEAT
+2 DATE 22 AUG 2001
+2 PLAC Eventide Home Moorhead MN
+1 FAMC @F2@
+1 FAMS @F22@
+0 @I54@ INDI
+1 NAME Elizabeth Jean /Erickson/
+1 SEX F
+1 BIRT
+2 DATE 27 APR 1937
+2 PLAC Detroit Lakes MN
+1 DEAT
+2 DATE 16 DEC 2006
+2 PLAC Seattle WA
+1 FAMC @F22@
+1 FAMS @F35@
+0 @I55@ INDI
+1 NAME Carl Edward /Erickson/
+1 SEX M
+1 BIRT
+2 DATE 13 JUN 1938
+2 PLAC Detroit Lakes MN
+1 BAPM
+2 PLAC Salem Lutheran Church Hitterdal, MN
+1 DEAT
+1 OCCU Electronics Tech / Computer Programmer
+1 FAMC @F22@
+1 FAMS @F36@
+0 @I56@ INDI
+1 NAME John Stephen /Erickson/
+1 SEX M
+1 BIRT
+2 DATE 09 MAR 1943
+1 FAMC @F22@
+1 FAMS @F37@
+1 NOTE Ordained Aug 28 1983 at Salem Lutheran Church Hitterdal MN
+0 @I57@ INDI
+1 NAME Katherine Mae /Erickson/
+1 SEX F
+1 BIRT
+2 DATE 18 OCT 1945
+1 FAMC @F22@
+0 @I58@ INDI
+1 NAME Robert /Borson/
+1 SEX M
+1 BIRT
+2 DATE 05 OCT 1938
+1 DEAT
+1 FAMS @F35@
+0 @I59@ INDI
+1 NAME Nathan /Borson/
+1 SEX M
+1 BIRT
+2 DATE 09 AUG 1961
+1 FAMC @F35@
+0 @I60@ INDI
+1 NAME Niklas /Borson/
+1 SEX M
+1 BIRT
+2 DATE 23 DEC 1966
+1 FAMC @F35@
+1 FAMS @F38@
+0 @I61@ INDI
+1 NAME Wanda Lee /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 30 NOV 1940
+2 PLAC Hawley, MN
+1 BAPM
+2 DATE 17 FEB 1941
+2 PLAC At home
+1 DEAT
+1 OCCU Receptionist
+1 FAMC @F39@
+1 FAMS @F36@
+0 @I62@ INDI
+1 NAME Stephen Paul /Erickson/
+1 SEX M
+1 BIRT
+2 DATE 05 JAN 1962
+2 PLAC St Lukes Hospital Fargo, ND
+1 FAMC @F36@
+1 FAMS @F40@
+1 FAMS @F41@
+0 @I63@ INDI
+1 NAME Kevin Michael /Erickson/
+1 SEX M
+1 BIRT
+2 DATE 20 APR 1965
+2 PLAC St Lukes Hospital Fargo, ND
+1 FAMC @F36@
+1 FAMS @F42@
+1 FAMS @F43@
+0 @I64@ INDI
+1 NAME Tamara Lynn /Erickson/
+1 SEX F
+1 BIRT
+2 DATE 02 JAN 1968
+2 PLAC St Lukes Hospital Fargo, ND
+1 FAMC @F36@
+1 FAMS @F44@
+0 @I65@ INDI
+1 NAME Joan Marie /Vorderbruggen/
+1 SEX F
+1 BIRT
+2 DATE 16 APR 1961
+1 FAMS @F40@
+0 @I66@ INDI
+1 NAME Kathleen Marie /DesRoches/
+1 SEX F
+1 BIRT
+2 DATE 20 OCT 1964
+1 FAMC @F45@
+1 FAMS @F42@
+0 @I67@ INDI
+1 NAME Elizabeth Marie /Erickson/
+1 SEX F
+1 BIRT
+2 DATE 20 NOV 1988
+1 FAMC @F42@
+0 @I68@ INDI
+1 NAME Emily Ann /Erickson/
+1 SEX F
+1 BIRT
+2 DATE 03 SEP 1991
+1 FAMC @F42@
+0 @I69@ INDI
+1 NAME Allen /Brooks/
+1 SEX M
+1 BIRT
+2 DATE 07 OCT 1967
+1 FAMC @F46@
+1 FAMS @F44@
+0 @I70@ INDI
+1 NAME Susan /Wyatt/
+1 SEX F
+1 DEAT
+1 FAMS @F37@
+0 @I71@ INDI
+1 NAME David Andrew /Erickson/
+1 SEX M
+1 BIRT
+2 DATE 18 JUN 1966
+2 PLAC St Johns Hospital Fargo,ND
+1 DEAT
+2 DATE 01 NOV 2024
+1 FAMC @F37@
+1 FAMS @F47@
+0 @I72@ INDI
+1 NAME Joel James /Erickson/
+1 SEX M
+1 BIRT
+2 DATE 23 JAN 1970
+2 PLAC Frederic WI
+1 FAMC @F37@
+1 FAMS @F48@
+0 @I73@ INDI
+1 NAME Kari Elizabeth /Erickson/
+1 SEX F
+1 BIRT
+2 DATE 03 FEB 1981
+1 FAMC @F37@
+0 @I74@ INDI
+1 NAME Kari /?/
+1 SEX F
+1 DEAT
+1 FAMS @F47@
+0 @I75@ INDI
+1 NAME Jill /?/
+1 SEX F
+1 DEAT
+1 FAMS @F48@
+0 @I76@ INDI
+1 NAME Kelsey Ann /Erickson/
+1 SEX F
+1 BIRT
+2 DATE 11 JUN 1992
+1 FAMC @F48@
+0 @I77@ INDI
+1 NAME Christiana /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 1855
+1 DEAT Y
+1 FAMC @F4@
+1 FAMS @F49@
+1 NOTE Kristiane Gunnarsdatter: Name from Norway record Don Jahr
+2 CONT We know the name as Christiana Anderson
+0 @I78@ INDI
+1 NAME Carrie /Anderson/
+1 SEX F
+1 BIRT
+2 DATE ABT 1852
+1 DEAT Y
+1 FAMC @F4@
+1 FAMS @F50@
+1 NOTE Kari Name from Norway record Don Jajr
+2 CONT Kari Gunnarsdatter
+0 @I79@ INDI
+1 NAME Tom /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 10 AUG 1849
+2 PLAC Kviteseid Telemarken, Norway
+1 BAPM
+2 DATE 08 SEP 1849
+2 PLAC Kviteseid Telemarken, Norway
+1 DEAT
+2 DATE 09 OCT 1901
+1 FAMC @F4@
+1 FAMS @F51@
+1 NOTE Torbjorn b.1849: Name in Norway Census from Don Jahr.
+2 CONT Norway Name Torbjorn Gunderson
+2 CONT He came to the southern part of Minnesota in the early seventies and
+2 CONT homesteaded in Clay County.  The branch line of the Northern Pacific r
+2 CONC ailway
+2 CONT running north from Winnipeg Junction was opened in 1885 and Mr  Anders
+2 CONC on
+2 CONT founded the post office and village of Hitterdal when he put up the fi
+2 CONC rst
+2 CONT building.  He was Hitterdals first postmaster and storekeeper and was
+2 CONT instrumental in giving the town the name it bears.
+2 CONT He had much to do with building and maintaining Synod Lutheran Church.
+0 @I80@ INDI
+1 NAME Anna /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 1863
+1 DEAT
+2 DATE 1937
+1 BURI
+2 PLAC Highland Prairie Cemetery
+1 FAMC @F4@
+1 FAMS @F52@
+1 NOTE Anne: From Norway record Don Jahr
+2 CONT We know the name as Anna Anderson
+2 CONT Norway name Anna Gunnarsdatter
+0 @I81@ INDI
+1 NAME Aslak /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 1860
+1 DEAT
+2 DATE 29 NOV 1943
+2 PLAC Silverton Oregon
+1 FAMC @F4@
+1 NOTE We know the name as Aslak Anderson
+2 CONT Norway name Aslak Gunderson
+0 @I82@ INDI
+1 NAME Anlaug /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 1866
+1 DEAT Y
+1 FAMC @F4@
+1 FAMS @F53@
+1 NOTE Anlaug: from Norway Record Don Jahr
+2 CONT We know the name as Anlaug Anderson
+2 CONT Norway name Anlaug Gunnarsdatter
+0 @I83@ INDI
+1 NAME Anund /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 04 FEB 1858
+1 BAPM
+2 DATE 05 APR 1858
+1 DEAT
+2 DATE 1954
+1 FAMC @F4@
+1 NOTE Anund: Name from Norway Record Don Jahr
+2 CONT We know the name as Anun Anderson
+2 CONT Norway Name Anund Gunderson
+0 @I84@ INDI
+1 NAME Mikkel /Storaaslie/
+1 SEX M
+1 DEAT
+1 FAMS @F49@
+0 @I85@ INDI
+1 NAME Gynther /Storaaslie/
+1 SEX M
+1 DEAT
+1 FAMC @F49@
+0 @I86@ INDI
+1 NAME Hjalmer /Storaaslie/
+1 SEX M
+1 DEAT
+1 FAMC @F49@
+0 @I87@ INDI
+1 NAME George /Storaaslie/
+1 SEX M
+1 DEAT
+1 FAMC @F49@
+0 @I88@ INDI
+1 NAME Alice /Storaaslie/
+1 SEX F
+1 DEAT
+1 FAMC @F49@
+0 @I89@ INDI
+1 NAME Anna /Storaaslie/
+1 SEX F
+1 DEAT
+1 FAMC @F49@
+0 @I90@ INDI
+1 NAME Swen /Olson/
+1 SEX M
+1 DEAT
+1 FAMS @F50@
+0 @I91@ INDI
+1 NAME Minnie /Olson/
+1 SEX F
+1 DEAT
+2 DATE 1973
+1 FAMC @F50@
+1 FAMS @F54@
+0 @I92@ INDI
+1 NAME Olga /Olson/
+1 SEX F
+1 DEAT
+1 FAMC @F50@
+1 FAMS @F55@
+0 @I93@ INDI
+1 NAME Gunder /Olson/
+1 SEX M
+1 BIRT
+2 DATE 25 OCT 1889
+1 DEAT Y
+1 FAMC @F50@
+1 FAMS @F56@
+0 @I94@ INDI
+1 NAME Alex /Olson/
+1 SEX M
+1 BIRT
+2 DATE 24 MAR 1894
+1 DEAT
+2 DATE 26 MAR 1971
+1 FAMC @F50@
+1 FAMS @F57@
+0 @I95@ INDI
+1 NAME Ole /Olson/
+1 SEX M
+1 BIRT
+2 DATE 18
+1 DEAT Y
+1 FAMC @F50@
+0 @I96@ INDI
+1 NAME Peter /Olson/
+1 SEX M
+1 BIRT
+2 DATE 18
+1 DEAT Y
+1 FAMC @F50@
+0 @I97@ INDI
+1 NAME Carl /Olson/
+1 SEX M
+1 BIRT
+2 DATE 18
+1 DEAT Y
+1 FAMC @F50@
+0 @I98@ INDI
+1 NAME Nels /Eide/
+1 SEX M
+1 DEAT
+2 DATE 1971
+1 FAMS @F54@
+0 @I99@ INDI
+1 NAME Norman /Eide/
+1 SEX M
+1 DEAT
+1 FAMC @F54@
+1 FAMS @F58@
+0 @I100@ INDI
+1 NAME Eunice /Eide/
+1 SEX F
+1 DEAT
+1 FAMC @F54@
+0 @I101@ INDI
+1 NAME Pearle /Eide/
+1 SEX F
+1 BIRT
+2 DATE 14
+1 DEAT
+2 DATE 15
+1 FAMC @F54@
+1 FAMS @F59@
+0 @I102@ INDI
+1 NAME Burton /Eide/
+1 SEX M
+1 BIRT
+2 DATE 05 AUG 1921
+1 DEAT
+2 DATE 01 OCT 2015
+1 FAMC @F54@
+1 FAMS @F60@
+0 @I103@ INDI
+1 NAME Allen /Eide/
+1 SEX M
+1 BIRT
+2 DATE 23 DEC 1923
+1 DEAT
+1 FAMC @F54@
+1 FAMS @F61@
+0 @I104@ INDI
+1 NAME Adeline /Jacobson/
+1 SEX F
+1 DEAT
+1 FAMS @F58@
+0 @I105@ INDI
+1 NAME David /Eide/
+1 SEX M
+1 DEAT
+1 FAMC @F58@
+0 @I106@ INDI
+1 NAME Laurie /Eide/
+1 SEX F
+1 DEAT
+1 FAMC @F58@
+1 FAMS @F62@
+0 @I107@ INDI
+1 NAME Kevin /Eide/
+1 SEX M
+1 DEAT
+1 FAMC @F58@
+1 FAMS @F63@
+0 @I108@ INDI
+1 NAME .. /Ihle/
+1 SEX M
+1 DEAT
+1 FAMS @F62@
+0 @I109@ INDI
+1 NAME Lisa /Ihle/
+1 SEX F
+1 DEAT
+1 FAMC @F62@
+0 @I110@ INDI
+1 NAME Vicky ... /?/
+1 SEX F
+1 DEAT
+1 FAMS @F63@
+0 @I111@ INDI
+1 NAME Jacqueline /Eide/
+1 SEX F
+1 DEAT
+1 FAMC @F63@
+0 @I112@ INDI
+1 NAME Richard /Melbye/
+1 SEX M
+1 DEAT
+2 DATE 19
+1 FAMS @F59@
+0 @I113@ INDI
+1 NAME Michael /Melbye/
+1 SEX M
+1 DEAT
+1 FAMC @F59@
+1 FAMS @F64@
+0 @I114@ INDI
+1 NAME Marshall /Melbye/
+1 SEX M
+1 DEAT
+1 FAMC @F59@
+1 FAMS @F65@
+0 @I115@ INDI
+1 NAME Lois /Ann/
+1 SEX F
+1 DEAT
+1 TITL ...
+1 FAMS @F64@
+0 @I116@ INDI
+1 NAME Eric /Melbye/
+1 SEX M
+1 DEAT
+1 FAMC @F64@
+0 @I117@ INDI
+1 NAME Matthew /Melbye/
+1 SEX M
+1 DEAT
+1 FAMC @F64@
+0 @I118@ INDI
+1 NAME Diane ... /?/
+1 SEX F
+1 DEAT
+1 FAMS @F65@
+0 @I119@ INDI
+1 NAME Jessica /Melbye/
+1 SEX F
+1 DEAT
+1 FAMC @F65@
+0 @I120@ INDI
+1 NAME Kristen /Melbye/
+1 SEX F
+1 DEAT
+1 FAMC @F65@
+0 @I121@ INDI
+1 NAME Esther /Temple/
+1 SEX F
+1 BIRT
+2 DATE 12 JUL 1926
+1 DEAT
+2 DATE 28 APR 2016
+1 FAMS @F60@
+0 @I122@ INDI
+1 NAME Linda /Eide/
+1 SEX F
+1 DEAT
+1 FAMC @F60@
+1 FAMS @F66@
+0 @I123@ INDI
+1 NAME Debra /Eide/
+1 SEX F
+1 DEAT
+1 FAMC @F60@
+1 FAMS @F67@
+0 @I124@ INDI
+1 NAME Gwynn /Eide/
+1 SEX F
+1 DEAT
+1 FAMC @F60@
+1 FAMS @F68@
+0 @I125@ INDI
+1 NAME Pamela /Eide/
+1 SEX F
+1 DEAT
+1 FAMC @F60@
+1 FAMS @F69@
+0 @I126@ INDI
+1 NAME Virgil /Eide/
+1 SEX M
+1 DEAT
+1 FAMC @F60@
+1 FAMS @F70@
+0 @I127@ INDI
+1 NAME Bob /Erickson/
+1 SEX M
+1 DEAT
+1 FAMS @F66@
+0 @I128@ INDI
+1 NAME John /Erickson/
+1 SEX M
+1 DEAT
+1 FAMC @F66@
+0 @I129@ INDI
+1 NAME Steven /Erickson/
+1 SEX M
+1 DEAT
+1 FAMC @F66@
+0 @I130@ INDI
+1 NAME Susan /Erickson/
+1 SEX F
+1 DEAT
+1 FAMC @F66@
+0 @I131@ INDI
+1 NAME Michael /Erickson/
+1 SEX M
+1 DEAT
+1 FAMC @F66@
+0 @I132@ INDI
+1 NAME Mylin /Cummings/
+1 SEX M
+1 DEAT
+1 FAMS @F67@
+0 @I133@ INDI
+1 NAME Jeffery /Cummings/
+1 SEX M
+1 DEAT
+1 FAMC @F67@
+0 @I134@ INDI
+1 NAME Cherie /Cummings/
+1 SEX F
+1 DEAT
+1 FAMC @F67@
+0 @I135@ INDI
+1 NAME Barry /Langerud/
+1 SEX M
+1 DEAT
+1 FAMS @F68@
+0 @I136@ INDI
+1 NAME Jessie /Langerud/
+1 SEX M
+1 DEAT
+1 FAMC @F68@
+0 @I137@ INDI
+1 NAME Jamie /Langerud/
+1 SEX F
+1 DEAT
+1 FAMC @F68@
+0 @I138@ INDI
+1 NAME Michael /Rudolf/
+1 SEX M
+1 DEAT
+1 FAMS @F69@
+0 @I139@ INDI
+1 NAME Kelly /Rudolf/
+1 SEX M
+1 DEAT
+1 FAMC @F69@
+0 @I140@ INDI
+1 NAME Kitti /Ruston/
+1 SEX F
+1 DEAT
+1 FAMS @F70@
+0 @I141@ INDI
+1 NAME Darrin /Eide/
+1 SEX M
+1 DEAT
+1 FAMC @F70@
+0 @I142@ INDI
+1 NAME Sylvia /Olson/
+1 SEX F
+1 BIRT
+2 DATE 19 DEC 1934
+1 DEAT
+2 DATE OCT 1982
+1 FAMS @F61@
+0 @I143@ INDI
+1 NAME Robert /Eide/
+1 SEX M
+1 DEAT
+1 FAMC @F61@
+0 @I144@ INDI
+1 NAME Elise /Eide/
+1 SEX F
+1 DEAT
+1 FAMC @F61@
+1 FAMS @F71@
+0 @I145@ INDI
+1 NAME Tom /Eide/
+1 SEX M
+1 DEAT
+1 FAMC @F61@
+0 @I146@ INDI
+1 NAME Peder /Eide/
+1 SEX M
+1 DEAT
+1 FAMC @F61@
+0 @I147@ INDI
+1 NAME Randy /Bemefield/
+1 SEX M
+1 DEAT
+1 FAMS @F71@
+0 @I148@ INDI
+1 NAME Jared Michael /Benefield/
+1 SEX M
+1 DEAT
+1 FAMC @F71@
+0 @I149@ INDI
+1 NAME Peter /Hennen/
+1 SEX M
+1 DEAT
+1 FAMS @F55@
+0 @I150@ INDI
+1 NAME Gena /Iverson/
+1 SEX F
+1 DEAT
+1 FAMS @F56@
+0 @I151@ INDI
+1 NAME Clara Emila /Iverson/
+1 SEX F
+1 BIRT
+2 DATE 14 NOV 1897
+1 DEAT
+2 DATE 14 OCT 1977
+1 FAMS @F57@
+0 @I152@ INDI
+1 NAME Irene Sylvia /Olson/
+1 SEX F
+1 BIRT
+2 DATE 11 JUL 1917
+1 DEAT
+1 FAMC @F57@
+1 FAMS @F72@
+0 @I153@ INDI
+1 NAME ... /Ekstrom/
+1 SEX M
+1 DEAT
+1 FAMS @F72@
+0 @I154@ INDI
+1 NAME Jacob Allen /Brooks/
+1 SEX M
+1 BIRT
+2 DATE 08 NOV 1994
+2 PLAC St Paul MN
+1 FAMC @F44@
+1 FAMS @F463@
+0 @I155@ INDI
+1 NAME Jerry /Brooks/
+1 SEX M
+1 DEAT
+1 FAMS @F46@
+0 @I156@ INDI
+1 NAME Linda ....... /?/
+1 SEX F
+1 DEAT
+1 FAMS @F46@
+0 @I157@ INDI
+1 NAME Faye Ellen /Northquest/
+1 SEX F
+1 BIRT
+2 DATE 02 OCT 1960
+1 FAMS @F19@
+0 @I158@ INDI
+1 NAME Chad /States/
+1 SEX M
+1 BIRT
+2 DATE 02 AUG 1954
+1 FAMS @F20@
+0 @I159@ INDI
+1 NAME Tyler Andrew /States/
+1 SEX M
+1 BIRT
+2 DATE 26 MAY 1990
+1 FAMC @F20@
+0 @I160@ INDI
+1 NAME Yoshiyuki /Goto/
+1 SEX M
+1 BIRT
+2 DATE 01 DEC 1958
+2 PLAC Akita Japan
+1 FAMS @F32@
+0 @I161@ INDI
+1 NAME Ayanna Yuki /Goto/
+1 SEX F
+1 BIRT
+2 DATE 04 MAR 1993
+2 PLAC Anchorage Alaska
+1 FAMC @F32@
+0 @I162@ INDI
+1 NAME Kylie Marie /Erickson/
+1 SEX F
+1 BIRT
+2 DATE 24 APR 1992
+1 FAMC @F48@
+0 @I163@ INDI
+1 NAME Connor John /Erickson/
+1 SEX M
+1 BIRT
+2 DATE 27 DEC 1995
+2 PLAC Fargo ND
+1 FAMC @F42@
+0 @I164@ INDI
+1 NAME Ellen Sophie /Johnson/
+1 SEX F
+1 BIRT
+2 DATE 24 NOV 1861
+1 DEAT
+2 DATE 31 DEC 1929
+1 FAMS @F51@
+0 @I165@ INDI
+1 NAME Theodore /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 1882
+1 DEAT Y
+1 FAMC @F51@
+1 FAMS @F73@
+0 @I166@ INDI
+1 NAME Olive /Anderson/
+1 SEX F
+1 DEAT
+1 FAMC @F73@
+1 FAMS @F74@
+0 @I167@ INDI
+1 NAME Milton /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 18 MAY 1911
+1 DEAT
+2 DATE 06 FEB 1987
+1 FAMC @F73@
+1 FAMS @F75@
+0 @I168@ INDI
+1 NAME Bertina /Mickelson/
+1 SEX F
+1 DEAT
+1 FAMS @F73@
+0 @I169@ INDI
+1 NAME Helen /Moe/
+1 SEX F
+1 BIRT
+2 DATE 20 FEB 1919
+1 DEAT
+2 DATE 12 NOV 1969
+1 FAMS @F75@
+0 @I170@ INDI
+1 NAME Louise /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 02 JUL 1942
+1 DEAT
+1 FAMC @F75@
+1 FAMS @F76@
+0 @I171@ INDI
+1 NAME Jane /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 19 APR 1944
+1 FAMC @F75@
+1 FAMS @F77@
+0 @I172@ INDI
+1 NAME Donald /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 27 JUL 1948
+1 FAMC @F75@
+1 FAMS @F78@
+0 @I173@ INDI
+1 NAME Eileen /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 24 AUG 1950
+1 DEAT
+2 DATE 02 NOV 1985
+1 FAMC @F75@
+1 FAMS @F79@
+0 @I174@ INDI
+1 NAME Pauline /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 03 MAY 1956
+1 FAMC @F75@
+0 @I175@ INDI
+1 NAME Betty /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 15 MAR 1959
+1 FAMC @F75@
+1 FAMS @F80@
+0 @I176@ INDI
+1 NAME Dennis /Arneson/
+1 SEX M
+1 BIRT
+2 DATE 04 SEP 1940
+1 DEAT
+1 FAMS @F76@
+0 @I177@ INDI
+1 NAME Sheryl /Arneson/
+1 SEX F
+1 BIRT
+2 DATE 19 APR 1965
+1 FAMC @F76@
+0 @I178@ INDI
+1 NAME Steven /Arneson/
+1 SEX M
+1 BIRT
+2 DATE 20 APR 1967
+1 FAMC @F76@
+0 @I179@ INDI
+1 NAME Charles /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 04 DEC 1935
+1 DEAT
+2 DATE (JUN 10 2002)
+1 FAMC @F81@
+1 FAMS @F77@
+0 @I180@ INDI
+1 NAME Lisa /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 14 MAR 1964
+1 FAMC @F77@
+1 FAMS @F82@
+0 @I181@ INDI
+1 NAME Melanie /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 09 JUL 1966
+1 FAMC @F77@
+1 FAMS @F83@
+0 @I182@ INDI
+1 NAME Bill /Lewis/
+1 SEX M
+1 DEAT
+1 FAMS @F74@
+0 @I183@ INDI
+1 NAME Duane /Nokelby/
+1 SEX M
+1 BIRT
+2 DATE 26 JUL 1960
+1 FAMS @F82@
+0 @I184@ INDI
+1 NAME Michael /Nokelby/
+1 SEX M
+1 BIRT
+2 DATE 29 APR 1987
+1 FAMC @F82@
+0 @I185@ INDI
+1 NAME ---- /Kjos/
+1 SEX M
+1 DEAT
+1 FAMS @F83@
+0 @I186@ INDI
+1 NAME Sheryl /Johnson/
+1 SEX F
+1 BIRT
+2 DATE 13 SEP 1949
+1 FAMS @F78@
+0 @I187@ INDI
+1 NAME Christi /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 27 JUN 1973
+1 FAMC @F78@
+0 @I188@ INDI
+1 NAME Jarred /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 13 MAR 1977
+1 FAMC @F78@
+0 @I189@ INDI
+1 NAME Alicia /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 18 APR 1985
+1 FAMC @F78@
+0 @I190@ INDI
+1 NAME Brian /Johnson/
+1 SEX M
+1 BIRT
+2 DATE 31 JUL 1945
+1 FAMS @F79@
+0 @I191@ INDI
+1 NAME Matthew /Johnson/
+1 SEX M
+1 BIRT
+2 DATE 19 FEB 1969
+1 FAMC @F79@
+0 @I192@ INDI
+1 NAME Lori /Johnson/
+1 SEX F
+1 BIRT
+2 DATE 21 APR 1971
+1 FAMC @F79@
+0 @I193@ INDI
+1 NAME Dan /Bullert/
+1 SEX M
+1 BIRT
+2 DATE 04 JAN 1952
+1 FAMS @F80@
+0 @I194@ INDI
+1 NAME David /Bullert/
+1 SEX M
+1 BIRT
+2 DATE 27 FEB 1979
+1 FAMC @F80@
+0 @I195@ INDI
+1 NAME Dannon /Bullert/
+1 SEX F
+1 BIRT
+2 DATE 09 OCT 1984
+1 FAMC @F80@
+0 @I196@ INDI
+1 NAME Juel /Anderson/
+1 SEX M
+1 DEAT
+1 FAMC @F73@
+1 FAMS @F84@
+0 @I197@ INDI
+1 NAME Anne /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 1885
+1 DEAT Y
+1 FAMC @F51@
+1 FAMS @F85@
+0 @I198@ INDI
+1 NAME Gilbert /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 1890
+1 DEAT Y
+1 FAMC @F51@
+1 FAMS @F86@
+0 @I199@ INDI
+1 NAME Olaf /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 1892
+1 DEAT Y
+1 FAMC @F51@
+1 FAMS @F87@
+0 @I200@ INDI
+1 NAME Tina /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 1895
+1 DEAT Y
+1 FAMC @F51@
+1 FAMS @F88@
+0 @I201@ INDI
+1 NAME Martha /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 20 APR 1898
+1 DEAT
+2 DATE 21 JUN 1982
+1 FAMC @F51@
+1 FAMS @F89@
+0 @I202@ INDI
+1 NAME Susan /Anderson/
+1 SEX F
+1 DEAT
+1 FAMC @F51@
+1 FAMS @F90@
+0 @I203@ INDI
+1 NAME Ethel /Heirass/
+1 SEX F
+1 DEAT
+1 FAMS @F84@
+0 @I204@ INDI
+1 NAME Judith /Anderson/
+1 SEX F
+1 DEAT
+1 FAMC @F84@
+1 FAMS @F91@
+0 @I205@ INDI
+1 NAME John /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 15 FEB 1942
+1 DEAT
+2 DATE 06 JAN 2023
+1 FAMC @F84@
+1 FAMS @F92@
+0 @I206@ INDI
+1 NAME Susan /Anderson/
+1 SEX F
+1 DEAT
+1 FAMC @F84@
+1 FAMS @F93@
+0 @I207@ INDI
+1 NAME Edmund /Anderson/
+1 SEX M
+1 DEAT
+1 FAMC @F84@
+1 FAMS @F94@
+0 @I208@ INDI
+1 NAME Joe /Oistad/
+1 SEX M
+1 DEAT
+1 FAMS @F91@
+0 @I209@ INDI
+1 NAME Jeffery /Oistad/
+1 SEX M
+1 DEAT
+1 FAMC @F91@
+0 @I210@ INDI
+1 NAME Joel /Oistad/
+1 SEX M
+1 DEAT
+1 FAMC @F91@
+0 @I211@ INDI
+1 NAME Jonathan /Oistad/
+1 SEX M
+1 DEAT
+1 FAMC @F91@
+0 @I212@ INDI
+1 NAME Julie /Gibson/
+1 SEX F
+1 DEAT
+1 FAMS @F92@
+0 @I213@ INDI
+1 NAME Carrie /Anderson/
+1 SEX F
+1 DEAT
+1 FAMC @F92@
+0 @I214@ INDI
+1 NAME Christian /Anderson/
+1 SEX M
+1 DEAT
+1 FAMC @F92@
+0 @I215@ INDI
+1 NAME Adam /Anderson/
+1 SEX M
+1 DEAT
+1 FAMC @F92@
+0 @I216@ INDI
+1 NAME Kenneth /Beske/
+1 SEX M
+1 DEAT
+1 FAMS @F93@
+0 @I217@ INDI
+1 NAME Dan /Beske/
+1 SEX M
+1 DEAT
+1 FAMC @F93@
+0 @I218@ INDI
+1 NAME Jeremy /Beske/
+1 SEX M
+1 DEAT
+1 FAMC @F93@
+0 @I219@ INDI
+1 NAME Colleen /Lunde/
+1 SEX F
+1 DEAT
+1 FAMS @F94@
+0 @I220@ INDI
+1 NAME Seth /Anderson/
+1 SEX M
+1 DEAT
+1 FAMC @F94@
+1 FAMS @F95@
+0 @I221@ INDI
+1 NAME Theodore /Hammer/
+1 SEX M
+1 DEAT
+1 FAMS @F85@
+0 @I222@ INDI
+1 NAME Evelyn /Hammer/
+1 SEX F
+1 DEAT
+1 FAMC @F85@
+1 FAMS @F96@
+0 @I223@ INDI
+1 NAME Frances /Hammer/
+1 SEX M
+1 DEAT
+1 FAMC @F85@
+0 @I224@ INDI
+1 NAME Tom /Hammer/
+1 SEX M
+1 DEAT
+1 FAMC @F85@
+0 @I225@ INDI
+1 NAME Carl /Lokken/
+1 SEX M
+1 DEAT
+1 FAMS @F96@
+0 @I226@ INDI
+1 NAME Anna /Buhaug/
+1 SEX F
+1 DEAT
+1 FAMS @F86@
+0 @I227@ INDI
+1 NAME Grace /Anderson/
+1 SEX F
+1 DEAT
+1 FAMC @F86@
+0 @I228@ INDI
+1 NAME Charles /Anderson/
+1 SEX M
+1 DEAT
+1 FAMC @F86@
+0 @I229@ INDI
+1 NAME Stella /Hammer/
+1 SEX F
+1 DEAT
+1 FAMS @F87@
+0 @I230@ INDI
+1 NAME Erland /Anderson/
+1 SEX M
+1 DEAT
+1 FAMC @F87@
+0 @I231@ INDI
+1 NAME Norris /Anderson/
+1 SEX M
+1 DEAT
+1 FAMC @F87@
+0 @I232@ INDI
+1 NAME Lavonne /Anderson/
+1 SEX F
+1 DEAT
+1 FAMC @F87@
+1 FAMS @F97@
+0 @I233@ INDI
+1 NAME Richard /McCully/
+1 SEX M
+1 DEAT
+1 FAMS @F97@
+0 @I234@ INDI
+1 NAME Oscar /Hillstead/
+1 SEX M
+1 DEAT
+2 DATE 1952
+1 FAMS @F88@
+0 @I235@ INDI
+1 NAME James /Hillstead/
+1 SEX M
+1 DEAT
+1 FAMC @F88@
+1 FAMS @F98@
+0 @I236@ INDI
+1 NAME Earl /Hillstead/
+1 SEX M
+1 DEAT
+2 DATE 17 JUN 2017
+1 FAMC @F88@
+1 FAMS @F99@
+0 @I237@ INDI
+1 NAME Robert /Hillstead/
+1 SEX M
+1 DEAT
+1 FAMC @F88@
+1 FAMS @F100@
+0 @I238@ INDI
+1 NAME Elizabeth /_____-/
+1 SEX F
+1 DEAT
+1 FAMS @F98@
+0 @I239@ INDI
+1 NAME Kelly /Hillstead/
+1 SEX M
+1 DEAT
+1 FAMC @F98@
+0 @I240@ INDI
+1 NAME Tamara /Hillstead/
+1 SEX F
+1 DEAT
+1 FAMC @F98@
+0 @I241@ INDI
+1 NAME Marcy Jean /Heirass/
+1 SEX F
+1 DEAT
+1 FAMS @F99@
+0 @I242@ INDI
+1 NAME Julie /Hillstead/
+1 SEX F
+1 BIRT
+2 DATE 1953
+1 FAMC @F99@
+1 FAMS @F101@
+0 @I243@ INDI
+1 NAME Shelly /Hillstead/
+1 SEX F
+1 BIRT
+2 DATE 1955
+1 FAMC @F99@
+1 FAMS @F102@
+1 FAMS @F103@
+0 @I244@ INDI
+1 NAME Ross /Hillstead/
+1 SEX M
+1 BIRT
+2 DATE 1959
+1 FAMC @F99@
+1 FAMS @F104@
+0 @I245@ INDI
+1 NAME Jerod /Coulter/
+1 SEX M
+1 DEAT
+1 FAMS @F101@
+0 @I246@ INDI
+1 NAME --- /Keithly/
+1 SEX M
+1 DEAT
+1 FAMS @F102@
+0 @I247@ INDI
+1 NAME Gabriel /Keithley/
+1 SEX M
+1 DEAT
+1 FAMC @F102@
+0 @I248@ INDI
+1 NAME Myron /Moteberg/
+1 SEX M
+1 DEAT
+1 FAMS @F103@
+0 @I249@ INDI
+1 NAME Christine /Stadum/
+1 SEX F
+1 DEAT
+1 FAMS @F104@
+0 @I250@ INDI
+1 NAME Kelsie Leigh /Hillstead/
+1 SEX F
+1 DEAT
+1 FAMC @F104@
+0 @I251@ INDI
+1 NAME Oralee /Hillstead/
+1 SEX M
+1 BIRT
+2 DATE 1964
+1 DEAT
+2 DATE 1964
+1 FAMC @F99@
+0 @I252@ INDI
+1 NAME Jean /?/
+1 SEX F
+1 DEAT
+1 FAMS @F100@
+0 @I253@ INDI
+1 NAME Jon /Hillstead/
+1 SEX M
+1 DEAT
+1 FAMC @F100@
+0 @I254@ INDI
+1 NAME Elizabeth /Hillstead/
+1 SEX F
+1 DEAT
+1 FAMC @F100@
+0 @I255@ INDI
+1 NAME Kristen /Hillstead/
+1 SEX F
+1 DEAT
+1 FAMC @F100@
+0 @I256@ INDI
+1 NAME Clifford /Hitterdal/
+1 SEX M
+1 BIRT
+2 DATE 05 MAR 1896
+1 DEAT
+2 DATE (21 NOV)
+1 FAMS @F89@
+0 @I257@ INDI
+1 NAME Duane /Hitterdal/
+1 SEX M
+1 BIRT
+2 DATE 28 FEB 1930
+1 DEAT
+2 DATE 28 MAY 1982
+1 FAMC @F89@
+1 FAMS @F105@
+0 @I258@ INDI
+1 NAME Ronald /Hitterdal/
+1 SEX M
+1 BIRT
+2 DATE 28 MAR 1935
+1 DEAT
+2 DATE 14 DEC 2016
+1 FAMC @F89@
+1 FAMS @F106@
+0 @I259@ INDI
+1 NAME Donna /Hitterdal/
+1 SEX F
+1 BIRT
+2 DATE 15 DEC 1937
+1 DEAT
+2 DATE 15 AUG 2017
+1 FAMC @F89@
+1 FAMS @F107@
+1 FAMS @F108@
+0 @I260@ INDI
+1 NAME Connie /Hitterdal/
+1 SEX F
+1 BIRT
+2 DATE 1942
+1 DEAT
+1 FAMC @F89@
+1 FAMS @F109@
+0 @I261@ INDI
+1 NAME Delphine /Sather/
+1 SEX F
+1 BIRT
+2 DATE 15 FEB 1934
+1 DEAT
+1 FAMS @F105@
+0 @I262@ INDI
+1 NAME Diane /Hitterdal/
+1 SEX F
+1 DEAT
+1 FAMC @F105@
+1 FAMS @F110@
+0 @I263@ INDI
+1 NAME Denise /Hitterdal/
+1 SEX F
+1 DEAT
+1 FAMC @F105@
+1 FAMS @F111@
+0 @I264@ INDI
+1 NAME Doreen /Hitterdal/
+1 SEX F
+1 DEAT
+1 FAMC @F105@
+1 FAMS @F112@
+0 @I265@ INDI
+1 NAME Darnell /Hitterdal/
+1 SEX F
+1 DEAT
+1 FAMC @F105@
+1 FAMS @F113@
+0 @I266@ INDI
+1 NAME Dawn /Hitterdal/
+1 SEX F
+1 DEAT
+1 FAMC @F105@
+0 @I267@ INDI
+1 NAME Dean /Hitterdal/
+1 SEX M
+1 DEAT
+1 FAMC @F105@
+1 FAMS @F114@
+0 @I268@ INDI
+1 NAME Craig /Baker/
+1 SEX M
+1 DEAT
+1 FAMS @F110@
+0 @I269@ INDI
+1 NAME Paul /Baker/
+1 SEX M
+1 DEAT
+1 FAMC @F110@
+0 @I270@ INDI
+1 NAME Rachel /Baker/
+1 SEX F
+1 DEAT
+1 FAMC @F110@
+0 @I271@ INDI
+1 NAME Ron /Holznagel/
+1 SEX M
+1 DEAT
+1 FAMS @F111@
+0 @I272@ INDI
+1 NAME Damian /Holznagel/
+1 SEX M
+1 DEAT
+1 FAMC @F111@
+0 @I273@ INDI
+1 NAME Diedra /Holznagel/
+1 SEX F
+1 DEAT
+1 FAMC @F111@
+0 @I274@ INDI
+1 NAME Gene /Sather/
+1 SEX M
+1 DEAT
+1 FAMS @F112@
+0 @I275@ INDI
+1 NAME Angela /Sather/
+1 SEX F
+1 DEAT
+1 FAMC @F112@
+0 @I276@ INDI
+1 NAME Carmen /Sather/
+1 SEX F
+1 DEAT
+1 FAMC @F112@
+0 @I277@ INDI
+1 NAME Christine /Sather/
+1 SEX F
+1 DEAT
+1 FAMC @F112@
+0 @I278@ INDI
+1 NAME Larry /Halstad/
+1 SEX M
+1 DEAT
+1 FAMS @F113@
+0 @I279@ INDI
+1 NAME Amber /Halstad/
+1 SEX F
+1 DEAT
+1 FAMC @F113@
+0 @I280@ INDI
+1 NAME _____ /Molstre/
+1 SEX F
+1 DEAT
+1 FAMS @F114@
+0 @I281@ INDI
+1 NAME Joanne /Nord/
+1 SEX F
+1 BIRT
+2 DATE 19 FEB 1938
+1 DEAT
+1 FAMS @F106@
+0 @I282@ INDI
+1 NAME Mark /Hitterdal/
+1 SEX M
+1 BIRT
+2 DATE 1962
+1 FAMC @F106@
+0 @I283@ INDI
+1 NAME Matthew /Hitterdal/
+1 SEX M
+1 BIRT
+2 DATE 1963
+1 FAMC @F106@
+0 @I284@ INDI
+1 NAME Brent /Hitterdal/
+1 SEX M
+1 BIRT
+2 DATE 1969
+1 FAMC @F106@
+1 FAMS @F115@
+0 @I285@ INDI
+1 NAME Sara /Hitterdal/
+1 SEX F
+1 BIRT
+2 DATE 1971
+1 FAMC @F106@
+0 @I286@ INDI
+1 NAME John /Olson/
+1 SEX M
+1 DEAT
+1 FAMS @F107@
+0 @I287@ INDI
+1 NAME Lowell /Erickson/
+1 SEX M
+1 DEAT
+1 FAMS @F109@
+0 @I288@ INDI
+1 NAME Herman /Mortenson/
+1 SEX M
+1 DEAT
+1 FAMS @F90@
+0 @I289@ INDI
+1 NAME Sheldon /Mortenson/
+1 SEX M
+1 BIRT
+2 DATE 1925
+2 PLAC Hitterdal MN
+1 DEAT
+2 DATE 10 AUG 2010
+1 FAMC @F90@
+1 FAMS @F116@
+0 @I290@ INDI
+1 NAME Muriel /Mortenson/
+1 SEX F
+1 DEAT
+1 FAMC @F90@
+0 @I291@ INDI
+1 NAME Torger /Hegland/
+1 SEX M
+1 BIRT
+2 DATE 10 AUG 1855
+1 DEAT
+2 DATE 06 MAY 1934
+1 FAMS @F52@
+0 @I292@ INDI
+1 NAME Martin /Hegland/
+1 SEX M
+1 BIRT
+2 DATE 07 SEP 1891
+1 DEAT Y
+1 FAMC @F52@
+0 @I293@ INDI
+1 NAME Almer /Hegland/
+1 SEX M
+1 BIRT
+2 DATE 16 JUL 1895
+1 DEAT Y
+1 FAMC @F52@
+0 @I294@ INDI
+1 NAME Arnt /Hegland/
+1 SEX M
+1 BIRT
+2 DATE 07 MAR 1898
+1 DEAT Y
+1 FAMC @F52@
+0 @I295@ INDI
+1 NAME Gerhard /Hegland/
+1 SEX M
+1 BIRT
+2 DATE JAN 1900
+1 DEAT Y
+1 FAMC @F52@
+0 @I296@ INDI
+1 NAME Susanna /Hegland/
+1 SEX F
+1 BIRT
+2 DATE 04 MAR 1888
+1 DEAT
+2 DATE 1964
+1 BURI
+2 PLAC Highland Prairie Cemetry Filmore Cty MN
+1 FAMC @F52@
+0 @I297@ INDI
+1 NAME Alethe /Hegland/
+1 SEX F
+1 BIRT
+2 DATE 10 JAN 1890
+1 DEAT Y
+1 FAMC @F52@
+0 @I298@ INDI
+1 NAME Gena /Hegland/
+1 SEX F
+1 BIRT
+2 DATE 10 MAY 1893
+1 DEAT Y
+1 FAMC @F52@
+0 @I299@ INDI
+1 NAME Marie /Hegland/
+1 SEX F
+1 BIRT
+2 DATE ABT 1904
+1 DEAT
+1 FAMC @F52@
+0 @I300@ INDI
+1 NAME Amund /Torgerson/
+1 SEX M
+1 DEAT
+1 FAMS @F53@
+0 @I301@ INDI
+1 NAME Gerhard /Torgerson/
+1 SEX M
+1 DEAT
+1 FAMC @F53@
+0 @I302@ INDI
+1 NAME Albert /Torgerson/
+1 SEX M
+1 DEAT
+1 FAMC @F53@
+0 @I303@ INDI
+1 NAME Janet /Torgerson/
+1 SEX F
+1 DEAT
+1 FAMC @F53@
+0 @I304@ INDI
+1 NAME Arnold /Torgerson/
+1 SEX M
+1 DEAT
+1 FAMC @F53@
+0 @I305@ INDI
+1 NAME Erik /Johnson/
+1 SEX M
+1 DEAT
+1 FAMS @F7@
+0 @I306@ INDI
+1 NAME Carin /Johnson/
+1 SEX F
+1 DEAT
+2 DATE 1891
+1 FAMS @F7@
+0 @I307@ INDI
+1 NAME Jon /Erickson/
+1 SEX M
+1 BIRT
+2 DATE 01 OCT 1836
+1 DEAT
+2 DATE 24 JUL 1906
+1 FAMC @F7@
+1 FAMS @F117@
+0 @I308@ INDI
+1 NAME Matts /Erickson/
+1 SEX M
+1 BIRT
+2 DATE 01 MAY 1839
+1 DEAT
+2 DATE 22 JUL 1913
+1 FAMC @F7@
+1 FAMS @F118@
+0 @I309@ INDI
+1 NAME Marta /Nilsdotter/
+1 SEX F
+1 BIRT
+2 DATE 08 NOV 1835
+1 DEAT
+2 DATE 1914
+1 FAMS @F117@
+0 @I310@ INDI
+1 NAME Eric Jonsson /By/
+1 SEX M
+1 BIRT
+2 DATE 29 SEP 1864
+1 DEAT Y
+1 FAMC @F117@
+0 @I311@ INDI
+1 NAME Nils Jonsson /Lund/
+1 SEX M
+1 BIRT
+2 DATE 23 SEP 1866
+1 DEAT Y
+1 FAMC @F117@
+0 @I312@ INDI
+1 NAME Karin /x/
+1 SEX F
+1 BIRT
+2 DATE 11 NOV 1868
+1 DEAT Y
+1 FAMC @F117@
+1 FAMS @F119@
+0 @I313@ INDI
+1 NAME John Jonsson /Svedin/
+1 SEX M
+1 BIRT
+2 DATE 15 SEP 1873
+1 DEAT Y
+1 FAMC @F117@
+0 @I314@ INDI
+1 NAME Anna /x/
+1 SEX F
+1 BIRT
+2 DATE 16 MAY 1876
+1 DEAT Y
+1 FAMC @F117@
+1 FAMS @F120@
+0 @I315@ INDI
+1 NAME Anders Jonsson /Svedler/
+1 SEX M
+1 BIRT
+2 DATE 30 NOV 1880
+1 DEAT Y
+1 FAMC @F117@
+0 @I316@ INDI
+1 NAME Anderson /?/
+1 SEX M
+1 DEAT
+1 FAMS @F119@
+0 @I317@ INDI
+1 NAME Svan /?/
+1 SEX M
+1 DEAT
+1 FAMS @F120@
+0 @I318@ INDI
+1 NAME Agnes /Olofsdotter/
+1 SEX F
+1 BIRT
+2 DATE 19 JUL 1842
+1 DEAT
+2 DATE 1903
+1 FAMS @F118@
+0 @I319@ INDI
+1 NAME Erik /Mattson/
+1 SEX M
+1 BIRT
+2 DATE 02 FEB 1870
+1 DEAT
+2 DATE 1903
+1 FAMC @F118@
+1 FAMS @F121@
+0 @I320@ INDI
+1 NAME Agnes /x/
+1 SEX F
+1 DEAT
+1 FAMC @F121@
+1 FAMS @F122@
+0 @I321@ INDI
+1 NAME Karin /x/
+1 SEX F
+1 DEAT
+1 FAMC @F121@
+1 FAMS @F123@
+0 @I322@ INDI
+1 NAME Rut /x/
+1 SEX F
+1 DEAT
+1 FAMC @F121@
+1 FAMS @F124@
+0 @I323@ INDI
+1 NAME Johansson /?/
+1 SEX M
+1 DEAT
+1 FAMS @F122@
+0 @I324@ INDI
+1 NAME Nyberg /?/
+1 SEX M
+1 DEAT
+1 FAMS @F123@
+0 @I325@ INDI
+1 NAME Uhlin /?/
+1 SEX M
+1 DEAT
+1 FAMS @F124@
+0 @I326@ INDI
+1 NAME Karen /x/
+1 SEX F
+1 BIRT
+2 DATE 20 SEP 1871
+1 DEAT Y
+1 FAMC @F118@
+1 FAMS @F125@
+0 @I327@ INDI
+1 NAME Olaf /Mattson/
+1 SEX M
+1 BIRT
+2 DATE 05 MAR 1873
+1 DEAT
+2 DATE 11 OCT 1956
+2 PLAC 1
+1 FAMC @F118@
+1 FAMS @F126@
+0 @I328@ INDI
+1 NAME Kristina /Mattson/
+1 SEX F
+1 BIRT
+2 DATE 14 JAN 1875
+1 DEAT
+2 DATE 30 NOV 1915
+1 FAMC @F118@
+1 FAMS @F127@
+0 @I329@ INDI
+1 NAME Jon /Mattson/
+1 SEX M
+1 BIRT
+2 DATE 10 JAN 1877
+1 DEAT
+2 DATE 06 MAR 1966
+1 FAMC @F118@
+1 FAMS @F128@
+0 @I330@ INDI
+1 NAME Anna /Mattson/
+1 SEX F
+1 BIRT
+2 DATE 04 DEC 1878
+1 DEAT
+2 DATE 13 AUG 1918
+1 FAMC @F118@
+1 FAMS @F129@
+0 @I331@ INDI
+1 NAME Matts /Mattson/
+1 SEX M
+1 BIRT
+2 DATE 16 NOV 1880
+1 DEAT Y
+1 FAMC @F118@
+1 FAMS @F130@
+0 @I332@ INDI
+1 NAME Magdalena /Mattson/
+1 SEX F
+1 BIRT
+2 DATE 17 MAY 1884
+1 DEAT Y
+1 FAMC @F118@
+0 @I333@ INDI
+1 NAME Unknown /?/
+1 SEX F
+1 DEAT
+1 FAMS @F121@
+0 @I334@ INDI
+1 NAME Karlson /?/
+1 SEX M
+1 DEAT
+1 FAMS @F125@
+0 @I335@ INDI
+1 NAME Signe /Karlsson/
+1 SEX F
+1 DEAT
+1 FAMC @F125@
+1 FAMS @F131@
+0 @I336@ INDI
+1 NAME Agnes /Karlsson/
+1 SEX F
+1 DEAT
+1 FAMC @F125@
+0 @I337@ INDI
+1 NAME Karl /Karlsson/
+1 SEX M
+1 DEAT
+1 FAMC @F125@
+0 @I338@ INDI
+1 NAME Lundberg /?/
+1 SEX M
+1 DEAT
+1 FAMS @F131@
+0 @I339@ INDI
+1 NAME Unknown /?/
+1 SEX F
+1 DEAT
+1 FAMS @F126@
+0 @I340@ INDI
+1 NAME Matts /Mattson/
+1 SEX M
+1 BIRT
+2 DATE 11 APR 1911
+1 DEAT
+2 DATE 26 OCT 1986
+1 FAMC @F126@
+0 @I341@ INDI
+1 NAME Elsa /Mattson/
+1 SEX F
+1 BIRT
+2 DATE 11 FEB 1912
+1 DEAT
+1 FAMC @F126@
+0 @I342@ INDI
+1 NAME Ellen /Mattson/
+1 SEX F
+1 BIRT
+2 DATE 08 JUL 1914
+1 DEAT
+1 FAMC @F126@
+1 FAMS @F132@
+0 @I343@ INDI
+1 NAME Erik /Mattson/
+1 SEX M
+1 BIRT
+2 DATE 12 JAN 1917
+1 DEAT
+1 FAMC @F126@
+1 FAMS @F133@
+0 @I344@ INDI
+1 NAME Olle /Mattson/
+1 SEX M
+1 BIRT
+2 DATE 03 NOV 1920
+1 DEAT
+1 FAMC @F126@
+0 @I345@ INDI
+1 NAME Jon /Nilsson/
+1 SEX M
+1 DEAT
+1 FAMS @F132@
+0 @I346@ INDI
+1 NAME Byden /?/
+1 SEX M
+1 DEAT
+1 FAMS @F127@
+0 @I347@ INDI
+1 NAME Ingeborg /Byden/
+1 SEX F
+1 DEAT
+1 FAMC @F127@
+0 @I348@ INDI
+1 NAME Olga /Byden/
+1 SEX F
+1 DEAT
+1 FAMC @F127@
+1 FAMS @F134@
+0 @I349@ INDI
+1 NAME Viola /Byden/
+1 SEX F
+1 DEAT
+1 FAMC @F127@
+1 FAMS @F135@
+0 @I350@ INDI
+1 NAME Anna /Byden/
+1 SEX F
+1 DEAT
+1 FAMC @F127@
+1 FAMS @F136@
+0 @I351@ INDI
+1 NAME Betty /Byden/
+1 SEX F
+1 DEAT
+1 FAMC @F127@
+1 FAMS @F137@
+0 @I352@ INDI
+1 NAME Stina /Byden/
+1 SEX F
+1 DEAT
+1 FAMC @F127@
+1 FAMS @F138@
+0 @I353@ INDI
+1 NAME Svedberg /?/
+1 SEX M
+1 DEAT
+1 FAMS @F134@
+0 @I354@ INDI
+1 NAME Nilsson /?/
+1 SEX M
+1 DEAT
+1 FAMS @F135@
+0 @I355@ INDI
+1 NAME Ksrlsson /?/
+1 SEX M
+1 DEAT
+1 FAMS @F136@
+0 @I356@ INDI
+1 NAME Indal /?/
+1 SEX M
+1 DEAT
+1 FAMS @F137@
+0 @I357@ INDI
+1 NAME Sellgren /?/
+1 SEX M
+1 DEAT
+1 FAMS @F138@
+0 @I358@ INDI
+1 NAME Unknown /?/
+1 SEX F
+1 DEAT
+1 FAMS @F128@
+0 @I359@ INDI
+1 NAME Elin /Mattson/
+1 SEX F
+1 DEAT
+1 FAMC @F128@
+0 @I360@ INDI
+1 NAME Erik /Mattson/
+1 SEX M
+1 DEAT
+1 FAMC @F128@
+0 @I361@ INDI
+1 NAME Rune /Mattson/
+1 SEX M
+1 DEAT
+1 FAMC @F128@
+0 @I362@ INDI
+1 NAME Karin /Mattson/
+1 SEX F
+1 DEAT
+1 FAMC @F128@
+0 @I363@ INDI
+1 NAME Byden /?/
+1 SEX M
+1 DEAT
+1 FAMS @F129@
+0 @I364@ INDI
+1 NAME Unknown /?/
+1 SEX F
+1 DEAT
+1 FAMS @F130@
+0 @I365@ INDI
+1 NAME Agnes /Mattson/
+1 SEX F
+1 DEAT
+1 FAMC @F130@
+1 FAMS @F139@
+0 @I366@ INDI
+1 NAME Ture /Mattson/
+1 SEX M
+1 DEAT
+1 FAMC @F130@
+0 @I367@ INDI
+1 NAME Henriksson /?/
+1 SEX M
+1 DEAT
+1 FAMS @F139@
+0 @I368@ INDI
+1 NAME Gustav Helmer /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 28 AUG 1889
+2 PLAC Polk County, MN
+1 DEAT
+2 DATE 04 NOV 1970
+2 PLAC St Luke's Hospital, Fargo, ND
+1 BURI
+2 DATE 07 NOV 1970
+2 PLAC Parke Lutheran Church Cemetery
+1 OCCU Farmer and carpenter
+1 FAMC @F140@
+1 FAMS @F39@
+0 @I369@ INDI
+1 NAME Martina /Bratlien/
+1 SEX F
+1 BIRT
+2 DATE 16 MAR 1896
+2 PLAC Hawley, MN
+1 DEAT
+2 DATE 17 MAY 1980
+2 PLAC St Luke's Hospital, Fargo, ND
+1 BURI
+2 DATE 20 MAY 1980
+2 PLAC Parke Lutheran Church Cemetery
+1 OCCU Housewife
+1 FAMC @F141@
+1 FAMS @F39@
+0 @I370@ INDI
+1 NAME Myrtle Christine /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 11 OCT 1915
+2 PLAC Parke Township, Hawley, MN
+1 DEAT
+2 DATE 18 JAN 2010
+2 PLAC Detroit Lakes MN
+1 BURI
+2 DATE 18 JAN 2010
+2 PLAC Cormorant Lutheran Church Cemetery
+1 FAMC @F39@
+1 FAMS @F142@
+0 @I371@ INDI
+1 NAME Mamie Clara /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 08 MAR 1917
+2 PLAC Parke Township, Hawley, MN
+1 DEAT
+2 DATE 22 MAY 2004
+1 OCCU Housewife
+1 FAMC @F39@
+1 FAMS @F143@
+0 @I372@ INDI
+1 NAME Raymond Bernard /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 01 DEC 1918
+2 PLAC Parke Township, Hawley, MN
+1 DEAT
+2 DATE 25 AUG 2012
+1 OCCU Dairy Farmer
+1 FAMC @F39@
+1 FAMS @F144@
+0 @I373@ INDI
+1 NAME Orvald Richard /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 23 APR 1920
+2 PLAC Parke Township, Hawley, MN
+1 DEAT
+2 DATE 19 AUG 1941
+2 PLAC St Mary's Hospital, Detroit Lakes, MN
+1 FAMC @F39@
+0 @I374@ INDI
+1 NAME Norris Gordon /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 06 AUG 1922
+2 PLAC Parke Township, Hawley, MN
+1 DEAT
+2 DATE 23 NOV 2008
+1 OCCU Dairy Farmer
+1 FAMC @F39@
+1 FAMS @F145@
+0 @I375@ INDI
+1 NAME Thelma Irene /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 27 SEP 1924
+2 PLAC Parke Township, Hawley, MN
+1 DEAT
+2 DATE 28 MAY 2005
+1 OCCU Housewife
+1 FAMC @F39@
+1 FAMS @F146@
+0 @I376@ INDI
+1 NAME Vernon Leroy /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 22 OCT 1926
+2 PLAC Parke Township, Hawley, MN
+1 DEAT
+2 DATE 10 APR 2008
+1 OCCU Steel worker
+1 FAMC @F39@
+1 FAMS @F147@
+0 @I377@ INDI
+1 NAME Earl Clayton /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 22 SEP 1928
+2 PLAC Parke Township, Hawley, MN
+1 DEAT
+2 DATE 10 DEC 2012
+1 OCCU Lutheran Pastor
+1 FAMC @F39@
+1 FAMS @F148@
+0 @I378@ INDI
+1 NAME Verna Ardell /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 02 JUN 1930
+2 PLAC Parke Township, Hawley, MN
+1 DEAT
+1 OCCU Teacher
+1 FAMC @F39@
+1 FAMS @F149@
+0 @I379@ INDI
+1 NAME Glenda Mavis /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 08 MAR 1932
+2 PLAC Parke Township, Hawley, MN
+1 DEAT
+2 DATE 26 APR 2014
+1 OCCU Teacher and Housewife
+1 FAMC @F39@
+1 FAMS @F150@
+0 @I380@ INDI
+1 NAME Lorraine Doris /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 15 NOV 1933
+2 PLAC Parke Township, Hawley, MN
+1 DEAT
+1 OCCU Office Worker
+1 FAMC @F39@
+1 FAMS @F151@
+0 @I381@ INDI
+1 NAME Ardean Luverne /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 27 MAR 1936
+2 PLAC Parke Township, Hawley, MN
+1 DEAT
+2 DATE 01 APR 2020
+2 PLAC Cascade ID
+1 OCCU Ford Auto Parts Manager
+1 FAMC @F39@
+1 FAMS @F152@
+1 FAMS @F153@
+0 @I382@ INDI
+1 NAME Oscar T /Olson/
+1 SEX M
+1 DEAT
+1 OCCU Farmer
+1 FAMS @F142@
+0 @I383@ INDI
+1 NAME MayDean Orel /Olson/
+1 SEX F
+1 BIRT
+2 DATE 19 AUG 1937
+2 PLAC Detroit Lakes, MN
+1 DEAT
+2 DATE 15 JUN 1989
+2 PLAC Detroit Lakes, MN
+1 BURI
+2 PLAC Cormorant Lutheran Church Cemetery
+1 FAMC @F142@
+0 @I384@ INDI
+1 NAME Yvonne Kay /Olson/
+1 SEX F
+1 BIRT
+2 DATE 08 JAN 1943
+2 PLAC Detroit Lakes, MN
+1 OCCU Supervisor-Publishing Co
+1 FAMC @F142@
+1 FAMS @F154@
+0 @I385@ INDI
+1 NAME Gary Roger /Olson/
+1 SEX M
+1 BIRT
+2 DATE 03 FEB 1946
+2 PLAC Detroit Lakes, MN
+1 DEAT
+2 DATE 20 MAY 1946
+1 FAMC @F142@
+0 @I386@ INDI
+1 NAME Robert /Fiedler/
+1 SEX M
+1 DEAT
+1 FAMS @F154@
+0 @I387@ INDI
+1 NAME Dayna /Fiedler/
+1 SEX F
+1 BIRT
+2 DATE 29 MAY 1976
+1 FAMC @F154@
+1 FAMS @F155@
+0 @I388@ INDI
+1 NAME Ernest /Peterson/
+1 SEX M
+1 BIRT
+2 DATE 09 JUL 1900
+1 DEAT Y
+1 OCCU Farmer
+1 FAMS @F143@
+0 @I389@ INDI
+1 NAME Leroy Marvin /Peterson/
+1 SEX M
+1 BIRT
+2 DATE 13 DEC 1938
+1 DEAT
+2 DATE 09 OCT 2024
+1 OCCU Dairy Farmer
+1 FAMC @F143@
+1 FAMS @F156@
+0 @I390@ INDI
+1 NAME Morris Henry /Peterson/
+1 SEX M
+1 BIRT
+2 DATE 04 JUN 1940
+1 DEAT
+1 OCCU Optician and Car Salesman
+1 FAMC @F143@
+0 @I391@ INDI
+1 NAME Eunice Marie /Peterson/
+1 SEX F
+1 BIRT
+2 DATE 24 MAR 1942
+1 DEAT
+1 OCCU Housewife
+1 FAMC @F143@
+1 FAMS @F157@
+0 @I392@ INDI
+1 NAME Beverly Ann /Peterson/
+1 SEX F
+1 BIRT
+2 DATE 15 APR 1944
+1 OCCU Housewife
+1 FAMC @F143@
+1 FAMS @F158@
+1 FAMS @F159@
+0 @I393@ INDI
+1 NAME Sharon Faye /Peterson/
+1 SEX F
+1 BIRT
+2 DATE 15 SEP 1947
+1 OCCU Day Care Provider
+1 FAMC @F143@
+1 FAMS @F160@
+0 @I394@ INDI
+1 NAME Beatrice Arlean /Peterson/
+1 SEX F
+1 BIRT
+2 DATE 08 MAY 1950
+1 OCCU Teacher and Housewife
+1 FAMC @F143@
+1 FAMS @F161@
+0 @I395@ INDI
+1 NAME Sandra Lee /Peterson/
+1 SEX F
+1 BIRT
+2 DATE 21 JUN 1952
+1 OCCU Office Worker
+1 FAMC @F143@
+0 @I396@ INDI
+1 NAME Darrel Duane /Peterson/
+1 SEX M
+1 BIRT
+2 DATE 05 APR 1958
+1 DEAT
+2 DATE ( MAR 11 2007)
+1 FAMC @F143@
+0 @I397@ INDI
+1 NAME Joan Marie /Meyer/
+1 SEX F
+1 BIRT
+2 DATE 20 JAN 1929
+1 DEAT
+2 DATE 21 DEC 2022
+1 OCCU Housewife
+1 FAMS @F144@
+0 @I398@ INDI
+1 NAME Jody Marie /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 14 APR 1953
+1 OCCU Teacher and Housewife
+1 FAMC @F144@
+0 @I399@ INDI
+1 NAME Jolee Rae /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 18 SEP 1957
+1 OCCU Teacher
+1 FAMC @F144@
+1 FAMS @F162@
+0 @I400@ INDI
+1 NAME Roddy Ray /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 06 JUL 1959
+1 OCCU Dairy Farmer
+1 FAMC @F144@
+0 @I401@ INDI
+1 NAME Rollin Jon /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 30 MAY 1961
+1 OCCU Computer Programmer
+1 FAMC @F144@
+0 @I402@ INDI
+1 NAME Joni Ann /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 01 OCT 1963
+1 OCCU Therapist
+1 FAMC @F144@
+1 FAMS @F163@
+0 @I403@ INDI
+1 NAME Muriel Ione /Nelson/
+1 SEX F
+1 BIRT
+2 DATE 23 MAR 1929
+1 DEAT
+1 OCCU Housewife
+1 FAMS @F145@
+0 @I404@ INDI
+1 NAME Carolyn Marie /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 13 JUN 1952
+1 OCCU Teacher and Day Care Prov
+1 FAMC @F145@
+1 FAMS @F164@
+0 @I405@ INDI
+1 NAME Wayne David /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 12 JUN 1953
+1 OCCU Seed Plant Worker
+1 FAMC @F145@
+0 @I406@ INDI
+1 NAME James Michael /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 11 JUL 1954
+1 DEAT
+2 DATE 1989
+1 FAMC @F145@
+1 FAMS @F165@
+0 @I407@ INDI
+1 NAME Norman /Peterson/
+1 SEX M
+1 BIRT
+2 DATE 10 NOV 1919
+1 DEAT
+2 DATE 21 JAN 1991
+1 BURI
+2 PLAC Cormorant Lutheran Church Cemetery
+1 OCCU State Health Dept Office
+1 FAMS @F146@
+0 @I408@ INDI
+1 NAME Linda Joy /Peterson/
+1 SEX F
+1 BIRT
+2 DATE 03 MAR 1948
+1 FAMC @F146@
+0 @I409@ INDI
+1 NAME Norman Clyde /Peterson/
+1 SEX M
+1 BIRT
+2 DATE 02 JUN 1949
+1 OCCU Lawyer
+1 FAMC @F146@
+0 @I410@ INDI
+1 NAME Douglas Wayne /Peterson/
+1 SEX M
+1 BIRT
+2 DATE 12 NOV 1952
+1 OCCU Truck Driver
+1 FAMC @F146@
+0 @I411@ INDI
+1 NAME Scott Allen /Peterson/
+1 SEX M
+1 BIRT
+2 DATE 26 OCT 1957
+1 DEAT
+2 DATE 09 JAN 2023
+1 OCCU Welder
+1 FAMC @F146@
+0 @I412@ INDI
+1 NAME Joanne /Tatley/
+1 SEX F
+1 BIRT
+2 DATE 29 MAR 1936
+1 DEAT
+1 OCCU Reflexologist
+1 FAMS @F147@
+0 @I413@ INDI
+1 NAME Cheryl Ann /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 18 OCT 1957
+1 FAMC @F147@
+0 @I414@ INDI
+1 NAME Timothy James /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 17 OCT 1959
+1 OCCU Machinist
+1 FAMC @F147@
+0 @I415@ INDI
+1 NAME Priscilla Sorkness /Johnson/
+1 SEX F
+1 BIRT
+2 DATE 16 MAY 1932
+1 DEAT
+2 DATE 31 DEC 2014
+1 OCCU Geneologist
+1 FAMS @F148@
+0 @I416@ INDI
+1 NAME Mark Nathaniel /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 24 FEB 1953
+1 FAMC @F148@
+0 @I417@ INDI
+1 NAME Pauline Lorraine /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 22 SEP 1954
+1 FAMC @F148@
+0 @I418@ INDI
+1 NAME Lorinda Joy /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 15 JUN 1956
+1 DEAT
+2 DATE 21 AUG 2011
+1 FAMC @F148@
+1 FAMS @F166@
+0 @I419@ INDI
+1 NAME Robert Opheim /Nelson/
+1 SEX M
+1 BIRT
+2 DATE 10 NOV 1926
+1 DEAT
+2 DATE 14 JUN 2018
+1 OCCU Statistician
+1 FAMS @F149@
+0 @I420@ INDI
+1 NAME Ross Peter /Nelson/
+1 SEX M
+1 BIRT
+2 DATE 12 JUN 1957
+1 OCCU Computer Programmer
+1 FAMC @F149@
+0 @I421@ INDI
+1 NAME Koren Marie /Nelson/
+1 SEX F
+1 BIRT
+2 DATE 19 JUN 1960
+1 FAMC @F149@
+0 @I422@ INDI
+1 NAME Eric Reid /Nelson/
+1 SEX M
+1 BIRT
+2 DATE 10 FEB 1964
+1 FAMC @F149@
+0 @I423@ INDI
+1 NAME David Oscar /Bengtson/
+1 SEX M
+1 BIRT
+2 DATE 27 MAY 1930
+1 DEAT
+2 DATE 16 DEC 2014
+1 OCCU Mechanic
+1 FAMS @F150@
+0 @I424@ INDI
+1 NAME Dean Michael /Bengtson/
+1 SEX M
+1 BIRT
+2 DATE 10 NOV 1957
+1 OCCU Fed Ex Driver
+1 FAMC @F150@
+1 FAMS @F167@
+1 FAMS @F168@
+0 @I425@ INDI
+1 NAME Keith Leroy /Bengtson/
+1 SEX M
+1 BIRT
+2 DATE 07 DEC 1960
+1 OCCU Teacher and Carpenter
+1 FAMC @F150@
+1 FAMS @F169@
+0 @I426@ INDI
+1 NAME Yvette Marie /Bengtson/
+1 SEX F
+1 BIRT
+2 DATE 03 MAY 1962
+1 FAMC @F150@
+0 @I427@ INDI
+1 NAME Paul /Reeb/
+1 SEX M
+1 BIRT
+2 DATE 27 JUN 1926
+1 DEAT
+2 DATE 25 JUL 2011
+1 FAMS @F151@
+0 @I428@ INDI
+1 NAME Lori Ann /Reeb/
+1 SEX F
+1 BIRT
+2 DATE 24 MAY 1957
+1 OCCU Housewife
+1 FAMC @F151@
+0 @I429@ INDI
+1 NAME Sheila Mae /Reeb/
+1 SEX F
+1 BIRT
+2 DATE 28 NOV 1958
+1 OCCU Care Giver-Nursing Home
+1 FAMC @F151@
+1 FAMS @F170@
+1 FAMS @F171@
+0 @I430@ INDI
+1 NAME Betty /Walstad/
+1 SEX F
+1 DEAT
+1 FAMS @F152@
+0 @I431@ INDI
+1 NAME Amy Lorraine /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 10 FEB 1961
+1 FAMC @F152@
+0 @I432@ INDI
+1 NAME Marcia Louise /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 05 SEP 1962
+1 FAMC @F152@
+0 @I433@ INDI
+1 NAME Scott Luverne /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 09 JUN 1967
+1 FAMC @F152@
+0 @I434@ INDI
+1 NAME Adele /Watts/
+1 SEX F
+1 BIRT
+2 DATE 25 JAN 1956
+1 FAMS @F153@
+0 @I435@ INDI
+1 NAME Kaia Lynn /Brooks/
+1 SEX F
+1 BIRT
+2 DATE 20 MAY 1998
+1 FAMC @F44@
+1 FAMS @F464@
+0 @I436@ INDI
+1 NAME Hans Inge /Saveried/
+1 SEX M
+1 BIRT
+2 DATE 24 AUG 1952
+1 FAMS @F172@
+0 @I437@ INDI
+1 NAME Trygve Johannes /Saveried/
+1 SEX M
+1 BIRT
+2 DATE 14 NOV 1977
+1 FAMC @F172@
+0 @I438@ INDI
+1 NAME Margrete /Saveried/
+1 SEX F
+1 BIRT
+2 DATE 23 DEC 1987
+1 FAMC @F172@
+0 @I439@ INDI
+1 NAME Karoline /Saveried/
+1 SEX F
+1 BIRT
+2 DATE 18 JUL 1985
+1 FAMC @F172@
+0 @I440@ INDI
+1 NAME Anna Sofie /Saveried/
+1 SEX F
+1 BIRT
+2 DATE 07 JUL 1987
+1 FAMC @F172@
+0 @I441@ INDI
+1 NAME Benjamin John /Borson/
+1 SEX M
+1 BIRT
+2 DATE 11 DEC 1999
+1 FAMC @F38@
+0 @I442@ INDI
+1 NAME Kathy Ann /Lindsay/
+1 SEX F
+1 DEAT
+1 FAMS @F38@
+0 @I443@ INDI
+1 NAME Martinius Haakenson /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 23 APR 1862
+2 PLAC Norway
+1 DEAT
+2 DATE 03 AUG 1925
+2 PLAC Parke Township, rural Hawley, MN
+1 BURI
+2 DATE AUG 1925
+2 PLAC Park Lutheran Church Cem, rural Hawley
+1 OCCU farmer/carpenter
+1 FAMC @F173@
+1 FAMS @F140@
+0 @I444@ INDI
+1 NAME Kjerstine /Bakken/
+1 SEX F
+1 BIRT
+2 DATE 05 JAN 1863
+1 DEAT
+2 DATE 03 AUG 1925
+1 FAMC @F174@
+1 FAMS @F140@
+0 @I445@ INDI
+1 NAME Karl /Bratlien/
+1 SEX M
+1 DEAT
+1 OCCU Farmer
+1 FAMC @F175@
+1 FAMS @F141@
+0 @I446@ INDI
+1 NAME Marie /Bjergaard/
+1 SEX F
+1 BIRT
+2 DATE 07 JUN 1867
+1 DEAT
+2 DATE 06 APR 1905
+1 FAMC @F176@
+1 FAMS @F141@
+0 @I447@ INDI
+1 NAME Annie /Bratlien/
+1 SEX F
+1 BIRT
+2 DATE 19 DEC 1890
+1 DEAT
+2 DATE 14 APR 1944
+1 FAMC @F141@
+1 FAMS @F177@
+0 @I448@ INDI
+1 NAME Christian /Bratlien/
+1 SEX M
+1 BIRT
+2 DATE 19 OCT 1892
+1 DEAT
+2 DATE 15 MAY 1952
+1 FAMC @F141@
+1 FAMS @F178@
+0 @I449@ INDI
+1 NAME Emma /Bratlien/
+1 SEX F
+1 BIRT
+2 DATE 16 AUG 1894
+1 DEAT
+2 DATE 31 MAY 1960
+1 FAMC @F141@
+1 FAMS @F179@
+1 FAMS @F180@
+0 @I450@ INDI
+1 NAME Oscar /Bratlien/
+1 SEX M
+1 BIRT
+2 DATE 25 OCT 1898
+1 DEAT
+2 DATE 06 DEC 1979
+1 FAMC @F141@
+1 FAMS @F181@
+0 @I451@ INDI
+1 NAME Betsey /Bratlien/
+1 SEX F
+1 BIRT
+2 DATE 10 JUN 1900
+1 DEAT
+2 DATE 26 JUN 1918
+1 FAMC @F141@
+0 @I452@ INDI
+1 NAME Selmer /Bratlien/
+1 SEX M
+1 BIRT
+2 DATE 14 JUN 1902
+1 DEAT
+2 DATE 10 JAN 1926
+1 BURI
+2 DATE 15 JAN 1926
+2 PLAC Bethel Luth Church Cem
+1 FAMC @F141@
+0 @I453@ INDI
+1 NAME Conrad /Bratlien/
+1 SEX M
+1 BIRT
+2 DATE 24 MAR 1905
+1 DEAT
+1 FAMC @F141@
+1 FAMS @F182@
+0 @I454@ INDI
+1 NAME Bertha Hansdatter /Sethre/
+1 SEX F
+1 DEAT
+1 FAMC @F183@
+1 FAMS @F175@
+0 @I455@ INDI
+1 NAME Amund Mikaelson /Bratlien/
+1 SEX M
+1 DEAT
+1 FAMS @F175@
+0 @I456@ INDI
+1 NAME Hans /Sethre/
+1 SEX M
+1 DEAT
+1 FAMS @F183@
+0 @I457@ INDI
+1 NAME Hans Rickart /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F175@
+1 FAMS @F184@
+0 @I458@ INDI
+1 NAME Julia /Bratlien/
+1 SEX F
+1 BIRT
+2 DATE 25 FEB 1860
+2 PLAC Norway
+1 DEAT
+2 DATE 17 AUG 1895
+2 PLAC Rothsay, MN
+1 FAMC @F175@
+1 FAMS @F185@
+0 @I459@ INDI
+1 NAME Hanna /Bratlien/
+1 SEX F
+1 DEAT
+1 FAMC @F175@
+1 FAMS @F186@
+0 @I460@ INDI
+1 NAME Olava /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F175@
+0 @I461@ INDI
+1 NAME Marte /?/
+1 SEX F
+1 DEAT
+1 FAMC @F175@
+0 @I462@ INDI
+1 NAME Beate /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F175@
+0 @I463@ INDI
+1 NAME Anette /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F175@
+0 @I464@ INDI
+1 NAME Ole Edward /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F184@
+1 FAMS @F187@
+0 @I465@ INDI
+1 NAME Maren /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F175@
+0 @I466@ INDI
+1 NAME Emelia /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F175@
+0 @I467@ INDI
+1 NAME Martine /Johanson/
+1 SEX F
+1 DEAT
+1 FAMC @F188@
+0 @I468@ INDI
+1 NAME Martin /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F184@
+1 FAMS @F189@
+0 @I469@ INDI
+1 NAME Mabel /?/
+1 SEX F
+1 DEAT
+1 FAMS @F189@
+0 @I470@ INDI
+1 NAME Mabel /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F190@
+0 @I471@ INDI
+1 NAME Arlene /Amundson/
+1 SEX F
+1 DEAT
+2 DATE 29 MAY 2018
+1 FAMC @F189@
+1 FAMS @F191@
+0 @I472@ INDI
+1 NAME Wayne /Amundson/
+1 SEX M
+1 DEAT
+2 DATE APR 2003
+1 FAMC @F189@
+1 FAMS @F192@
+0 @I473@ INDI
+1 NAME Roger /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F189@
+1 FAMS @F193@
+0 @I474@ INDI
+1 NAME Victor /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F189@
+1 FAMS @F194@
+0 @I475@ INDI
+1 NAME Joseph /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F189@
+0 @I476@ INDI
+1 NAME Clara /Anderson/
+1 SEX F
+1 DEAT
+1 FAMS @F178@
+0 @I477@ INDI
+1 NAME Carl Arnold /Bratlien/
+1 SEX M
+1 DEAT
+2 DATE 20 JAN 2002
+1 FAMC @F178@
+1 FAMS @F195@
+0 @I478@ INDI
+1 NAME Alice Mathilde /Bratlien/
+1 SEX F
+1 DEAT
+1 FAMC @F178@
+1 FAMS @F196@
+0 @I479@ INDI
+1 NAME Bernice Arlene /Bratlien/
+1 SEX F
+1 BIRT
+2 DATE 21 APR 1925
+1 DEAT
+2 DATE 13 JAN 2016
+1 FAMC @F178@
+1 FAMS @F197@
+0 @I480@ INDI
+1 NAME Charles Curtis /Bratlien/
+1 SEX M
+1 DEAT
+1 FAMC @F178@
+1 FAMS @F198@
+0 @I481@ INDI
+1 NAME Donald Leroy /Bratlien/
+1 SEX M
+1 DEAT
+1 FAMC @F178@
+0 @I482@ INDI
+1 NAME Ellen Marie /Bratlien/
+1 SEX F
+1 BIRT
+2 DATE 20 FEB 1928
+1 DEAT
+2 DATE 18 JUL 2015
+1 FAMC @F178@
+1 FAMS @F199@
+0 @I483@ INDI
+1 NAME Roy Orvin /Bratlien/
+1 SEX M
+1 DEAT
+2 DATE 18 JAN 2004
+1 FAMC @F178@
+0 @I484@ INDI
+1 NAME Paul Delano /Bratlien/
+1 SEX M
+1 DEAT
+1 FAMC @F178@
+0 @I485@ INDI
+1 NAME Larry Dean /Bratlien/
+1 SEX M
+1 DEAT
+1 FAMC @F178@
+0 @I486@ INDI
+1 NAME Lyle Edward /Bratlien/
+1 SEX M
+1 DEAT
+1 FAMC @F178@
+0 @I487@ INDI
+1 NAME Olaf /Rude/
+1 SEX M
+1 BIRT
+2 DATE 1886
+1 DEAT
+2 DATE 1923
+1 FAMS @F179@
+0 @I488@ INDI
+1 NAME William /Rambow/
+1 SEX M
+1 DEAT
+1 FAMS @F180@
+0 @I489@ INDI
+1 NAME Evelyn /Rude/
+1 SEX F
+1 DEAT
+1 FAMC @F179@
+1 FAMS @F200@
+0 @I490@ INDI
+1 NAME Freddy /Rude/
+1 SEX M
+1 DEAT
+1 FAMC @F179@
+1 FAMS @F201@
+0 @I491@ INDI
+1 NAME Edward Oscar /Rambow/
+1 SEX M
+1 BIRT
+2 DATE 15 JUN 1927
+1 DEAT
+2 DATE 18 DEC 1990
+1 BURI
+2 PLAC Sanborn, ND
+1 FAMC @F180@
+1 FAMS @F202@
+0 @I492@ INDI
+1 NAME Leroy /Rambow/
+1 SEX M
+1 BIRT
+2 DATE 20 JAN 1929
+1 DEAT
+2 DATE 06 OCT 1968
+1 FAMC @F180@
+1 FAMS @F203@
+0 @I493@ INDI
+1 NAME Orvin /Rude/
+1 SEX M
+1 DEAT
+1 FAMC @F179@
+1 FAMS @F204@
+1 NOTE Buried at Grong cemetery Rollag Mn
+0 @I494@ INDI
+1 NAME Sophie /Larson/
+1 SEX F
+1 DEAT
+1 FAMS @F181@
+0 @I495@ INDI
+1 NAME Arla /Bratlien/
+1 SEX F
+1 DEAT
+1 FAMC @F181@
+1 FAMS @F205@
+0 @I496@ INDI
+1 NAME Nevada Ione /Bratlien/
+1 SEX F
+1 BIRT
+2 DATE 23 MAR 1929
+1 DEAT
+2 DATE 24 JUL 2010
+1 FAMC @F181@
+1 FAMS @F206@
+0 @I497@ INDI
+1 NAME DeEtt /Bratlien/
+1 SEX F
+1 DEAT
+1 FAMC @F181@
+1 FAMS @F207@
+0 @I498@ INDI
+1 NAME Don Wade /Bratlien/
+1 SEX M
+1 DEAT
+1 FAMC @F181@
+1 FAMS @F208@
+0 @I499@ INDI
+1 NAME Alice /?/
+1 SEX F
+1 DEAT
+1 FAMS @F182@
+0 @I500@ INDI
+1 NAME Nancy /Bratlien/
+1 SEX F
+1 DEAT
+1 FAMC @F182@
+0 @I501@ INDI
+1 NAME Nina /Loftsgard/
+1 SEX F
+1 DEAT
+1 FAMS @F187@
+0 @I502@ INDI
+1 NAME Almer /Amundson/
+1 SEX M
+1 BIRT
+2 DATE 25 JAN 1915
+1 DEAT
+2 DATE 01 NOV 1991
+1 FAMC @F187@
+1 FAMS @F209@
+0 @I503@ INDI
+1 NAME Morris /Amundson/
+1 SEX M
+1 BIRT
+2 DATE 30 JUN 1917
+1 DEAT
+2 DATE 20 SEP 2002
+1 BURI
+2 PLAC Marion Luth Ch Gunder - IA
+1 FAMC @F187@
+1 FAMS @F210@
+0 @I504@ INDI
+1 NAME Arthur /Amundson/
+1 SEX M
+1 BIRT
+2 DATE 12 MAY 1923
+1 DEAT
+2 DATE 26 SEP 2015
+1 FAMC @F187@
+1 FAMS @F211@
+0 @I505@ INDI
+1 NAME Clarence /Amundson/
+1 SEX M
+1 BIRT
+2 DATE 29 JUL 1925
+1 DEAT
+2 DATE 02 FEB 2014
+1 FAMC @F187@
+0 @I506@ INDI
+1 NAME Kenneth /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F187@
+0 @I507@ INDI
+1 NAME Norene /Amundson/
+1 SEX F
+1 BIRT
+2 DATE 29 JAN 1931
+1 DEAT
+2 DATE 27 DEC 2016
+1 FAMC @F187@
+1 FAMS @F212@
+0 @I508@ INDI
+1 NAME Marjorie /Larson/
+1 SEX F
+1 BIRT
+2 DATE 1917
+1 BAPM
+2 DATE 15 APR 1917
+1 DEAT
+2 DATE 04 JUN 2015
+1 BURI
+2 PLAC East Clermont Lutheran - Clermont IA
+1 FAMS @F209@
+0 @I509@ INDI
+1 NAME Hildur /Opsand/
+1 SEX F
+1 BIRT
+2 DATE 15 OCT 1918
+1 DEAT
+2 DATE 21 AUG 1990
+1 FAMS @F210@
+0 @I510@ INDI
+1 NAME Norma /Opsand/
+1 SEX F
+1 BIRT
+2 DATE 23 NOV 1925
+1 DEAT
+2 DATE 25 OCT 2013
+1 FAMS @F211@
+0 @I511@ INDI
+1 NAME Gordon /Landsgard/
+1 SEX M
+1 DEAT
+1 FAMS @F212@
+0 @I512@ INDI
+1 NAME Gunda /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F184@
+1 FAMS @F213@
+0 @I513@ INDI
+1 NAME Johan Adolph /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F184@
+1 FAMS @F214@
+0 @I514@ INDI
+1 NAME Askar /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F184@
+0 @I515@ INDI
+1 NAME Edward /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F184@
+0 @I516@ INDI
+1 NAME Emma Ovidia /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F184@
+0 @I517@ INDI
+1 NAME Henry /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F184@
+1 FAMS @F215@
+0 @I518@ INDI
+1 NAME Louie /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F184@
+1 FAMS @F216@
+0 @I519@ INDI
+1 NAME Emma Josephine /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F184@
+1 FAMS @F217@
+0 @I520@ INDI
+1 NAME Louise /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F184@
+1 FAMS @F218@
+0 @I521@ INDI
+1 NAME Ole /Gisleson/
+1 SEX M
+1 DEAT
+1 FAMS @F213@
+0 @I522@ INDI
+1 NAME Otto Maurice /Gisleson/
+1 SEX M
+1 DEAT
+1 FAMC @F213@
+1 FAMS @F219@
+0 @I523@ INDI
+1 NAME Milo Harold /Gisleson/
+1 SEX M
+1 DEAT
+1 FAMC @F213@
+0 @I524@ INDI
+1 NAME Gina /?/
+1 SEX F
+1 DEAT
+1 FAMS @F214@
+0 @I525@ INDI
+1 NAME Mabel Henrietta /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F214@
+1 FAMS @F220@
+0 @I526@ INDI
+1 NAME Olvin Millard /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F214@
+1 FAMS @F221@
+0 @I527@ INDI
+1 NAME Lloyd /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F214@
+1 FAMS @F222@
+0 @I528@ INDI
+1 NAME Gladys Adelia /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F214@
+1 FAMS @F223@
+0 @I529@ INDI
+1 NAME JuliusJohnson /?/
+1 SEX M
+1 DEAT
+1 FAMS @F220@
+0 @I530@ INDI
+1 NAME Murriel /Johnson/
+1 SEX F
+1 DEAT
+1 FAMC @F220@
+0 @I531@ INDI
+1 NAME Alvin /Johnson/
+1 SEX M
+1 DEAT
+1 FAMC @F220@
+0 @I532@ INDI
+1 NAME Alice May /Johnson/
+1 SEX F
+1 DEAT
+1 FAMC @F220@
+0 @I533@ INDI
+1 NAME Lorna /?/
+1 SEX F
+1 DEAT
+1 FAMS @F221@
+0 @I534@ INDI
+1 NAME Donald /?/
+1 SEX M
+1 DEAT
+1 FAMS @F223@
+0 @I535@ INDI
+1 NAME Tillie /?/
+1 SEX F
+1 DEAT
+1 FAMS @F215@
+0 @I536@ INDI
+1 NAME Alvira /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F215@
+1 FAMS @F224@
+0 @I537@ INDI
+1 NAME Harry /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F215@
+1 FAMS @F225@
+0 @I538@ INDI
+1 NAME Joe /Baker/
+1 SEX M
+1 DEAT
+1 FAMS @F224@
+0 @I539@ INDI
+1 NAME Myrtle /?/
+1 SEX F
+1 DEAT
+1 FAMS @F225@
+0 @I540@ INDI
+1 NAME Emily /?/
+1 SEX F
+1 DEAT
+1 FAMS @F216@
+0 @I541@ INDI
+1 NAME Myrtle Josephine /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F216@
+1 FAMS @F226@
+0 @I542@ INDI
+1 NAME Harriet Luella /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F216@
+1 FAMS @F227@
+0 @I543@ INDI
+1 NAME Louis Edmund /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F216@
+1 FAMS @F228@
+0 @I544@ INDI
+1 NAME Howard /Kluss/
+1 SEX M
+1 DEAT
+1 FAMS @F226@
+0 @I545@ INDI
+1 NAME Ainos /Olson/
+1 SEX M
+1 DEAT
+1 FAMS @F227@
+0 @I546@ INDI
+1 NAME Virginia /?/
+1 SEX F
+1 DEAT
+1 FAMS @F228@
+0 @I547@ INDI
+1 NAME Joyce Lorraine /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F216@
+1 FAMS @F229@
+0 @I548@ INDI
+1 NAME Robert /?/
+1 SEX M
+1 DEAT
+1 FAMS @F229@
+0 @I549@ INDI
+1 NAME Theodore /Loftsgard/
+1 SEX M
+1 DEAT
+1 FAMS @F217@
+0 @I550@ INDI
+1 NAME Lillian Helener /Loftsgard/
+1 SEX F
+1 DEAT
+1 FAMC @F217@
+1 FAMS @F230@
+0 @I551@ INDI
+1 NAME Marion Benhard /Loftsgard/
+1 SEX M
+1 DEAT
+1 FAMC @F217@
+0 @I552@ INDI
+1 NAME Edna Theodora /Loftsgard/
+1 SEX F
+1 DEAT
+1 FAMC @F217@
+1 FAMS @F231@
+0 @I553@ INDI
+1 NAME Mervin /Reierson/
+1 SEX M
+1 DEAT
+1 FAMS @F230@
+0 @I554@ INDI
+1 NAME Kenneth /Anderson/
+1 SEX M
+1 DEAT
+1 FAMS @F231@
+0 @I555@ INDI
+1 NAME Norman Helmer /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F189@
+1 FAMS @F232@
+0 @I556@ INDI
+1 NAME Loretta /?/
+1 SEX F
+1 DEAT
+1 FAMS @F232@
+0 @I557@ INDI
+1 NAME William /Bockoven/
+1 SEX M
+1 DEAT
+1 FAMS @F191@
+0 @I558@ INDI
+1 NAME Clara /?/
+1 SEX F
+1 DEAT
+1 FAMS @F192@
+0 @I559@ INDI
+1 NAME Lois /?/
+1 SEX F
+1 DEAT
+1 FAMS @F193@
+0 @I560@ INDI
+1 NAME Karen /?/
+1 SEX F
+1 DEAT
+1 FAMS @F194@
+0 @I561@ INDI
+1 NAME Adolph /Vik/
+1 SEX M
+1 DEAT
+1 FAMS @F218@
+0 @I562@ INDI
+1 NAME Ole /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F175@
+1 FAMS @F233@
+0 @I563@ INDI
+1 NAME Kristian /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F233@
+1 FAMS @F234@
+0 @I564@ INDI
+1 NAME Johan /x/
+1 SEX M
+1 DEAT
+1 FAMC @F233@
+1 FAMS @F235@
+0 @I565@ INDI
+1 NAME Nicolai /x/
+1 SEX M
+1 DEAT
+1 FAMC @F233@
+1 FAMS @F236@
+0 @I566@ INDI
+1 NAME Emma /x/
+1 SEX F
+1 DEAT
+1 FAMC @F233@
+1 FAMS @F237@
+0 @I567@ INDI
+1 NAME Anna /?/
+1 SEX F
+1 DEAT
+1 FAMC @F233@
+0 @I568@ INDI
+1 NAME Karl /?/
+1 SEX M
+1 DEAT
+1 FAMC @F233@
+0 @I569@ INDI
+1 NAME Janna /?/
+1 SEX F
+1 DEAT
+1 FAMS @F234@
+0 @I570@ INDI
+1 NAME Johan /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F234@
+1 FAMS @F238@
+0 @I571@ INDI
+1 NAME Borghild /x/
+1 SEX F
+1 DEAT
+1 FAMC @F234@
+1 FAMS @F239@
+0 @I572@ INDI
+1 NAME Nelly /x/
+1 SEX F
+1 DEAT
+1 FAMC @F234@
+1 FAMS @F240@
+0 @I573@ INDI
+1 NAME Olaf /?/
+1 SEX M
+1 DEAT
+1 FAMC @F234@
+0 @I574@ INDI
+1 NAME Einar /?/
+1 SEX M
+1 DEAT
+1 FAMC @F234@
+0 @I575@ INDI
+1 NAME Solveig /x/
+1 SEX F
+1 DEAT
+1 FAMC @F234@
+1 FAMS @F241@
+0 @I576@ INDI
+1 NAME Petra /x/
+1 SEX F
+1 DEAT
+1 FAMC @F234@
+1 FAMS @F242@
+1 FAMS @F243@
+0 @I577@ INDI
+1 NAME Arne /x/
+1 SEX M
+1 DEAT
+1 FAMC @F234@
+1 FAMS @F244@
+0 @I578@ INDI
+1 NAME Ole /x/
+1 SEX M
+1 DEAT
+1 FAMC @F234@
+1 FAMS @F245@
+0 @I579@ INDI
+1 NAME Tore /x/
+1 SEX M
+1 DEAT
+1 FAMC @F234@
+1 FAMS @F246@
+0 @I580@ INDI
+1 NAME Odd /Rognstad/
+1 SEX M
+1 DEAT
+1 FAMS @F239@
+0 @I581@ INDI
+1 NAME Ole /Bratlien/
+1 SEX M
+1 BIRT
+2 DATE 24 DEC 1855
+1 DEAT
+2 DATE 18 DEC 1922
+2 PLAC ND
+1 BURI
+2 PLAC Bethel Luth Church Cem, Lunds Valley, ND
+1 FAMS @F185@
+1 NOTE Ole moved from Rothsay to ND in 1903. Ole Bratlien was the mainstay o
+2 CONC f the
+2 CONT church, Hauge Synod. He kept the church together. (According to record
+2 CONC sfound)
+2 CONT Larry Tinjum helped find records for Carl and Wanda.
+0 @I582@ INDI
+1 NAME Mathilda /Bratlien/
+1 SEX F
+1 BIRT
+2 DATE 07 AUG 1881
+2 PLAC Norway
+1 DEAT
+2 DATE 01 OCT 1895
+2 PLAC Rothsay
+1 FAMC @F185@
+1 NOTE Mathilda's mother Julia died of typhoid fever on Aug 17, 1895 accordin
+2 CONC gto
+2 CONT our records. Then Mathilda died of typhoid fever less than two month
+2 CONC s later.
+0 @I583@ INDI
+1 NAME Ole /Sand/
+1 SEX M
+1 DEAT
+1 FAMS @F186@
+0 @I584@ INDI
+1 NAME Oscar /Sand/
+1 SEX M
+1 DEAT
+1 FAMC @F186@
+0 @I585@ INDI
+1 NAME Arthur /Sand/
+1 SEX M
+1 DEAT
+1 FAMC @F186@
+0 @I586@ INDI
+1 NAME Betsey /Sand/
+1 SEX F
+1 DEAT
+1 FAMC @F186@
+0 @I587@ INDI
+1 NAME Ed /Sand/
+1 SEX M
+1 DEAT
+1 FAMC @F186@
+0 @I588@ INDI
+1 NAME Melvin /Sand/
+1 SEX M
+1 DEAT
+1 FAMC @F186@
+0 @I589@ INDI
+1 NAME Henry /Sand/
+1 SEX M
+1 DEAT
+1 FAMC @F186@
+0 @I590@ INDI
+1 NAME Edvald /Jacobson/
+1 SEX M
+1 DEAT
+1 FAMS @F196@
+0 @I591@ INDI
+1 NAME Carolyn /Jacobson/
+1 SEX F
+1 DEAT
+1 FAMC @F196@
+1 FAMS @F247@
+1 FAMS @F248@
+0 @I592@ INDI
+1 NAME Ginnie Lou /Jacobson/
+1 SEX F
+1 DEAT
+1 FAMC @F196@
+1 FAMS @F249@
+0 @I593@ INDI
+1 NAME Jerry /Jacobson/
+1 SEX M
+1 DEAT
+1 FAMC @F196@
+1 FAMS @F250@
+0 @I594@ INDI
+1 NAME Paul /Jacobson/
+1 SEX M
+1 DEAT
+1 FAMC @F196@
+0 @I595@ INDI
+1 NAME Marvin /Smith/
+1 SEX M
+1 DEAT
+1 FAMS @F247@
+0 @I596@ INDI
+1 NAME "Dawn" L. /Smith/
+1 SEX F
+1 DEAT
+1 FAMC @F247@
+0 @I597@ INDI
+1 NAME Garret P. /Smith/
+1 SEX M
+1 DEAT
+1 FAMC @F247@
+0 @I598@ INDI
+1 NAME Lonnie /Barnum/
+1 SEX M
+1 DEAT
+1 FAMS @F249@
+0 @I599@ INDI
+1 NAME Jason /Barnum/
+1 SEX M
+1 DEAT
+1 FAMC @F249@
+0 @I600@ INDI
+1 NAME Lisa /Barnum/
+1 SEX F
+1 DEAT
+1 FAMC @F249@
+0 @I601@ INDI
+1 NAME Linda /?/
+1 SEX F
+1 DEAT
+1 FAMS @F250@
+0 @I602@ INDI
+1 NAME Amy /Jacobson/
+1 SEX F
+1 DEAT
+1 FAMC @F250@
+0 @I603@ INDI
+1 NAME Remell /?/
+1 SEX F
+1 DEAT
+1 FAMS @F195@
+0 @I604@ INDI
+1 NAME Wendy /Bratlien/
+1 SEX F
+1 DEAT
+1 FAMC @F195@
+1 FAMS @F251@
+0 @I605@ INDI
+1 NAME Stacie /Lee/
+1 SEX M
+1 DEAT
+1 FAMS @F251@
+0 @I606@ INDI
+1 NAME Melvin /Stensgaard/
+1 SEX M
+1 DEAT
+1 FAMS @F197@
+0 @I607@ INDI
+1 NAME Dale /Stensgaard/
+1 SEX M
+1 DEAT
+1 FAMC @F197@
+0 @I608@ INDI
+1 NAME Daryl /Stensgaard/
+1 SEX M
+1 DEAT
+1 FAMC @F197@
+0 @I609@ INDI
+1 NAME Donald /Nord/
+1 SEX M
+1 DEAT
+1 FAMS @F199@
+0 @I610@ INDI
+1 NAME Deanna Lynn /Nord/
+1 SEX F
+1 DEAT
+1 FAMC @F199@
+1 FAMS @F252@
+0 @I611@ INDI
+1 NAME Daniel /Nord/
+1 SEX M
+1 DEAT
+1 FAMC @F199@
+1 FAMS @F253@
+0 @I612@ INDI
+1 NAME Douglas /Nord/
+1 SEX M
+1 DEAT
+1 FAMC @F199@
+1 FAMS @F254@
+0 @I613@ INDI
+1 NAME John /Nord/
+1 SEX M
+1 DEAT
+1 FAMC @F199@
+1 FAMS @F255@
+0 @I614@ INDI
+1 NAME Joy /Nord/
+1 SEX F
+1 DEAT
+1 FAMC @F199@
+1 FAMS @F256@
+0 @I615@ INDI
+1 NAME Kirsten /Nord/
+1 SEX F
+1 DEAT
+1 FAMC @F199@
+1 FAMS @F257@
+0 @I616@ INDI
+1 NAME Julie /?/
+1 SEX F
+1 DEAT
+1 FAMS @F253@
+0 @I617@ INDI
+1 NAME Barbara /Morrison/
+1 SEX F
+1 DEAT
+1 FAMS @F255@
+0 @I618@ INDI
+1 NAME Virginia /?/
+1 SEX F
+1 DEAT
+1 FAMS @F198@
+0 @I619@ INDI
+1 NAME Debra /Bratlien/
+1 SEX F
+1 DEAT
+1 FAMC @F198@
+0 @I620@ INDI
+1 NAME Sherrie /Bratlien/
+1 SEX F
+1 DEAT
+1 FAMC @F198@
+1 FAMS @F258@
+0 @I621@ INDI
+1 NAME Julie /Bratlien/
+1 SEX F
+1 DEAT
+1 FAMC @F198@
+0 @I622@ INDI
+1 NAME Charlene /Bratlien/
+1 SEX F
+1 DEAT
+1 FAMC @F198@
+1 FAMS @F259@
+1 FAMS @F260@
+0 @I623@ INDI
+1 NAME Ester /Hellum/
+1 SEX F
+1 DEAT
+1 FAMS @F238@
+0 @I624@ INDI
+1 NAME Reidar /Christiansen/
+1 SEX M
+1 DEAT
+1 FAMS @F240@
+0 @I625@ INDI
+1 NAME Bertel /Nordgard/
+1 SEX M
+1 DEAT
+1 FAMS @F241@
+0 @I626@ INDI
+1 NAME Per /Olson/
+1 SEX M
+1 DEAT
+1 FAMS @F242@
+0 @I627@ INDI
+1 NAME Gunnar /Fjell/
+1 SEX M
+1 DEAT
+1 FAMS @F243@
+0 @I628@ INDI
+1 NAME Ragnhild /Graterud/
+1 SEX F
+1 DEAT
+1 FAMS @F244@
+0 @I629@ INDI
+1 NAME Aase /Mikklebust/
+1 SEX F
+1 DEAT
+1 FAMS @F245@
+0 @I630@ INDI
+1 NAME Inghild /Tangen/
+1 SEX F
+1 DEAT
+1 FAMS @F246@
+0 @I631@ INDI
+1 NAME Elena /?/
+1 SEX F
+1 DEAT
+1 FAMS @F235@
+0 @I632@ INDI
+1 NAME Ove /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F235@
+1 FAMS @F261@
+0 @I633@ INDI
+1 NAME Ingrid /Amundson/
+1 SEX F
+1 DEAT
+1 FAMS @F261@
+0 @I634@ INDI
+1 NAME Anna /?/
+1 SEX F
+1 DEAT
+1 FAMS @F236@
+0 @I635@ INDI
+1 NAME Hans /Christianson/
+1 SEX M
+1 DEAT
+1 FAMS @F237@
+0 @I636@ INDI
+1 NAME Charles /?/
+1 SEX M
+1 DEAT
+1 FAMS @F200@
+0 @I637@ INDI
+1 NAME Edna /?/
+1 SEX F
+1 DEAT
+1 FAMS @F201@
+0 @I638@ INDI
+1 NAME Leah Ann /Rude/
+1 SEX F
+1 BIRT
+2 DATE 30 NOV 1954
+1 FAMC @F201@
+1 FAMS @F262@
+0 @I639@ INDI
+1 NAME Gary Allen /Rude/
+1 SEX M
+1 BIRT
+2 DATE 25 NOV 1956
+1 FAMC @F201@
+0 @I640@ INDI
+1 NAME Sandra Kay /Rude/
+1 SEX F
+1 BIRT
+2 DATE 27 MAY 1958
+1 FAMC @F201@
+1 FAMS @F263@
+0 @I641@ INDI
+1 NAME Joyce /Sander/
+1 SEX F
+1 DEAT
+1 FAMS @F204@
+0 @I642@ INDI
+1 NAME Valerie /Rude/
+1 SEX F
+1 DEAT
+1 FAMC @F204@
+1 FAMS @F264@
+0 @I643@ INDI
+1 NAME Lorelee /Rude/
+1 SEX F
+1 DEAT
+1 FAMC @F204@
+0 @I644@ INDI
+1 NAME Loren /Rude/
+1 SEX M
+1 BIRT
+2 DATE 1954
+1 FAMC @F204@
+0 @I645@ INDI
+1 NAME Michael /Luhman/
+1 SEX M
+1 DEAT
+1 FAMS @F264@
+0 @I646@ INDI
+1 NAME Chad /Luhman/
+1 SEX M
+1 DEAT
+1 FAMC @F264@
+0 @I647@ INDI
+1 NAME Heather /?/
+1 SEX F
+1 DEAT
+1 FAMC @F264@
+0 @I648@ INDI
+1 NAME Amanda /?/
+1 SEX F
+1 DEAT
+1 FAMC @F264@
+0 @I649@ INDI
+1 NAME Daniel /?/
+1 SEX M
+1 DEAT
+1 FAMC @F264@
+0 @I650@ INDI
+1 NAME Norma /?/
+1 SEX F
+1 DEAT
+1 FAMS @F202@
+1 FAMS @F265@
+0 @I651@ INDI
+1 NAME Nancy Kay /Rambow/
+1 SEX F
+1 DEAT
+1 FAMC @F202@
+1 FAMS @F266@
+1 FAMS @F267@
+0 @I652@ INDI
+1 NAME Susan Lynn /Rambow/
+1 SEX F
+1 DEAT
+1 FAMC @F202@
+0 @I653@ INDI
+1 NAME Cheri Renee /Rambow/
+1 SEX F
+1 DEAT
+1 FAMC @F202@
+1 FAMS @F268@
+0 @I654@ INDI
+1 NAME James /Wiltse/
+1 SEX M
+1 BIRT
+2 DATE 26 JUN 1944
+1 DEAT
+2 DATE 12 JUN 1987
+1 FAMS @F266@
+0 @I655@ INDI
+1 NAME Michael James Joseph /Wiltse/
+1 SEX M
+1 DEAT
+1 FAMC @F266@
+0 @I656@ INDI
+1 NAME Dustin James /Wiltse/
+1 SEX M
+1 DEAT
+1 FAMC @F266@
+0 @I657@ INDI
+1 NAME Matthew Benjamin /Wiltse/
+1 SEX M
+1 DEAT
+1 FAMC @F266@
+0 @I658@ INDI
+1 NAME Gary /Ronsberg/
+1 SEX M
+1 DEAT
+1 FAMS @F267@
+0 @I659@ INDI
+1 NAME Gloria /?/
+1 SEX F
+1 DEAT
+1 FAMS @F203@
+0 @I660@ INDI
+1 NAME Roger /Rambow/
+1 SEX M
+1 DEAT
+1 FAMC @F203@
+0 @I661@ INDI
+1 NAME Allan /Bjorndahl/
+1 SEX M
+1 DEAT
+1 FAMS @F205@
+0 @I662@ INDI
+1 NAME Terry Allen /Bjorndahl/
+1 SEX M
+1 DEAT
+1 FAMC @F205@
+0 @I663@ INDI
+1 NAME Pam Donene /Bjorndahl/
+1 SEX F
+1 DEAT
+1 FAMC @F205@
+0 @I664@ INDI
+1 NAME Tani Jo /Bjorndahl/
+1 SEX F
+1 DEAT
+1 FAMC @F205@
+1 FAMS @F269@
+0 @I665@ INDI
+1 NAME Stephanie Lynn /Bjorndahl/
+1 SEX F
+1 DEAT
+1 FAMC @F205@
+0 @I666@ INDI
+1 NAME Beth Elaine /Bjorndahl/
+1 SEX F
+1 DEAT
+1 FAMC @F205@
+0 @I667@ INDI
+1 NAME Orvis /Softing/
+1 SEX M
+1 BIRT
+2 DATE 1923
+1 DEAT
+2 DATE 09 OCT 2003
+1 FAMS @F206@
+0 @I668@ INDI
+1 NAME Johnny /Allen/
+1 SEX M
+1 DEAT
+1 FAMS @F207@
+0 @I669@ INDI
+1 NAME Mark Kevin /Allen/
+1 SEX M
+1 DEAT
+1 FAMC @F207@
+0 @I670@ INDI
+1 NAME Bruce Kevin /Allen/
+1 SEX M
+1 DEAT
+1 FAMC @F207@
+0 @I671@ INDI
+1 NAME David Kevin /Allen/
+1 SEX M
+1 DEAT
+1 FAMC @F207@
+1 FAMS @F270@
+0 @I672@ INDI
+1 NAME Adana Kimberly /Allen/
+1 SEX F
+1 DEAT
+1 FAMC @F207@
+0 @I673@ INDI
+1 NAME Joanne /?/
+1 SEX F
+1 DEAT
+1 FAMS @F208@
+0 @I674@ INDI
+1 NAME Robyn Lynn /Bratlien/
+1 SEX F
+1 DEAT
+1 FAMC @F208@
+0 @I675@ INDI
+1 NAME Jana Renee /Bratlien/
+1 SEX F
+1 DEAT
+1 FAMC @F208@
+1 FAMS @F271@
+0 @I676@ INDI
+1 NAME Todd Gregory /Bratlien/
+1 SEX M
+1 DEAT
+1 FAMC @F208@
+1 FAMS @F272@
+0 @I677@ INDI
+1 NAME Eleanor Ruth /Gisleson/
+1 SEX F
+1 DEAT
+1 FAMC @F219@
+0 @I678@ INDI
+1 NAME Joann Magdelene /Gisleson/
+1 SEX F
+1 DEAT
+1 FAMC @F219@
+0 @I679@ INDI
+1 NAME Kathleen Eloise /Gisleson/
+1 SEX F
+1 DEAT
+1 FAMC @F219@
+0 @I680@ INDI
+1 NAME Sandra Marie /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F221@
+0 @I681@ INDI
+1 NAME Sonja Kay /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F221@
+0 @I682@ INDI
+1 NAME Garry Olvin /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F221@
+0 @I683@ INDI
+1 NAME James Millard /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F221@
+0 @I684@ INDI
+1 NAME Myrna Rae /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F221@
+0 @I685@ INDI
+1 NAME Lloyd Vincent /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F222@
+0 @I686@ INDI
+1 NAME Burdel /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F222@
+0 @I687@ INDI
+1 NAME Marlene /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F222@
+0 @I688@ INDI
+1 NAME Rose Mary /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F222@
+0 @I689@ INDI
+1 NAME Linda Lou /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F222@
+0 @I690@ INDI
+1 NAME Rita June /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F222@
+0 @I691@ INDI
+1 NAME Frank Gerald /Knapp/
+1 SEX M
+1 DEAT
+1 FAMC @F223@
+0 @I692@ INDI
+1 NAME Donna /Darling/
+1 SEX F
+1 DEAT
+1 FAMC @F223@
+0 @I693@ INDI
+1 NAME Justin /Baker/
+1 SEX M
+1 DEAT
+1 FAMC @F224@
+0 @I694@ INDI
+1 NAME Lonnie /Baker/
+1 SEX M
+1 DEAT
+1 FAMC @F224@
+0 @I695@ INDI
+1 NAME Danny Neal /Baker/
+1 SEX M
+1 DEAT
+1 FAMC @F224@
+0 @I696@ INDI
+1 NAME Warren Lee /Baker/
+1 SEX M
+1 DEAT
+1 FAMC @F224@
+0 @I697@ INDI
+1 NAME Joan /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F225@
+0 @I698@ INDI
+1 NAME Paul Vincent /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F225@
+0 @I699@ INDI
+1 NAME Harold Edward /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F225@
+0 @I700@ INDI
+1 NAME Georgean Lou /Kluss/
+1 SEX F
+1 DEAT
+1 FAMC @F226@
+0 @I701@ INDI
+1 NAME Beverly Ann /Kluss/
+1 SEX F
+1 DEAT
+1 FAMC @F226@
+0 @I702@ INDI
+1 NAME Mary Kay /Kluss/
+1 SEX F
+1 DEAT
+1 FAMC @F226@
+0 @I703@ INDI
+1 NAME Charlotte /Ray/
+1 SEX F
+1 DEAT
+1 FAMC @F226@
+0 @I704@ INDI
+1 NAME Darlene Harriet /Olson/
+1 SEX F
+1 DEAT
+1 FAMC @F227@
+0 @I705@ INDI
+1 NAME Marilyn Janis /Olson/
+1 SEX F
+1 DEAT
+1 FAMC @F227@
+0 @I706@ INDI
+1 NAME Sandra Ann /Olson/
+1 SEX F
+1 DEAT
+1 FAMC @F227@
+0 @I707@ INDI
+1 NAME Anita Janette /Olson/
+1 SEX F
+1 BIRT
+2 PLAC f
+1 DEAT
+1 FAMC @F227@
+0 @I708@ INDI
+1 NAME Karen Lee /Olson/
+1 SEX F
+1 DEAT
+1 FAMC @F227@
+0 @I709@ INDI
+1 NAME Carol Jean /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F228@
+0 @I710@ INDI
+1 NAME Ronald Glenn /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F228@
+0 @I711@ INDI
+1 NAME Kathleen /Amundson/
+1 SEX F
+1 DEAT
+2 DATE 2002
+1 FAMC @F209@
+0 @I712@ INDI
+1 NAME Richard /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F209@
+0 @I713@ INDI
+1 NAME Janet /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F210@
+0 @I714@ INDI
+1 NAME Elaine /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F211@
+0 @I715@ INDI
+1 NAME Dianne /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F211@
+0 @I716@ INDI
+1 NAME Pauline Jo /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F211@
+0 @I717@ INDI
+1 NAME Brenda /Landsgard/
+1 SEX F
+1 DEAT
+1 FAMC @F212@
+0 @I718@ INDI
+1 NAME Curtis /Anderson/
+1 SEX M
+1 DEAT
+1 FAMC @F231@
+0 @I719@ INDI
+1 NAME Norman Mark /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F232@
+0 @I720@ INDI
+1 NAME Ruth /Bockoven/
+1 SEX F
+1 DEAT
+1 FAMC @F191@
+0 @I721@ INDI
+1 NAME Larry /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F192@
+0 @I722@ INDI
+1 NAME girl /?/
+1 SEX F
+1 DEAT
+1 FAMC @F192@
+0 @I723@ INDI
+1 NAME Gustave Helmer /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 24 DEC 1885
+1 DEAT
+2 DATE 24 DEC 1885
+1 FAMC @F140@
+0 @I724@ INDI
+1 NAME Johanna /Grefsrud/
+1 SEX F
+1 BIRT
+2 DATE 14 JUL 1887
+1 DEAT
+2 DATE 07 AUG 1961
+2 PLAC Park Lutheran Cemetery Clay County Mn
+1 FAMC @F140@
+0 @I725@ INDI
+1 NAME Carl Olavus /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 15 MAR 1892
+1 DEAT
+2 DATE 23 MAR 1964
+1 FAMC @F140@
+0 @I726@ INDI
+1 NAME Joseph Adolf /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 10 JAN 1896
+1 DEAT
+2 DATE 04 DEC 1966
+1 FAMC @F140@
+1 FAMS @F273@
+0 @I727@ INDI
+1 NAME Henry Sevrin /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 23 FEB 1894
+1 DEAT
+2 DATE 03 AUG 1979
+1 FAMC @F140@
+0 @I728@ INDI
+1 NAME Melvin Christofer /Grefsrud/
+1 SEX M
+1 BIRT
+2 DATE 1899
+1 DEAT
+2 DATE 1953
+1 FAMC @F140@
+1 FAMS @F274@
+0 @I729@ INDI
+1 NAME Haaken /Johansen/
+1 SEX M
+1 BIRT
+2 DATE 19 APR 1823
+2 PLAC Toten, Norway
+1 DEAT
+2 DATE 02 OCT 1882
+2 PLAC Norway
+1 FAMS @F173@
+0 @I730@ INDI
+1 NAME Johanne /Pedersdotter/
+1 SEX F
+1 BIRT
+2 DATE 14 DEC 1834
+2 PLAC Toten, Norway
+1 DEAT Y
+1 FAMS @F173@
+0 @I731@ INDI
+1 NAME Johan Petter /Haakenson/
+1 SEX M
+1 BIRT
+2 DATE 06 FEB 1855
+1 DEAT Y
+1 FAMC @F173@
+1 FAMS @F275@
+1 NOTE Peter took the farm name - Kvernstuen - of his wife 
+0 @I732@ INDI
+1 NAME Bertha Marie /Haakenson/
+1 SEX F
+1 BIRT
+2 DATE 30 APR 1856
+2 PLAC Norway
+1 DEAT
+2 DATE 16 MAR 1938
+2 PLAC St. Hilaire, MN
+1 FAMC @F173@
+1 NOTE Marie and her husband Nels Evenson are buried near St Hilaire, MN.  Ce
+2 CONC metery located 4 miles east on Hwy #3 and 2 1/2 miles south on #59. To
+2 CONC wn to the north is Hazel, MN
+0 @I733@ INDI
+1 NAME Olava Matthea /Haakenson/
+1 SEX F
+1 BIRT
+2 DATE 30 SEP 1859
+1 DEAT Y
+1 FAMC @F173@
+0 @I734@ INDI
+1 NAME Dora /Lavik/
+1 SEX F
+1 BIRT
+2 DATE 13 AUG 1879
+2 PLAC Zumbrota Mn
+1 DEAT
+2 DATE 29 MAY 1934
+2 PLAC Hitterdal MN
+1 BURI
+2 PLAC Salem West Cemetry Hitterdal Mn
+1 FAMC @F276@
+1 FAMS @F2@
+0 @I735@ INDI
+1 NAME Anne /Margrethe/
+1 SEX F
+1 BIRT
+2 DATE 18 NOV 1865
+1 DEAT Y
+1 FAMC @F173@
+0 @I736@ INDI
+1 NAME Myrtle /Wells/
+1 SEX F
+1 BIRT
+2 DATE 29 JUN 1911
+1 DEAT
+2 DATE 08 AUG 1998
+1 FAMS @F274@
+1 FAMS @F277@
+0 @I737@ INDI
+1 NAME Larry /Grefsrud/
+1 SEX M
+1 ADOP Y
+2 FAMC @F465@
+3 ADOP HUSB
+1 DEAT
+1 FAMC @F274@
+1 NOTE Larry was adopted by Myrtle's second husband Simon Sherbrooke. So Larr
+2 CONC y goes by Larry Sherbrooke.
+0 @I738@ INDI
+1 NAME Anna /?/
+1 SEX F
+1 DEAT
+1 FAMS @F273@
+0 @I739@ INDI
+1 NAME Gunder Olson /Bakken/
+1 SEX M
+1 BIRT
+2 DATE 20 FEB 1836
+2 PLAC Norway
+1 DEAT
+2 DATE 25 OCT 1910
+1 FAMC @F278@
+1 FAMS @F174@
+0 @I740@ INDI
+1 NAME Johanna /Thorsdatter/
+1 SEX F
+1 BIRT
+2 DATE 02 JUL 1834
+2 PLAC Grindevolden, Norway
+1 DEAT
+2 DATE 23 DEC 1908
+2 PLAC USA
+1 FAMC @F279@
+1 FAMS @F174@
+0 @I741@ INDI
+1 NAME Ole T. /Bakken/
+1 SEX M
+1 BIRT
+2 DATE 02 DEC 1867
+1 DEAT
+2 DATE 29 JUL 1944
+1 FAMC @F174@
+0 @I742@ INDI
+1 NAME Thor /Olaus/
+1 SEX M
+1 BIRT
+2 DATE 03 NOV 1870
+1 DEAT
+2 DATE 08 NOV 1884
+1 FAMC @F174@
+0 @I743@ INDI
+1 NAME Sina /Bakken/
+1 SEX F
+1 BIRT
+2 DATE 07 JUN 1873
+2 PLAC Norway
+1 DEAT
+2 DATE 03 JAN 1945
+2 PLAC MN
+1 FAMC @F174@
+1 FAMS @F280@
+0 @I744@ INDI
+1 NAME Terje O. /Bakken/
+1 SEX M
+1 BIRT
+2 DATE 24 MAY 1876
+1 DEAT
+2 DATE 09 JAN 1958
+1 FAMC @F174@
+1 FAMS @F281@
+0 @I745@ INDI
+1 NAME Nels /Thorson/
+1 SEX M
+1 BIRT
+2 DATE 21 SEP 1865
+2 PLAC Norway
+1 DEAT
+2 DATE 26 APR 1944
+2 PLAC MN
+1 FAMS @F280@
+0 @I746@ INDI
+1 NAME Albert /Thorson/
+1 SEX M
+1 BIRT
+2 DATE 11 JAN 1899
+1 DEAT
+2 DATE 06 MAR 1971
+1 FAMC @F280@
+1 FAMS @F282@
+0 @I747@ INDI
+1 NAME Johanna /Thorson/
+1 SEX F
+1 BIRT
+2 DATE 27 MAR 1901
+1 BAPM
+2 DATE 14 APR 1901
+1 DEAT
+2 DATE 1985
+1 FAMC @F280@
+1 FAMS @F283@
+1 NOTE Her godparents were Mr and Mrs Andrew Nelson, Petrus Folden and Julia
+2 CONT Hovelsrud (taken from church records stored at Rollag Church)
+0 @I748@ INDI
+1 NAME Thora /Thorson/
+1 SEX F
+1 BIRT
+2 DATE 20 AUG 1903
+1 DEAT
+1 FAMC @F280@
+1 FAMS @F284@
+0 @I749@ INDI
+1 NAME Emma /Thorson/
+1 SEX F
+1 BIRT
+2 DATE 01 MAY 1905
+1 DEAT
+1 FAMC @F280@
+1 FAMS @F285@
+0 @I750@ INDI
+1 NAME Aldor /Thorson/
+1 SEX M
+1 BIRT
+2 DATE 29 JUL 1910
+1 DEAT
+1 FAMC @F280@
+1 FAMS @F286@
+0 @I751@ INDI
+1 NAME Norman /Thorson/
+1 SEX M
+1 BIRT
+2 DATE 07 JUL 1912
+1 DEAT
+2 DATE 16 APR 1963
+1 FAMC @F280@
+1 FAMS @F287@
+0 @I752@ INDI
+1 NAME Eleanor /Hanson/
+1 SEX F
+1 BIRT
+2 DATE 03 JUL 1925
+1 DEAT
+2 DATE 23 MAR 2007
+1 FAMS @F287@
+0 @I753@ INDI
+1 NAME William /Joy/
+1 SEX M
+1 DEAT
+1 FAMS @F284@
+0 @I754@ INDI
+1 NAME Leatrice /Joy/
+1 SEX F
+1 BIRT
+2 DATE 12 DEC 1923
+1 DEAT
+1 FAMC @F284@
+1 FAMS @F288@
+0 @I755@ INDI
+1 NAME Eileen /Joy/
+1 SEX F
+1 BIRT
+2 DATE 28 FEB 1926
+1 DEAT
+1 FAMC @F284@
+1 FAMS @F289@
+0 @I756@ INDI
+1 NAME Wilbur /Joy/
+1 SEX M
+1 BIRT
+2 DATE 12 FEB 1928
+1 DEAT
+1 FAMC @F284@
+0 @I757@ INDI
+1 NAME Ronald /Joy/
+1 SEX M
+1 BIRT
+2 DATE 27 MAR 1935
+1 DEAT
+1 FAMC @F284@
+0 @I758@ INDI
+1 NAME Natalie /Joy/
+1 SEX F
+1 BIRT
+2 DATE 03 SEP 1939
+1 DEAT
+1 FAMC @F284@
+1 FAMS @F290@
+0 @I759@ INDI
+1 NAME William Joy /x/
+1 SEX M
+1 BIRT
+2 DATE 14 AUG 1940
+1 DEAT
+2 DATE 30 SEP 1972
+1 FAMC @F284@
+1 FAMS @F291@
+0 @I760@ INDI
+1 NAME Harry /Johnston/
+1 SEX M
+1 DEAT
+1 FAMS @F285@
+0 @I761@ INDI
+1 NAME Harry  Jr /Johnston/
+1 SEX M
+1 BIRT
+2 DATE 17 MAY 1938
+1 DEAT
+1 TITL Jr
+1 FAMC @F285@
+1 FAMS @F292@
+0 @I762@ INDI
+1 NAME Floyd /Rude/
+1 SEX M
+1 DEAT
+1 FAMC @F179@
+1 NOTE According to Fred Rude, his brother was maybe 1 year when he died. I
+2 CONC s buried
+2 CONT in an unmarked cemetery where Gottholt Bjergaard is buried, near Lunds
+2 CONT Valley.
+0 @I763@ INDI
+1 NAME Olaf /Bratlien/
+1 SEX M
+1 BIRT
+2 DATE 20 AUG 1883
+1 DEAT Y
+1 FAMC @F185@
+1 FAMS @F293@
+1 NOTE Died of brain tumor
+0 @I764@ INDI
+1 NAME Betsey /Bratlien/
+1 SEX F
+1 BIRT
+2 DATE 18 SEP 1885
+2 PLAC Rothsay
+1 DEAT
+2 DATE 24 DEC 1926
+2 PLAC Minot
+1 FAMC @F185@
+1 FAMS @F294@
+1 NOTE Died of heart failure.
+0 @I765@ INDI
+1 NAME Gilbert /Bratlien/
+1 SEX M
+1 BIRT
+2 DATE 04 OCT 1887
+1 DEAT
+2 DATE 18 NOV 1973
+2 PLAC El Monte, CA
+1 FAMC @F185@
+1 FAMS @F295@
+1 FAMS @F296@
+1 NOTE Died of a stroke.
+0 @I766@ INDI
+1 NAME Edward /Bratlien/
+1 SEX M
+1 BIRT
+2 DATE 26 FEB 1890
+2 PLAC Ottertail County
+1 DEAT
+2 DATE 14 JUN 1965
+1 FAMC @F185@
+1 FAMS @F177@
+0 @I767@ INDI
+1 NAME Albert /Bratlien/
+1 SEX M
+1 BIRT
+2 DATE 22 JUL 1894
+1 DEAT
+2 DATE 10 AUG 1969
+2 PLAC Centralia, WA
+1 FAMC @F185@
+1 FAMS @F297@
+1 NOTE He died in Centralia, WA of a heart ailment.
+0 @I768@ INDI
+1 NAME Regina /Madsen/
+1 SEX F
+1 DEAT
+1 FAMS @F297@
+0 @I769@ INDI
+1 NAME Julius /Huseby/
+1 SEX M
+1 DEAT
+1 FAMS @F294@
+0 @I770@ INDI
+1 NAME Harold /Charnetzki/
+1 SEX M
+1 DEAT
+1 FAMS @F262@
+0 @I771@ INDI
+1 NAME Doug /Harris/
+1 SEX M
+1 DEAT
+1 FAMS @F263@
+0 @I772@ INDI
+1 NAME Jennifer Lynn /Harris/
+1 SEX F
+1 BIRT
+2 DATE 09 SEP 1979
+1 FAMC @F263@
+0 @I773@ INDI
+1 NAME Bobbi Jo /Charnetzki/
+1 SEX F
+1 BIRT
+2 DATE 28 AUG 1973
+1 FAMC @F262@
+1 FAMS @F298@
+0 @I774@ INDI
+1 NAME Brian Leo /Charnetzki/
+1 SEX M
+1 BIRT
+2 DATE 16 AUG 1976
+1 FAMC @F262@
+0 @I775@ INDI
+1 NAME Thomas /Nelson/
+1 SEX M
+1 DEAT
+1 FAMS @F298@
+0 @I776@ INDI
+1 NAME Michael Thomas /Nelson/
+1 SEX M
+1 BIRT
+2 DATE 01 APR 1992
+1 FAMC @F298@
+0 @I777@ INDI
+1 NAME Thor Aanonson /Grindevolden/
+1 SEX M
+1 DEAT
+1 FAMS @F279@
+0 @I778@ INDI
+1 NAME Sigrid /Torjusdatter/
+1 SEX F
+1 DEAT
+1 FAMS @F279@
+0 @I779@ INDI
+1 NAME Ragnild /Thorsdatter/
+1 SEX F
+1 DEAT
+1 FAMC @F279@
+1 FAMS @F299@
+0 @I780@ INDI
+1 NAME Aanon /Grindevolden/
+1 SEX M
+1 DEAT
+1 FAMC @F279@
+0 @I781@ INDI
+1 NAME Torjus /Thorson/
+1 SEX M
+1 BIRT
+2 DATE 13 AUG 1824
+1 DEAT
+2 DATE 07 DEC 1908
+1 FAMC @F279@
+1 FAMS @F300@
+0 @I782@ INDI
+1 NAME Johannes /Grindevolden/
+1 SEX M
+1 DEAT
+1 FAMC @F279@
+0 @I783@ INDI
+1 NAME Thrine /Thorsdatter/
+1 SEX F
+1 BIRT
+2 DATE 06 APR 1831
+1 DEAT
+2 DATE 08 JUN 1924
+1 FAMC @F279@
+1 FAMS @F301@
+0 @I784@ INDI
+1 NAME Berald /Baardson/
+1 SEX M
+1 DEAT
+1 FAMS @F299@
+0 @I785@ INDI
+1 NAME Gunvor Olsdatter /Steinde/
+1 SEX F
+1 DEAT
+1 FAMS @F300@
+0 @I786@ INDI
+1 NAME Peder /Nilsen/
+1 SEX M
+1 DEAT
+1 FAMS @F301@
+0 @I787@ INDI
+1 NAME Aasille /Pedersdatter/
+1 SEX F
+1 DEAT
+1 FAMC @F301@
+1 FAMS @F302@
+0 @I788@ INDI
+1 NAME Lars /Karinius/
+1 SEX M
+1 DEAT
+1 FAMC @F302@
+0 @I789@ INDI
+1 NAME Laura /?/
+1 SEX F
+1 DEAT
+1 FAMC @F302@
+0 @I790@ INDI
+1 NAME Peter /x/
+1 SEX M
+1 DEAT
+1 FAMC @F302@
+1 FAMS @F303@
+0 @I791@ INDI
+1 NAME Tobias /x/
+1 SEX M
+1 DEAT
+1 FAMC @F302@
+1 FAMS @F304@
+0 @I792@ INDI
+1 NAME Oskar /Moen/
+1 SEX M
+1 BIRT
+2 DATE 03 FEB 1907
+1 DEAT
+1 FAMC @F302@
+1 FAMS @F305@
+0 @I793@ INDI
+1 NAME John /Moen/
+1 SEX M
+1 BIRT
+2 DATE 03 FEB 1907
+1 DEAT
+1 FAMC @F302@
+0 @I794@ INDI
+1 NAME Olga /?/
+1 SEX F
+1 DEAT
+1 FAMS @F305@
+0 @I795@ INDI
+1 NAME Peter /Larson/
+1 SEX M
+1 DEAT
+1 FAMS @F302@
+0 @I796@ INDI
+1 NAME Ingeborg /Sophia/
+1 SEX F
+1 BIRT
+2 DATE 21 MAR 1852
+1 DEAT Y
+1 FAMC @F300@
+0 @I797@ INDI
+1 NAME Theodore /Olaus/
+1 SEX M
+1 BIRT
+2 DATE 03 AUG 1854
+1 DEAT Y
+1 FAMC @F300@
+0 @I798@ INDI
+1 NAME Gunhild /Johanna/
+1 SEX F
+1 BIRT
+2 DATE 25 DEC 1856
+1 DEAT Y
+1 FAMC @F300@
+0 @I799@ INDI
+1 NAME Gunhild /Johanna/
+1 SEX F
+1 BIRT
+2 DATE 25 APR 1859
+1 DEAT Y
+1 FAMC @F300@
+0 @I800@ INDI
+1 NAME Johanna /Surine/
+1 SEX F
+1 BIRT
+2 DATE 02 MAY 1861
+1 DEAT Y
+1 FAMC @F300@
+0 @I801@ INDI
+1 NAME Gunhild /Tomine/
+1 SEX F
+1 BIRT
+2 DATE 27 MAR 1864
+1 DEAT Y
+1 FAMC @F300@
+0 @I802@ INDI
+1 NAME Ole /Anton/
+1 SEX M
+1 BIRT
+2 DATE 23 FEB 1867
+1 DEAT Y
+1 FAMC @F300@
+0 @I803@ INDI
+1 NAME Anna /Elizabeth/
+1 SEX F
+1 BIRT
+2 DATE 14 JAN 1869
+1 DEAT Y
+1 FAMC @F300@
+0 @I804@ INDI
+1 NAME Edward /Anton/
+1 SEX M
+1 BIRT
+2 DATE 21 NOV 1871
+1 DEAT Y
+1 FAMC @F300@
+0 @I805@ INDI
+1 NAME Elmer /Nicholaus/
+1 SEX M
+1 BIRT
+2 DATE 06 APR 1875
+1 DEAT Y
+1 FAMC @F300@
+0 @I806@ INDI
+1 NAME twin /?/
+1 SEX M
+1 BIRT
+2 DATE 06 APR 1875
+1 DEAT Y
+1 FAMC @F300@
+0 @I807@ INDI
+1 NAME Anna /Elizabeth/
+1 SEX F
+1 BIRT
+2 DATE 09 JUL 1878
+1 DEAT
+2 DATE 17 JAN 1917
+1 FAMC @F300@
+1 FAMS @F281@
+0 @I808@ INDI
+1 NAME Loretta /Swanson/
+1 SEX F
+1 BIRT
+2 DATE 1907
+1 DEAT
+2 DATE 2000
+1 FAMS @F282@
+0 @I809@ INDI
+1 NAME Ludvig /Christianson/
+1 SEX M
+1 BIRT
+2 DATE 1891
+1 DEAT
+2 DATE 16 APR 1974
+1 FAMS @F283@
+0 @I810@ INDI
+1 NAME Orvin Norris /Christianson/
+1 SEX M
+1 BIRT
+2 DATE 20 OCT 1922
+1 DEAT
+1 FAMC @F283@
+1 FAMS @F306@
+0 @I811@ INDI
+1 NAME Ruth Mildred /Christianson/
+1 SEX F
+1 BIRT
+2 DATE 07 JAN 1925
+1 DEAT
+2 DATE 10 MAY 1978
+1 FAMC @F283@
+1 FAMS @F307@
+0 @I812@ INDI
+1 NAME Stella Christine /Christianson/
+1 SEX F
+1 BIRT
+2 DATE 14 MAY 1928
+1 DEAT
+1 FAMC @F283@
+1 FAMS @F308@
+0 @I813@ INDI
+1 NAME Morris Leland /Christianson/
+1 SEX M
+1 BIRT
+2 DATE 24 FEB 1930
+1 DEAT
+2 DATE 1946
+1 FAMC @F283@
+0 @I814@ INDI
+1 NAME Kennard James /Christianson/
+1 SEX M
+1 BIRT
+2 DATE 04 JUN 1933
+1 DEAT
+1 FAMC @F283@
+1 FAMS @F309@
+0 @I815@ INDI
+1 NAME Alden Grant /Christianson/
+1 SEX M
+1 BIRT
+2 DATE 11 JAN 1938
+1 DEAT
+2 DATE 2004
+1 FAMC @F283@
+1 FAMS @F310@
+0 @I816@ INDI
+1 NAME Mae /Kratzke/
+1 SEX F
+1 DEAT
+1 FAMS @F306@
+0 @I817@ INDI
+1 NAME Edwin /Mattson/
+1 SEX M
+1 DEAT
+1 FAMS @F307@
+0 @I818@ INDI
+1 NAME "Harold" M. /Kangas/
+1 SEX M
+1 DEAT
+1 FAMS @F308@
+0 @I819@ INDI
+1 NAME Betty Ann /Moers/
+1 SEX F
+1 DEAT
+1 FAMS @F309@
+0 @I820@ INDI
+1 NAME Arlene /Lewis/
+1 SEX F
+1 DEAT
+1 FAMS @F310@
+0 @I821@ INDI
+1 NAME Donald /Wirtz/
+1 SEX M
+1 DEAT
+2 DATE 06 JAN 2004
+1 FAMS @F288@
+0 @I822@ INDI
+1 NAME Bill /Henderson/
+1 SEX M
+1 DEAT
+1 FAMS @F289@
+0 @I823@ INDI
+1 NAME Keith /Bellefeuille/
+1 SEX M
+1 DEAT
+1 FAMS @F290@
+0 @I824@ INDI
+1 NAME Lois /?/
+1 SEX F
+1 DEAT
+1 FAMS @F291@
+0 @I825@ INDI
+1 NAME Phyllis /?/
+1 SEX F
+1 DEAT
+1 FAMS @F292@
+0 @I826@ INDI
+1 NAME Georgia /?/
+1 SEX F
+1 DEAT
+1 FAMS @F286@
+0 @I827@ INDI
+1 NAME Norma /Thorson/
+1 SEX F
+1 DEAT
+1 FAMC @F287@
+0 @I828@ INDI
+1 NAME Ray /Thorson/
+1 SEX M
+1 DEAT
+1 FAMC @F287@
+0 @I829@ INDI
+1 NAME Josephine Gertrude /Bakken/
+1 SEX F
+1 BIRT
+2 DATE 05 JAN 1901
+1 DEAT
+2 DATE 20 SEP 1976
+1 FAMC @F281@
+0 @I830@ INDI
+1 NAME Theresa Gustava /Bakken/
+1 SEX F
+1 BIRT
+2 DATE 19 AUG 1902
+1 DEAT Y
+1 FAMC @F281@
+1 FAMS @F311@
+0 @I831@ INDI
+1 NAME Gustav Walter /Bakken/
+1 SEX M
+1 BIRT
+2 DATE 23 MAR 1905
+1 DEAT
+2 DATE 20 APR 1965
+1 FAMC @F281@
+1 FAMS @F312@
+0 @I832@ INDI
+1 NAME Thora Sophie /Bakken/
+1 SEX F
+1 BIRT
+2 DATE 12 DEC 1907
+1 DEAT
+2 DATE 10 FEB 1973
+1 FAMC @F281@
+1 FAMS @F313@
+0 @I833@ INDI
+1 NAME Ella Johanna /Bakken/
+1 SEX F
+1 BIRT
+2 DATE 15 FEB 1910
+1 DEAT
+1 FAMC @F281@
+1 FAMS @F314@
+0 @I834@ INDI
+1 NAME Lewis E. /Bakken/
+1 SEX M
+1 BIRT
+2 DATE 26 MAR 1912
+1 DEAT
+2 DATE 20 JAN 1961
+1 FAMC @F281@
+0 @I835@ INDI
+1 NAME Clarence /Bakken/
+1 SEX M
+1 BIRT
+2 DATE 10 JUN 1915
+1 DEAT
+2 DATE 11 AUG 1981
+1 FAMC @F281@
+0 @I836@ INDI
+1 NAME Conrad /Englund/
+1 SEX M
+1 BIRT
+2 DATE 13 DEC 1894
+1 DEAT
+2 DATE 1986
+1 FAMS @F311@
+0 @I837@ INDI
+1 NAME Wendell /Englund/
+1 SEX M
+1 BIRT
+2 DATE 04 MAY 1928
+1 DEAT
+1 FAMC @F311@
+1 FAMS @F315@
+0 @I838@ INDI
+1 NAME Merlyn /Englund/
+1 SEX M
+1 BIRT
+2 DATE 29 APR 1930
+1 DEAT
+1 FAMC @F311@
+1 FAMS @F316@
+0 @I839@ INDI
+1 NAME Harlan /Englund/
+1 SEX M
+1 BIRT
+2 DATE 05 SEP 1935
+1 DEAT
+1 FAMC @F311@
+1 FAMS @F317@
+0 @I840@ INDI
+1 NAME Emerald /Englund/
+1 SEX F
+1 BIRT
+2 DATE 25 AUG 1941
+1 DEAT
+1 FAMC @F311@
+1 FAMS @F318@
+0 @I841@ INDI
+1 NAME Mildred /?/
+1 SEX F
+1 DEAT
+1 FAMS @F312@
+0 @I842@ INDI
+1 NAME Faith /Bakken/
+1 SEX F
+1 BIRT
+2 DATE 13 SEP 1941
+1 DEAT
+1 FAMC @F312@
+1 FAMS @F319@
+0 @I843@ INDI
+1 NAME Gloria /Bakken/
+1 SEX F
+1 BIRT
+2 DATE 15 MAR 1945
+1 FAMC @F312@
+0 @I844@ INDI
+1 NAME Janet /Bakken/
+1 SEX F
+1 DEAT
+1 FAMC @F312@
+0 @I845@ INDI
+1 NAME Elmer /Bergman/
+1 SEX M
+1 DEAT
+1 FAMS @F313@
+0 @I846@ INDI
+1 NAME Willard /Bergman/
+1 SEX M
+1 DEAT
+1 FAMC @F313@
+0 @I847@ INDI
+1 NAME Lawrence /Burros/
+1 SEX M
+1 DEAT
+1 FAMS @F314@
+0 @I848@ INDI
+1 NAME Carsten /Burros/
+1 SEX M
+1 BIRT
+2 DATE 08 SEP 1935
+1 DEAT
+1 FAMC @F314@
+0 @I849@ INDI
+1 NAME Nels /Thorson/
+1 SEX M
+1 BIRT
+2 DATE 08 DEC 1946
+1 FAMC @F282@
+1 FAMS @F320@
+0 @I850@ INDI
+1 NAME Orlene /Clark/
+1 SEX F
+1 DEAT
+1 FAMS @F320@
+0 @I851@ INDI
+1 NAME Ola /Bakken/
+1 SEX M
+1 DEAT
+1 FAMS @F278@
+0 @I852@ INDI
+1 NAME Kjersti /Bye/
+1 SEX F
+1 DEAT
+1 FAMS @F278@
+0 @I853@ INDI
+1 NAME Christian /Bakken/
+1 SEX M
+1 DEAT
+1 FAMC @F278@
+1 FAMS @F321@
+0 @I854@ INDI
+1 NAME Kristine /?/
+1 SEX F
+1 DEAT
+1 FAMC @F321@
+0 @I855@ INDI
+1 NAME Helene /?/
+1 SEX F
+1 DEAT
+1 FAMC @F321@
+0 @I856@ INDI
+1 NAME Bertha /?/
+1 SEX F
+1 DEAT
+1 FAMC @F321@
+0 @I857@ INDI
+1 NAME Olivia /?/
+1 SEX F
+1 DEAT
+1 FAMC @F321@
+0 @I858@ INDI
+1 NAME Gunda /?/
+1 SEX F
+1 DEAT
+1 FAMC @F321@
+0 @I859@ INDI
+1 NAME Olaf /x/
+1 SEX M
+1 DEAT
+1 FAMC @F321@
+1 FAMS @F322@
+0 @I860@ INDI
+1 NAME Ruth /Bakken/
+1 SEX F
+1 DEAT
+1 FAMC @F322@
+0 @I861@ INDI
+1 NAME Trygve /Bakken/
+1 SEX M
+1 DEAT
+1 FAMC @F322@
+1 FAMS @F323@
+0 @I862@ INDI
+1 NAME Alphid /Bakken/
+1 SEX F
+1 DEAT
+1 FAMC @F322@
+0 @I863@ INDI
+1 NAME Ove /Bakken/
+1 SEX M
+1 BIRT
+2 DATE 23 MAY 1926
+1 DEAT
+2 DATE 18 JUL 2016
+1 FAMC @F322@
+0 @I864@ INDI
+1 NAME Gunnar /Bakken/
+1 SEX M
+1 DEAT
+1 FAMC @F322@
+0 @I865@ INDI
+1 NAME Margit /?/
+1 SEX F
+1 BIRT
+2 DATE 13 JUN 1921
+1 DEAT
+2 DATE 22 FEB 2009
+1 FAMS @F323@
+0 @I866@ INDI
+1 NAME Gunhild /Bakken/
+1 SEX F
+1 DEAT
+1 FAMC @F323@
+1 FAMS @F172@
+1 FAMS @F324@
+0 @I867@ INDI
+1 NAME Len /Arden/
+1 SEX M
+1 BIRT
+2 DATE 29 APR 1963
+1 FAMC @F306@
+0 @I868@ INDI
+1 NAME Karen Renee /Mattson/
+1 SEX F
+1 BIRT
+2 DATE 05 AUG 1949
+1 FAMC @F307@
+1 FAMS @F325@
+0 @I869@ INDI
+1 NAME Elaine Jo /Mattson/
+1 SEX F
+1 BIRT
+2 DATE 09 SEP 1951
+1 FAMC @F307@
+1 FAMS @F326@
+0 @I870@ INDI
+1 NAME Dennis /Paesler/
+1 SEX M
+1 DEAT
+1 FAMS @F325@
+0 @I871@ INDI
+1 NAME Gretchen /Paesler/
+1 SEX F
+1 BIRT
+2 DATE 24 JAN 1972
+1 FAMC @F325@
+1 FAMS @F327@
+0 @I872@ INDI
+1 NAME Rodney /Olson/
+1 SEX M
+1 DEAT
+1 FAMS @F327@
+0 @I873@ INDI
+1 NAME Kimberley /Marie/
+1 SEX F
+1 BIRT
+2 DATE 19 AUG 1977
+1 FAMC @F325@
+0 @I874@ INDI
+1 NAME Thomas /Mack/
+1 SEX M
+1 DEAT
+1 FAMS @F326@
+0 @I875@ INDI
+1 NAME Jill Renee /Mack/
+1 SEX F
+1 BIRT
+2 DATE 27 NOV 1973
+1 FAMC @F326@
+0 @I876@ INDI
+1 NAME Kelly Jo /Mack/
+1 SEX F
+1 BIRT
+2 DATE 21 JAN 1978
+1 FAMC @F326@
+0 @I877@ INDI
+1 NAME Diana Lynn /Mack/
+1 SEX F
+1 BIRT
+2 DATE 04 JAN 1982
+1 FAMC @F326@
+0 @I878@ INDI
+1 NAME Brent Maynard /Kangas/
+1 SEX M
+1 BIRT
+2 DATE 26 AUG 1948
+1 FAMC @F308@
+1 FAMS @F328@
+0 @I879@ INDI
+1 NAME Carla Maureen /Kangas/
+1 SEX F
+1 BIRT
+2 DATE 01 JUL 1950
+1 FAMC @F308@
+0 @I880@ INDI
+1 NAME Jolene Marsha /Kangas/
+1 SEX F
+1 BIRT
+2 DATE 23 MAY 1952
+1 FAMC @F308@
+1 FAMS @F329@
+1 FAMS @F330@
+0 @I881@ INDI
+1 NAME Gayla Mae /Kangas/
+1 SEX F
+1 BIRT
+2 DATE 03 JAN 1954
+1 FAMC @F308@
+1 FAMS @F331@
+0 @I882@ INDI
+1 NAME Grace /Nevala/
+1 SEX F
+1 DEAT
+1 FAMS @F328@
+0 @I883@ INDI
+1 NAME Aaron Brent /Kangas/
+1 SEX M
+1 BIRT
+2 DATE 07 MAY 1971
+1 FAMC @F328@
+0 @I884@ INDI
+1 NAME JoElle Suzanne /Kangas/
+1 SEX F
+1 BIRT
+2 DATE (17 NOV 1973?)
+1 DEAT
+1 FAMC @F328@
+0 @I885@ INDI
+1 NAME Kenneth /Oien/
+1 SEX M
+1 DEAT
+2 DATE 10 MAR 1974
+1 FAMS @F329@
+0 @I886@ INDI
+1 NAME Jessica Jo /Oien/
+1 SEX F
+1 BIRT
+2 DATE 31 MAR 1971
+1 FAMC @F329@
+0 @I887@ INDI
+1 NAME Nicole LaNae /Oien/
+1 SEX F
+1 BIRT
+2 DATE 29 SEP 1972
+1 FAMC @F329@
+0 @I888@ INDI
+1 NAME Jerry /Anderson/
+1 SEX M
+1 DEAT
+1 FAMS @F330@
+0 @I889@ INDI
+1 NAME Nathan Charles /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 18 MAR 1982
+1 FAMC @F330@
+0 @I890@ INDI
+1 NAME Mitchell /Aho/
+1 SEX M
+1 DEAT
+1 FAMS @F331@
+0 @I891@ INDI
+1 NAME Kyle Mitchell /Aho/
+1 SEX M
+1 BIRT
+2 DATE 17 SEP 1973
+1 FAMC @F331@
+0 @I892@ INDI
+1 NAME Tyson Andrew /Aho/
+1 SEX M
+1 BIRT
+2 DATE 07 JUN 1977
+1 FAMC @F331@
+0 @I893@ INDI
+1 NAME Lee William /Aho/
+1 SEX M
+1 BIRT
+2 DATE 07 JUN 1977
+1 FAMC @F331@
+0 @I894@ INDI
+1 NAME Robin Lea /Christianson/
+1 SEX F
+1 BIRT
+2 DATE 27 MAR 1956
+1 FAMC @F309@
+1 FAMS @F332@
+0 @I895@ INDI
+1 NAME Laurie Jean /Christianson/
+1 SEX F
+1 BIRT
+2 DATE 09 JUL 1957
+1 FAMC @F309@
+1 FAMS @F333@
+0 @I896@ INDI
+1 NAME Dean /Snow/
+1 SEX M
+1 DEAT
+1 FAMS @F332@
+0 @I897@ INDI
+1 NAME Jeffrey Dean /Snow/
+1 SEX M
+1 BIRT
+2 DATE OCT 1984
+1 FAMC @F332@
+0 @I898@ INDI
+1 NAME Ralph /Britzius/
+1 SEX M
+1 DEAT
+1 FAMS @F333@
+0 @I899@ INDI
+1 NAME Jean Ann /Britzius/
+1 SEX F
+1 BIRT
+2 DATE 07 AUG 1984
+1 FAMC @F333@
+0 @I900@ INDI
+1 NAME Amy Lynn /Christianson/
+1 SEX F
+1 BIRT
+2 DATE 10 DEC 1965
+1 FAMC @F310@
+0 @I901@ INDI
+1 NAME Annette Louise /Christianson/
+1 SEX F
+1 BIRT
+2 DATE 26 MAY 1970
+1 FAMC @F310@
+0 @I902@ INDI
+1 NAME Truman /Burros/
+1 SEX M
+1 DEAT
+1 FAMC @F314@
+1 NOTE Died in crib death at 5 weeks.
+0 @I903@ INDI
+1 NAME Wendell /Friest/
+1 SEX M
+1 DEAT
+1 FAMS @F319@
+0 @I904@ INDI
+1 NAME Joan? /?/
+1 SEX F
+1 DEAT
+1 FAMS @F315@
+0 @I905@ INDI
+1 NAME Jay /Englund/
+1 SEX M
+1 BIRT
+2 DATE 20 FEB 1966
+1 FAMC @F315@
+0 @I906@ INDI
+1 NAME John /Englund/
+1 SEX M
+1 BIRT
+2 DATE 28 JAN 1967
+1 FAMC @F315@
+0 @I907@ INDI
+1 NAME Devin /Englund/
+1 SEX M
+1 BIRT
+2 DATE 10 JUN 1971
+1 FAMC @F315@
+0 @I908@ INDI
+1 NAME Elaine /Quernemoen/
+1 SEX F
+1 DEAT
+1 FAMS @F316@
+0 @I909@ INDI
+1 NAME Keith /Englund/
+1 SEX M
+1 BIRT
+2 DATE 24 JAN 1952
+1 FAMC @F316@
+1 FAMS @F334@
+0 @I910@ INDI
+1 NAME Larry /Englund/
+1 SEX M
+1 BIRT
+2 DATE 11 NOV 1955
+1 FAMC @F316@
+1 FAMS @F335@
+0 @I911@ INDI
+1 NAME Diann /Englund/
+1 SEX F
+1 BIRT
+2 DATE 28 SEP 1960
+1 FAMC @F316@
+1 FAMS @F336@
+0 @I912@ INDI
+1 NAME Bonita /Jacobson/
+1 SEX F
+1 DEAT
+1 FAMS @F334@
+0 @I913@ INDI
+1 NAME Tiffany /Englund/
+1 SEX F
+1 BIRT
+2 DATE 07 MAR 1978
+1 FAMC @F334@
+0 @I914@ INDI
+1 NAME Seth /Englund/
+1 SEX M
+1 BIRT
+2 DATE 13 FEB 1980
+1 FAMC @F334@
+0 @I915@ INDI
+1 NAME Aleisha /Englund/
+1 SEX F
+1 BIRT
+2 DATE 03 NOV 1982
+1 FAMC @F334@
+0 @I916@ INDI
+1 NAME Vicki /Satterlie/
+1 SEX F
+1 DEAT
+1 FAMS @F335@
+0 @I917@ INDI
+1 NAME Jennifer /Englund/
+1 SEX F
+1 BIRT
+2 DATE 20 OCT 1972
+1 FAMC @F335@
+0 @I918@ INDI
+1 NAME Jamie /Englund/
+1 SEX M
+1 BIRT
+2 DATE 17 NOV 1974
+1 FAMC @F335@
+0 @I919@ INDI
+1 NAME Casey /Englund/
+1 SEX M
+1 BIRT
+2 DATE 22 OCT 1980
+1 FAMC @F335@
+0 @I920@ INDI
+1 NAME Ronald /Peterson/
+1 SEX M
+1 DEAT
+1 FAMS @F336@
+0 @I921@ INDI
+1 NAME Matthew /Peterson/
+1 SEX M
+1 BIRT
+2 DATE 24 OCT 1981
+1 FAMC @F336@
+0 @I922@ INDI
+1 NAME Marlys /Roos/
+1 SEX F
+1 DEAT
+1 FAMS @F317@
+0 @I923@ INDI
+1 NAME Shelby /Englund/
+1 SEX F
+1 BIRT
+2 DATE 15 JUN 1959
+1 FAMC @F317@
+1 FAMS @F337@
+0 @I924@ INDI
+1 NAME Annette /Englund/
+1 SEX F
+1 BIRT
+2 DATE 24 SEP 1962
+1 FAMC @F317@
+1 FAMS @F338@
+0 @I925@ INDI
+1 NAME Shane /Englund/
+1 SEX M
+1 BIRT
+2 DATE 01 FEB 1964
+1 FAMC @F317@
+0 @I926@ INDI
+1 NAME Andrea /Englund/
+1 SEX F
+1 BIRT
+2 DATE 15 NOV 1967
+1 FAMC @F317@
+0 @I927@ INDI
+1 NAME Shawn /Englund/
+1 SEX M
+1 BIRT
+2 DATE 12 JUL 1977
+1 FAMC @F317@
+0 @I928@ INDI
+1 NAME Thomas /Peterman/
+1 SEX M
+1 DEAT
+1 FAMS @F337@
+0 @I929@ INDI
+1 NAME Jeremy /Peterman/
+1 SEX M
+1 BIRT
+2 DATE 10 JAN 1982
+1 FAMC @F337@
+0 @I930@ INDI
+1 NAME Jacquelyn /Peterman/
+1 SEX F
+1 BIRT
+2 DATE 27 JAN 1985
+1 FAMC @F337@
+0 @I931@ INDI
+1 NAME Les /Ohren/
+1 SEX M
+1 DEAT
+1 FAMS @F338@
+0 @I932@ INDI
+1 NAME Nicholas /McFarlane/
+1 SEX M
+1 BIRT
+2 DATE 02 JUL 1983
+1 FAMC @F338@
+0 @I933@ INDI
+1 NAME Gary /Quinn/
+1 SEX M
+1 DEAT
+1 FAMS @F318@
+0 @I934@ INDI
+1 NAME Tamela /Quinn/
+1 SEX F
+1 BIRT
+2 DATE 09 AUG 1966
+1 FAMC @F318@
+0 @I935@ INDI
+1 NAME Jamie /Quinn/
+1 SEX M
+1 BIRT
+2 DATE 04 JUL 1971
+1 FAMC @F318@
+0 @I936@ INDI
+1 NAME Hansteen Hansen Stensaet /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE 19 APR 1844
+1 DEAT
+2 DATE 16 SEP 1898
+1 FAMS @F176@
+1 NOTE Is buried in the Hamar Lutheran Church Cemetery 1 mile south of Rothsa
+2 CONC yon
+2 CONT Hwy. #21.
+0 @I937@ INDI
+1 NAME Christiane Christiansdatter /Gundersrud/
+1 SEX F
+1 BIRT
+2 DATE 1839
+1 DEAT
+2 DATE 29 OCT 1900
+1 BURI
+2 PLAC Faaberg Cemetery
+1 FAMS @F176@
+1 NOTE Buried at Friborg Cemetery on County road 21 southeast of Rothsay
+0 @I938@ INDI
+1 NAME Hannah /Bjergaard/
+1 SEX F
+1 BIRT
+2 DATE 17 JUL 1869
+1 DEAT
+2 DATE 31 JAN 1940
+1 BURI
+2 PLAC Erskine
+1 FAMC @F176@
+1 FAMS @F339@
+1 NOTE After her sister Kaia's death she raised Kaia's daughter Julia Anderso
+2 CONC n and Foster child Norman Gunderson - Julia and Norman were later marr
+2 CONC ied
+0 @I939@ INDI
+1 NAME Renholt /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE (1866?)
+1 DEAT
+1 FAMC @F176@
+1 FAMS @F340@
+1 NOTE In cemetery is spelled Reinholt.
+0 @I940@ INDI
+1 NAME Kaia /Bjergaard/
+2 SURN Anderson
+1 SEX F
+1 BIRT
+2 DATE 15 DEC 1870
+1 DEAT
+2 DATE 31 DEC 1904
+2 PLAC Rodnes Cemetery Erskine, MN
+1 FAMC @F176@
+1 FAMS @F341@
+0 @I941@ INDI
+1 NAME Alfred /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE 1873
+1 DEAT Y
+1 FAMC @F176@
+0 @I942@ INDI
+1 NAME Gottalt /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE 1875
+1 DEAT Y
+1 FAMC @F176@
+0 @I943@ INDI
+1 NAME Martin /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE 18 DEC 1876
+2 PLAC near Elizabeth MN
+1 DEAT
+2 DATE 15 FEB 1943
+2 PLAC Powers Lake, ND
+1 FAMC @F176@
+1 FAMS @F342@
+1 NOTE He farmed and raised livestock.
+0 @I944@ INDI
+1 NAME Victor /Bjergaard/
+1 SEX M
+1 DEAT
+1 FAMC @F176@
+1 NOTE Was half brother to the rest
+0 @I945@ INDI
+1 NAME Emelia /Myre/
+1 SEX F
+1 BIRT
+2 DATE 25 JAN 1891
+2 PLAC near Trondhjem, Norway
+1 DEAT Y
+1 FAMS @F342@
+0 @I946@ INDI
+1 NAME Clarence Melvin /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE 26 APR 1910
+2 PLAC Powers Lake, ND
+1 DEAT
+1 FAMC @F342@
+1 FAMS @F343@
+1 NOTE Farmed on the home place.
+0 @I947@ INDI
+1 NAME John Marius /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE 10 OCT 1911
+2 PLAC Powers Lake, ND
+1 DEAT
+2 DATE 04 AUG 1963
+2 PLAC Powers Lake, ND
+1 OCCU Mechanic
+1 FAMC @F342@
+1 FAMS @F344@
+0 @I948@ INDI
+1 NAME Esther Martina /Bjergaard/
+1 SEX F
+1 BIRT
+2 DATE 18 AUG 1913
+2 PLAC Powers Lake, ND
+1 DEAT
+1 FAMC @F342@
+1 FAMS @F345@
+0 @I949@ INDI
+1 NAME Anna Marie /Bjergaard/
+1 SEX F
+1 BIRT
+2 DATE 07 OCT 1915
+2 PLAC Powers Lake, ND
+1 DEAT
+1 FAMC @F342@
+1 FAMS @F346@
+0 @I950@ INDI
+1 NAME Myrtle Elizabeth /Bjergaard/
+1 SEX F
+1 BIRT
+2 DATE 21 MAR 1917
+2 PLAC Powers Lake, ND
+1 DEAT
+2 DATE 30 DEC 2015
+2 PLAC Minot ND
+1 OCCU Store clerk
+1 FAMC @F342@
+1 FAMS @F347@
+0 @I951@ INDI
+1 NAME Melford Emil /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE 18 JUL 1919
+1 DEAT
+2 DATE 13 SEP 1939
+1 FAMC @F342@
+0 @I952@ INDI
+1 NAME Milton Edward /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE 30 JAN 1922
+2 PLAC Powers Lake, ND
+1 DEAT Y
+1 FAMC @F342@
+1 FAMS @F348@
+0 @I953@ INDI
+1 NAME Magnus Ernest /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE 09 MAR 1924
+2 PLAC Powers Lake, ND
+1 DEAT
+2 DATE 26 JUN 1982
+2 PLAC Sioux Falls, SD
+1 FAMC @F342@
+1 FAMS @F349@
+0 @I954@ INDI
+1 NAME Berniece Hazel /Bjergaard/
+1 SEX F
+1 BIRT
+2 DATE 29 AUG 1926
+2 PLAC Powers Lake, ND
+1 DEAT
+1 FAMC @F342@
+1 FAMS @F350@
+0 @I955@ INDI
+1 NAME Beulah Luella /Bjergaard/
+1 SEX F
+1 BIRT
+2 DATE 19 SEP 1928
+2 PLAC Powers Lake, ND
+1 DEAT
+1 FAMC @F342@
+1 FAMS @F351@
+1 FAMS @F352@
+0 @I956@ INDI
+1 NAME Gladys /Olson/
+1 SEX F
+1 BIRT
+2 DATE 03 DEC 1922
+1 DEAT
+1 FAMS @F343@
+0 @I957@ INDI
+1 NAME Floyd /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE 30 DEC 1955
+2 PLAC Powers Lake, ND
+1 FAMC @F343@
+1 FAMS @F353@
+0 @I958@ INDI
+1 NAME Nancy /Broz/
+1 SEX F
+1 BIRT
+2 DATE 17 NOV 1956
+1 FAMS @F353@
+0 @I959@ INDI
+1 NAME Margaret /Jenson/
+1 SEX F
+1 DEAT
+1 FAMS @F344@
+0 @I960@ INDI
+1 NAME Marilyn Ann /Bjergaard/
+1 SEX F
+1 BIRT
+2 DATE 23 DEC 1939
+2 PLAC Powers Lake, ND
+1 DEAT
+1 OCCU Real Estate
+1 FAMC @F344@
+1 FAMS @F354@
+1 NOTE Lived at Denver, CO
+0 @I961@ INDI
+1 NAME Raymond /Durkee/
+1 SEX M
+1 BIRT
+2 DATE 27 AUG 1938
+2 PLAC Aberdeen, SD
+1 DEAT
+1 OCCU Radio Broadcaster
+1 FAMS @F354@
+0 @I962@ INDI
+1 NAME John Lee /Durkee/
+1 SEX M
+1 BIRT
+2 DATE 08 AUG 1957
+2 PLAC Powers Lake, ND
+1 OCCU Laborer and Real Estate
+1 FAMC @F354@
+0 @I963@ INDI
+1 NAME Robin /Ann/
+1 SEX F
+1 BIRT
+2 DATE 18 MAY 1960
+2 PLAC Denver, CO
+1 OCCU Flight Attendant
+1 FAMC @F354@
+0 @I964@ INDI
+1 NAME James /Ray/
+1 SEX M
+1 BIRT
+2 DATE 24 MAY 1062
+2 PLAC Denver, CO
+1 DEAT Y
+1 OCCU Radio Broadcast
+1 FAMC @F354@
+1 FAMS @F355@
+0 @I965@ INDI
+1 NAME Reanne /Lae/
+1 SEX F
+1 BIRT
+2 DATE 15 MAR 1968
+2 PLAC Denver, CO
+1 FAMC @F354@
+0 @I966@ INDI
+1 NAME Sonja Wynn /Anderson/
+1 SEX F
+1 DEAT
+1 FAMS @F355@
+0 @I967@ INDI
+1 NAME Raeanne Lee /Durkee/
+1 SEX F
+1 BIRT
+2 DATE 15 MAR 1968
+2 PLAC Denver, CO
+1 FAMC @F355@
+0 @I968@ INDI
+1 NAME James Templeton /Beaton/
+1 SEX M
+1 BIRT
+2 DATE 20 APR 1908
+1 DEAT
+2 DATE 23 SEP 1984
+1 FAMS @F345@
+0 @I969@ INDI
+1 NAME Janice Faye /Beaton/
+1 SEX F
+1 BIRT
+2 DATE 25 JUN 1940
+1 DEAT
+1 OCCU Teacher
+1 FAMC @F345@
+1 FAMS @F356@
+0 @I970@ INDI
+1 NAME Ronald Lee /Beaton/
+1 SEX M
+1 BIRT
+2 DATE 04 APR 1944
+1 OCCU Musicland District Manage
+1 FAMC @F345@
+1 FAMS @F357@
+1 FAMS @F358@
+0 @I971@ INDI
+1 NAME Barbara Ann /Beaton/
+1 SEX F
+1 BIRT
+2 DATE 15 JUN 1947
+1 OCCU Asst Food Director, UND
+1 FAMC @F345@
+1 FAMS @F359@
+0 @I972@ INDI
+1 NAME Allen Martin /Beaton/
+1 SEX M
+1 BIRT
+2 DATE 15 MAR 1949
+1 OCCU CPA
+1 FAMC @F345@
+1 FAMS @F360@
+0 @I973@ INDI
+1 NAME Deborah June /Beaton/
+1 SEX F
+1 BIRT
+2 DATE 04 JUN 1954
+1 OCCU Banking
+1 FAMC @F345@
+1 FAMS @F361@
+0 @I974@ INDI
+1 NAME Thomas /Tollefson/
+1 SEX M
+1 DEAT
+1 OCCU NSP Manager
+1 FAMS @F356@
+0 @I975@ INDI
+1 NAME Todd Allen /Tollefson/
+1 SEX M
+1 BIRT
+2 DATE 24 SEP 1964
+1 FAMC @F356@
+0 @I976@ INDI
+1 NAME Amanda Jo /Tollefson/
+1 SEX F
+1 BIRT
+2 DATE 03 MAY 1968
+1 FAMC @F356@
+0 @I977@ INDI
+1 NAME Bonita /Trenda/
+1 SEX F
+1 DEAT
+1 FAMS @F357@
+0 @I978@ INDI
+1 NAME Brett Douglas /Beaton/
+1 SEX M
+1 BIRT
+2 DATE 02 MAY 1967
+1 FAMC @F357@
+0 @I979@ INDI
+1 NAME Sean /Beaton/
+1 SEX M
+1 BIRT
+2 DATE 11 MAY 1970
+1 FAMC @F357@
+0 @I980@ INDI
+1 NAME Vicki /Downer/
+1 SEX F
+1 DEAT
+1 OCCU Nurse
+1 FAMS @F358@
+0 @I981@ INDI
+1 NAME George Paul /Litzinger/
+1 SEX M
+1 DEAT
+1 OCCU Firefighter
+1 FAMS @F359@
+0 @I982@ INDI
+1 NAME Rebecca Jolyn /Litzinger/
+1 SEX F
+1 BIRT
+2 DATE 18 JAN 1979
+1 FAMC @F359@
+0 @I983@ INDI
+1 NAME Jason Paul /Litzinger/
+1 SEX M
+1 BIRT
+2 DATE 19 DEC 1980
+1 FAMC @F359@
+0 @I984@ INDI
+1 NAME Linda /Warriner/
+1 SEX F
+1 DEAT
+1 FAMS @F360@
+0 @I985@ INDI
+1 NAME Thomas /Bulger/
+1 SEX M
+1 DEAT
+1 OCCU Mechanic
+1 FAMS @F361@
+0 @I986@ INDI
+1 NAME Thilman G. /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 30 SEP 1913
+2 PLAC Granville, ND
+1 DEAT
+1 OCCU Ranching and cafe
+1 FAMS @F346@
+0 @I987@ INDI
+1 NAME Alvin Wayne /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 25 FEB 1946
+2 PLAC Minot, ND
+1 OCCU Cert. Accountant
+1 FAMC @F346@
+1 FAMS @F362@
+1 FAMS @F363@
+0 @I988@ INDI
+1 NAME Patricia /Corbin/
+1 SEX F
+1 BIRT
+2 DATE 11 FEB 1946
+1 FAMS @F362@
+0 @I989@ INDI
+1 NAME Christopher Wade /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 30 JAN 1966
+2 PLAC Bottineau, ND
+1 FAMC @F362@
+0 @I990@ INDI
+1 NAME Aaron James /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 20 SEP 1972
+1 FAMC @F362@
+0 @I991@ INDI
+1 NAME Marlys /Downing/
+1 SEX F
+1 DEAT
+1 FAMS @F363@
+0 @I992@ INDI
+1 NAME Edward Arnold /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 05 JUN 1915
+2 PLAC Granville, ND
+1 DEAT
+1 OCCU Mechanic
+1 FAMS @F347@
+0 @I993@ INDI
+1 NAME David Leigh /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 16 FEB 1947
+2 PLAC Minot, ND
+1 OCCU Radio/Electronics Tech
+1 FAMC @F347@
+1 FAMS @F364@
+0 @I994@ INDI
+1 NAME Mark Oakley /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 26 JUN 1951
+2 PLAC Minot, ND
+1 FAMC @F347@
+1 FAMS @F365@
+0 @I995@ INDI
+1 NAME Matthew Owen /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 26 JUN 1951
+2 PLAC Minot, ND
+1 OCCU Parts man/Ford
+1 FAMC @F347@
+1 NOTE Had kidney transplant on Feb 12, 1975. Donor - twin brother Mark
+0 @I996@ INDI
+1 NAME Penny Lea /Glanders/
+1 SEX F
+1 BIRT
+2 DATE 12 SEP 1953
+1 OCCU Book binder
+1 FAMS @F364@
+0 @I997@ INDI
+1 NAME Jacob Benjamin /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 25 JUN 1978
+2 PLAC Waseca, MN
+1 FAMC @F364@
+0 @I998@ INDI
+1 NAME Tyrel David /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 19 DEC 1981
+2 PLAC Waseca, MN
+1 FAMC @F364@
+0 @I999@ INDI
+1 NAME Linda May /Drelow/
+1 SEX F
+1 BIRT
+2 DATE 24 MAY 1953
+2 PLAC Breckenridge, MN
+1 FAMS @F365@
+0 @I1000@ INDI
+1 NAME Luke Adam /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 16 MAR 1975
+2 PLAC Waseca, MN
+1 FAMC @F365@
+0 @I1001@ INDI
+1 NAME Crystal Elizabeth /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 09 NOV 1978
+2 PLAC Breckenridge, MN
+1 FAMC @F365@
+0 @I1002@ INDI
+1 NAME Mary Ellen /Hedstrup/
+1 SEX F
+1 BIRT
+2 DATE 07 MAR 1940
+1 DEAT
+1 FAMS @F348@
+0 @I1003@ INDI
+1 NAME Martin Edwin /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE 25 APR 1959
+2 PLAC Powers Lake, ND
+1 OCCU Interior Decorator
+1 FAMC @F348@
+0 @I1004@ INDI
+1 NAME Monica Emelia /Bjergaard/
+1 SEX F
+1 BIRT
+2 DATE 25 JAN 1964
+1 FAMC @F348@
+0 @I1005@ INDI
+1 NAME Marcus Edwin /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE 19 SEP 1965
+1 FAMC @F348@
+0 @I1006@ INDI
+1 NAME Elizabeth Jane /Holden/
+1 SEX F
+1 BIRT
+2 DATE 04 APR 1929
+1 DEAT
+1 FAMS @F349@
+0 @I1007@ INDI
+1 NAME Magnus Ernest  Jr /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE 18 DEC 1949
+2 PLAC Delaware
+1 TITL Jr
+1 FAMC @F349@
+1 FAMS @F366@
+0 @I1008@ INDI
+1 NAME Harry Glenn /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE 14 MAR 1951
+2 PLAC Minot, ND
+1 FAMC @F349@
+1 FAMS @F367@
+0 @I1009@ INDI
+1 NAME Elaine /Ellen/
+1 SEX F
+1 DEAT
+1 FAMS @F366@
+0 @I1010@ INDI
+1 NAME Jennifer Kay /Bjergaard/
+1 SEX F
+1 BIRT
+2 DATE 27 SEP 1977
+2 PLAC Sioux Falls, SD
+1 FAMC @F366@
+0 @I1011@ INDI
+1 NAME Andrea Ellen /Bjergaard/
+1 SEX F
+1 BIRT
+2 DATE 27 JAN 1979
+1 FAMC @F366@
+0 @I1012@ INDI
+1 NAME Bradley Ernest /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE 30 APR 1981
+1 FAMC @F366@
+0 @I1013@ INDI
+1 NAME Marilyn Elizabeth /Dirka/
+1 SEX F
+1 DEAT
+1 FAMS @F367@
+0 @I1014@ INDI
+1 NAME Tonya Marie /Bjergaard/
+1 SEX F
+1 BIRT
+2 DATE 06 APR 1980
+1 FAMC @F367@
+0 @I1015@ INDI
+1 NAME Eric Glenn /Bjergaard/
+1 SEX M
+1 BIRT
+2 DATE 20 AUG 1981
+1 FAMC @F367@
+0 @I1016@ INDI
+1 NAME Arthur Julian /Benson/
+1 SEX M
+1 BIRT
+2 DATE 21 JUL 1921
+1 DEAT
+1 OCCU Farmer
+1 FAMS @F350@
+0 @I1017@ INDI
+1 NAME Elizabeth Ann /Benson/
+1 SEX F
+1 BIRT
+2 DATE 11 MAR 1946
+2 PLAC Crosby, ND
+1 FAMC @F350@
+1 FAMS @F368@
+0 @I1018@ INDI
+1 NAME Barbara Ellen /Benson/
+1 SEX F
+1 BIRT
+2 DATE 21 APR 1947
+2 PLAC Powers Lake, ND
+1 FAMC @F350@
+1 FAMS @F369@
+0 @I1019@ INDI
+1 NAME Arthur Julian  Jr /Benson/
+1 SEX M
+1 BIRT
+2 DATE 13 DEC 1950
+1 TITL Jr
+1 FAMC @F350@
+1 FAMS @F370@
+0 @I1020@ INDI
+1 NAME Linda Sue /Benson/
+1 SEX F
+1 BIRT
+2 DATE 21 DEC 1954
+1 OCCU Teacher and farming
+1 FAMC @F350@
+1 FAMS @F371@
+0 @I1021@ INDI
+1 NAME Robert Thomas /Casteel/
+1 SEX M
+1 BIRT
+2 DATE 26 JUL 1946
+1 FAMS @F368@
+0 @I1022@ INDI
+1 NAME Robert Allan /Casteel/
+1 SEX M
+1 BIRT
+2 DATE 01 JAN 1965
+1 FAMC @F368@
+0 @I1023@ INDI
+1 NAME Richard Lynn /Casteel/
+1 SEX M
+1 BIRT
+2 DATE 03 APR 1967
+1 FAMC @F368@
+0 @I1024@ INDI
+1 NAME Kerry Daryl /Strom/
+1 SEX M
+1 BIRT
+2 DATE 18 JUL 1947
+1 OCCU Farming and flying
+1 FAMS @F369@
+0 @I1025@ INDI
+1 NAME Tasha Dawn /Strom/
+1 SEX F
+1 BIRT
+2 DATE 19 DEC 1974
+1 FAMC @F369@
+0 @I1026@ INDI
+1 NAME Leif Jonas /Strom/
+1 SEX M
+1 BIRT
+2 DATE 19 DEC 1976
+1 FAMC @F369@
+0 @I1027@ INDI
+1 NAME Mitchel Kerry /Strom/
+1 SEX M
+1 BIRT
+2 DATE 26 JUN 1979
+1 FAMC @F369@
+0 @I1028@ INDI
+1 NAME Patricia Bernice /Makarcheck/
+1 SEX F
+1 BIRT
+2 DATE 15 OCT 1951
+1 FAMS @F370@
+0 @I1029@ INDI
+1 NAME Eric Jon /Benson/
+1 SEX M
+1 BIRT
+2 DATE 28 JUL 1980
+1 FAMC @F370@
+0 @I1030@ INDI
+1 NAME Tara Lyn /Benson/
+1 SEX F
+1 BIRT
+2 DATE 20 MAR 1983
+1 FAMC @F370@
+0 @I1031@ INDI
+1 NAME James /Kimball/
+1 SEX M
+1 DEAT
+1 OCCU Farming
+1 FAMS @F371@
+0 @I1032@ INDI
+1 NAME Landon James /Kimball/
+1 SEX M
+1 BIRT
+2 DATE 19 APR 1984
+1 FAMC @F371@
+0 @I1033@ INDI
+1 NAME Murle Gregor /Houston/
+1 SEX M
+1 BIRT
+2 DATE 30 JUN 1918
+1 DEAT
+2 DATE 21 MAR 1973
+1 OCCU NSP
+1 FAMS @F351@
+0 @I1034@ INDI
+1 NAME David Brian /Houston/
+1 SEX M
+1 BIRT
+2 DATE 08 APR 1948
+2 PLAC Minot, ND
+1 OCCU Electronics
+1 FAMC @F351@
+1 FAMS @F372@
+0 @I1035@ INDI
+1 NAME Carol Lynn /Houston/
+1 SEX F
+1 BIRT
+2 DATE 27 OCT 1949
+2 PLAC Minot, ND
+1 OCCU RN and beautician
+1 FAMC @F351@
+1 FAMS @F373@
+1 FAMS @F374@
+0 @I1036@ INDI
+1 NAME Curtis Grant /Houston/
+1 SEX M
+1 BIRT
+2 DATE 07 DEC 1951
+2 PLAC Minot, ND
+1 OCCU ND Patrolman
+1 FAMC @F351@
+1 FAMS @F375@
+0 @I1037@ INDI
+1 NAME Susan /Atkinsons/
+1 SEX F
+1 DEAT
+1 FAMS @F372@
+0 @I1038@ INDI
+1 NAME April Denice /Houston/
+1 SEX F
+1 BIRT
+2 DATE 01 DEC 1974
+1 FAMC @F372@
+0 @I1039@ INDI
+1 NAME Dawn Marie /Houston/
+1 SEX F
+1 BIRT
+2 DATE 11 APR 1976
+1 FAMC @F372@
+0 @I1040@ INDI
+1 NAME Steve /Stetson/
+1 SEX M
+1 DEAT
+1 FAMS @F373@
+0 @I1041@ INDI
+1 NAME Randy /Rollins/
+1 SEX M
+1 BIRT
+2 DATE 03 NOV 1954
+1 FAMS @F374@
+0 @I1042@ INDI
+1 NAME Christopher Wayne /Rollins/
+1 SEX M
+1 BIRT
+2 DATE 06 FEB 1970
+2 PLAC Minot, ND
+1 FAMC @F374@
+0 @I1043@ INDI
+1 NAME Joan /Pasch/
+1 SEX F
+1 DEAT
+1 FAMS @F375@
+0 @I1044@ INDI
+1 NAME Herbert Matthew /Goebel/
+1 SEX M
+1 BIRT
+2 DATE 14 JUN 1921
+1 DEAT
+1 FAMS @F352@
+0 @I1045@ INDI
+1 NAME Anna /Eliason/
+1 SEX F
+1 DEAT
+1 FAMS @F340@
+0 @I1046@ INDI
+1 NAME Rudolph /Bjergaard/
+1 SEX M
+1 DEAT
+1 FAMC @F340@
+0 @I1047@ INDI
+1 NAME Adolph /Bjergaard/
+1 SEX M
+1 DEAT
+1 FAMC @F340@
+0 @I1048@ INDI
+1 NAME Christine /Bjergaard/
+1 SEX F
+1 DEAT
+1 FAMC @F340@
+0 @I1049@ INDI
+1 NAME Clara /Bjergaard/
+1 SEX F
+1 DEAT
+1 FAMC @F340@
+0 @I1050@ INDI
+1 NAME Alma /Bjergaard/
+1 SEX F
+1 DEAT
+1 FAMC @F340@
+1 FAMS @F376@
+0 @I1051@ INDI
+1 NAME Chris /Ellingson/
+1 SEX M
+1 DEAT
+1 FAMS @F376@
+0 @I1052@ INDI
+1 NAME Maria /Bergerson/
+1 SEX F
+1 DEAT
+1 FAMS @F293@
+0 @I1053@ INDI
+1 NAME Lucy /Madden/
+1 SEX F
+1 DEAT
+1 FAMS @F295@
+0 @I1054@ INDI
+1 NAME Albert Ira /Bratlien/
+1 SEX M
+1 BIRT
+2 DATE 28 MAY 1917
+1 BAPM
+2 DATE 31 MAY 1920
+2 PLAC Lunds Valley
+1 DEAT
+2 DATE 09 OCT 1921
+1 FAMC @F295@
+1 NOTE Rev. O. S. Varud baptized Albert and his sponsors were Kasper Olson, P
+2 CONC auline
+2 CONT Olson and Mrs. Anna Varud.
+0 @I1055@ INDI
+1 NAME Lowane Harold /Bratlien/
+1 SEX M
+1 BIRT
+2 DATE 27 OCT 1923
+1 DEAT
+2 DATE 04 NOV 1923
+1 FAMC @F295@
+0 @I1056@ INDI
+1 NAME Steffan /Mattson/
+1 SEX M
+1 DEAT
+1 FAMC @F133@
+0 @I1057@ INDI
+1 NAME Signe /Bakken/
+1 SEX F
+1 DEAT
+1 FAMC @F323@
+1 FAMS @F377@
+0 @I1058@ INDI
+1 NAME Kiland /?/
+1 SEX M
+1 DEAT
+1 FAMS @F377@
+0 @I1059@ INDI
+1 NAME Brynn Morgan /Erickson/
+1 SEX F
+1 BIRT
+2 DATE 11 AUG 2005
+2 PLAC Duluth MN
+1 FAMC @F41@
+0 @I1060@ INDI
+1 NAME Terri Lynn /Butler/
+1 SEX F
+1 BIRT
+2 DATE 22 OCT 1974
+1 FAMC @F378@
+1 FAMS @F41@
+0 @I1061@ INDI
+1 NAME DeAnna Kay /Julian/
+1 SEX F
+1 DEAT
+1 FAMC @F160@
+1 FAMS @F379@
+0 @I1062@ INDI
+1 NAME John /Slevin/
+1 SEX M
+1 DEAT
+1 FAMS @F379@
+0 @I1063@ INDI
+1 NAME Nicole /Julian/
+1 SEX F
+1 DEAT
+1 FAMC @F160@
+0 @I1064@ INDI
+1 NAME Rick /Julian/
+1 SEX M
+1 DEAT
+1 FAMS @F160@
+0 @I1065@ INDI
+1 NAME Melissa /Bratlien/
+1 SEX F
+1 DEAT
+1 FAMC @F258@
+1 FAMS @F380@
+0 @I1066@ INDI
+1 NAME Chris /Nissen/
+1 SEX M
+1 DEAT
+1 FAMS @F380@
+0 @I1067@ INDI
+1 NAME Rodney /Paseka/
+1 SEX M
+1 DEAT
+1 FAMS @F248@
+0 @I1068@ INDI
+1 NAME Ardith /Nodsle/
+1 SEX F
+1 BIRT
+2 DATE 13 DEC 1943
+1 FAMS @F156@
+0 @I1069@ INDI
+1 NAME Gregory /Peterson/
+1 SEX M
+1 DEAT
+1 FAMC @F156@
+1 FAMS @F381@
+0 @I1070@ INDI
+1 NAME Shannon /Jemptrud/
+1 SEX F
+1 DEAT
+1 FAMS @F381@
+0 @I1071@ INDI
+1 NAME Gary /Peterson/
+1 SEX M
+1 DEAT
+1 FAMC @F156@
+1 FAMS @F382@
+0 @I1072@ INDI
+1 NAME Melissa /_/
+1 SEX F
+1 DEAT
+1 FAMS @F382@
+0 @I1073@ INDI
+1 NAME Haidyn Lynn /Peterson/
+1 SEX M
+1 BIRT
+2 DATE 13 MAY 2002
+1 FAMC @F382@
+0 @I1074@ INDI
+1 NAME Tim /Albin/
+1 SEX M
+1 DEAT
+1 FAMS @F269@
+0 @I1075@ INDI
+1 NAME Erica /Albin/
+1 SEX F
+1 DEAT
+1 FAMC @F269@
+1 FAMS @F383@
+0 @I1076@ INDI
+1 NAME Shad /Koon/
+1 SEX M
+1 DEAT
+1 FAMS @F383@
+0 @I1077@ INDI
+1 NAME Taylor Anne /Koon/
+1 SEX F
+1 BIRT
+2 DATE 14 SEP 2002
+1 FAMC @F383@
+0 @I1078@ INDI
+1 NAME Sarah /Tharaldson/
+1 SEX F
+1 DEAT
+1 FAMS @F272@
+0 @I1079@ INDI
+1 NAME Hannah Lynn /Bratlien/
+1 SEX F
+1 BIRT
+2 DATE 28 SEP 2002
+1 FAMC @F272@
+0 @I1080@ INDI
+1 NAME Janusz /Nord/
+1 SEX M
+1 DEAT
+1 FAMS @F256@
+0 @I1081@ INDI
+1 NAME Emma Wegrsyn /Nord/
+1 SEX F
+1 BIRT
+2 DATE 15 OCT 2002
+1 FAMC @F256@
+0 @I1082@ INDI
+1 NAME Trey Lee-Roy /Peterson/
+1 SEX M
+1 BIRT
+2 DATE 23 OCT 2002
+1 FAMC @F381@
+0 @I1083@ INDI
+1 NAME Jonathan /Thorson/
+1 SEX M
+1 DEAT
+1 FAMC @F320@
+1 FAMS @F384@
+0 @I1084@ INDI
+1 NAME Jill /?/
+1 SEX F
+1 DEAT
+1 FAMS @F384@
+0 @I1085@ INDI
+1 NAME Natalie Kristine /Thorson/
+1 SEX F
+1 BIRT
+2 DATE 06 OCT 2002
+1 FAMC @F384@
+0 @I1086@ INDI
+1 NAME Daniel /Thorson/
+1 SEX M
+1 DEAT
+1 FAMC @F320@
+1 FAMS @F385@
+0 @I1087@ INDI
+1 NAME Anita /Mckowen/
+1 SEX F
+1 DEAT
+1 FAMS @F385@
+0 @I1088@ INDI
+1 NAME Jaden Nels /Thorson/
+1 SEX M
+1 BIRT
+2 DATE 21 DEC 2002
+1 FAMC @F385@
+0 @I1089@ INDI
+1 NAME Norman /Gunderson/
+1 SEX M
+1 BIRT
+2 DATE 1906
+1 DEAT
+2 DATE 18 NOV 2002
+1 FAMS @F386@
+0 @I1090@ INDI
+1 NAME Julia /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 06 JAN 1904
+1 DEAT
+2 DATE 22 MAR 2006
+1 FAMC @F341@
+1 FAMS @F386@
+0 @I1091@ INDI
+1 NAME Elaine /Gunderson/
+1 SEX F
+1 DEAT
+1 FAMC @F386@
+1 FAMS @F387@
+0 @I1092@ INDI
+1 NAME _ /Smith/
+1 SEX M
+1 DEAT
+1 FAMS @F387@
+0 @I1093@ INDI
+1 NAME George /Fitzpatrick/
+1 SEX M
+1 BIRT
+2 DATE (FEB 12 1939)
+1 DEAT
+2 DATE 10 DEC 2002
+2 PLAC Fremont MI
+1 FAMS @F157@
+0 @I1094@ INDI
+1 NAME Michael /Fitzpatrick/
+1 SEX M
+1 DEAT
+1 FAMC @F157@
+1 FAMS @F388@
+0 @I1095@ INDI
+1 NAME Joel /Fitzpatrick/
+1 SEX M
+1 DEAT
+1 FAMC @F157@
+1 FAMS @F389@
+0 @I1096@ INDI
+1 NAME Theresa /Fitzpatrick/
+1 SEX F
+1 DEAT
+1 FAMC @F157@
+0 @I1097@ INDI
+1 NAME Robert /Tepe/
+1 SEX M
+1 DEAT
+1 FAMS @F164@
+0 @I1098@ INDI
+1 NAME Lisa /Tepe/
+1 SEX F
+1 DEAT
+1 FAMC @F164@
+1 FAMS @F390@
+0 @I1099@ INDI
+1 NAME Brian /Tepe/
+1 SEX M
+1 DEAT
+1 FAMC @F164@
+1 FAMS @F391@
+0 @I1100@ INDI
+1 NAME Shawna /Tepe/
+1 SEX F
+1 DEAT
+1 FAMC @F164@
+1 FAMS @F392@
+0 @I1101@ INDI
+1 NAME Kristen /Tepe/
+1 SEX F
+1 DEAT
+1 FAMC @F164@
+1 FAMS @F393@
+0 @I1102@ INDI
+1 NAME Kyle /Friday/
+1 SEX M
+1 DEAT
+1 FAMS @F392@
+0 @I1103@ INDI
+1 NAME Kelly /Marshall/
+1 SEX F
+1 DEAT
+1 FAMS @F391@
+0 @I1104@ INDI
+1 NAME Samuel /Harrington/
+1 SEX M
+1 DEAT
+1 FAMS @F155@
+0 @I1105@ INDI
+1 NAME Sue /?/
+1 SEX F
+1 DEAT
+1 FAMS @F165@
+0 @I1106@ INDI
+1 NAME Heidi /Grefsrud/
+1 SEX F
+1 DEAT
+1 FAMC @F165@
+1 FAMS @F394@
+0 @I1107@ INDI
+1 NAME Josh /Grefsrud/
+1 SEX M
+1 DEAT
+1 FAMC @F165@
+0 @I1108@ INDI
+1 NAME Darrin /Boehm/
+1 SEX M
+1 DEAT
+1 FAMS @F394@
+0 @I1109@ INDI
+1 NAME Tanner James /Boehm/
+1 SEX M
+1 BIRT
+2 DATE 10 SEP 2003
+1 FAMC @F394@
+0 @I1110@ INDI
+1 NAME Karsyn Michael /Peterson/
+1 SEX M
+1 BIRT
+2 DATE 13 DEC 2004
+1 FAMC @F382@
+0 @I1111@ INDI
+1 NAME Aryisa Rae /Nissen/
+1 SEX F
+1 BIRT
+2 DATE 09 APR 2005
+1 FAMC @F380@
+0 @I1112@ INDI
+1 NAME Laurice /?/
+1 SEX F
+1 DEAT
+1 FAMS @F389@
+0 @I1113@ INDI
+1 NAME Alexander James /Fitzpatrick/
+1 SEX M
+1 BIRT
+2 DATE 01 MAY 2005
+1 FAMC @F389@
+0 @I1114@ INDI
+1 NAME Nikole Janae /Thorson/
+1 SEX F
+1 BIRT
+2 DATE 03 MAY 2005
+1 FAMC @F384@
+0 @I1115@ INDI
+1 NAME Cathy /?/
+1 SEX F
+1 DEAT
+1 FAMS @F254@
+0 @I1116@ INDI
+1 NAME _ /Niesen/
+1 SEX M
+1 DEAT
+1 FAMS @F259@
+0 @I1117@ INDI
+1 NAME Peter /Alto/
+1 SEX M
+1 DEAT
+1 FAMS @F260@
+0 @I1118@ INDI
+1 NAME Jeff /Liljequist/
+1 SEX M
+1 DEAT
+1 FAMS @F170@
+0 @I1119@ INDI
+1 NAME Lee /Montgomery/
+1 SEX M
+1 DEAT
+1 FAMS @F171@
+0 @I1120@ INDI
+1 NAME Nicholas /Liljequist/
+1 SEX M
+1 DEAT
+1 FAMC @F170@
+0 @I1121@ INDI
+1 NAME David /West/
+1 SEX M
+1 DEAT
+1 FAMS @F158@
+0 @I1122@ INDI
+1 NAME Lee /Peterson/
+1 SEX M
+1 DEAT
+1 FAMS @F159@
+0 @I1123@ INDI
+1 NAME Anita /West/
+1 SEX F
+1 DEAT
+1 FAMC @F158@
+1 FAMS @F395@
+0 @I1124@ INDI
+1 NAME Jennelle /West/
+1 SEX F
+1 DEAT
+1 FAMC @F158@
+1 FAMS @F396@
+0 @I1125@ INDI
+1 NAME Derrick /Taylor/
+1 SEX M
+1 DEAT
+1 FAMS @F396@
+0 @I1126@ INDI
+1 NAME Edward /Anderson/
+1 SEX M
+1 DEAT
+1 FAMS @F265@
+0 @I1127@ INDI
+1 NAME Randolph /Nogel/
+1 SEX M
+1 DEAT
+1 FAMS @F252@
+0 @I1128@ INDI
+1 NAME Colleen /Hilsandager/
+1 SEX F
+1 DEAT
+1 FAMS @F169@
+0 @I1129@ INDI
+1 NAME Harrison /Nord/
+1 SEX M
+1 DEAT
+1 FAMC @F255@
+0 @I1130@ INDI
+1 NAME Bradley /Epema/
+1 SEX M
+1 DEAT
+1 FAMS @F271@
+0 @I1131@ INDI
+1 NAME Parker James /Epema/
+1 SEX M
+1 BIRT
+2 DATE 30 SEP 1995
+1 FAMC @F271@
+0 @I1132@ INDI
+1 NAME Steve /Merrill/
+1 SEX M
+1 DEAT
+1 FAMS @F268@
+0 @I1133@ INDI
+1 NAME Taylor Edward /Merrill/
+1 SEX M
+1 BIRT
+2 DATE 27 JAN 1996
+1 FAMC @F268@
+0 @I1134@ INDI
+1 NAME Shania Mae /Alto/
+1 SEX F
+1 BIRT
+2 DATE 12 MAR 1996
+1 FAMC @F260@
+0 @I1135@ INDI
+1 NAME Christanne /?/
+1 SEX F
+1 DEAT
+1 FAMS @F270@
+0 @I1136@ INDI
+1 NAME Lucas Christopher /Allen/
+1 SEX M
+1 BIRT
+2 DATE 24 AUG 1996
+1 FAMC @F270@
+0 @I1137@ INDI
+1 NAME Raul /Centeno/
+1 SEX M
+1 DEAT
+1 FAMS @F257@
+0 @I1138@ INDI
+1 NAME Sammuel Raul /Centeno/
+1 SEX M
+1 BIRT
+2 DATE 08 APR 1997
+1 FAMC @F257@
+0 @I1139@ INDI
+1 NAME Bari /?/
+1 SEX F
+1 DEAT
+1 FAMS @F388@
+0 @I1140@ INDI
+1 NAME David Michael /Fitzpatrick/
+1 SEX M
+1 BIRT
+2 DATE 08 AUG 1997
+1 FAMC @F388@
+0 @I1141@ INDI
+1 NAME Kaylee Marie /Fitzpatrick/
+1 SEX F
+1 BIRT
+2 DATE 08 AUG 1997
+1 FAMC @F388@
+0 @I1142@ INDI
+1 NAME Tyra Nichole /Peterson/
+1 SEX F
+1 BIRT
+2 DATE 09 MAR 1998
+1 FAMC @F381@
+0 @I1143@ INDI
+1 NAME Troy /Peterson/
+1 SEX M
+1 BIRT
+2 DATE 1993
+1 FAMC @F381@
+0 @I1144@ INDI
+1 NAME Joseph /Walker/
+1 SEX M
+1 DEAT
+1 FAMS @F163@
+0 @I1145@ INDI
+1 NAME Hanna Jo /Walker/
+1 SEX F
+1 BIRT
+2 DATE 22 JUN 1998
+1 FAMC @F163@
+0 @I1146@ INDI
+1 NAME Mamie /?/
+1 SEX F
+1 DEAT
+1 FAMS @F167@
+0 @I1147@ INDI
+1 NAME Becky /?/
+1 SEX F
+1 DEAT
+1 FAMS @F168@
+0 @I1148@ INDI
+1 NAME Zachary Michael /Bengtson/
+1 SEX M
+1 BIRT
+2 DATE 27 AUG 1998
+1 FAMC @F168@
+0 @I1149@ INDI
+1 NAME Cody Lee /Alto/
+1 SEX M
+1 BIRT
+2 DATE 25 OCT 1998
+1 FAMC @F260@
+0 @I1150@ INDI
+1 NAME Hugh /Murray/
+1 SEX M
+1 DEAT
+1 FAMS @F395@
+0 @I1151@ INDI
+1 NAME Jason Patrick /Murray/
+1 SEX M
+1 BIRT
+2 DATE 29 JAN 1999
+1 FAMC @F395@
+0 @I1152@ INDI
+1 NAME Tory Thomas /Bratlien/
+1 SEX M
+1 BIRT
+2 DATE 15 APR 1999
+1 FAMC @F272@
+0 @I1153@ INDI
+1 NAME Randy Jr /Nogel/
+1 SEX M
+1 BIRT
+2 DATE 05 DEC 1982
+1 FAMC @F252@
+0 @I1154@ INDI
+1 NAME Jesse /Nogel/
+1 SEX M
+1 BIRT
+2 DATE 09 JUN 1985
+1 FAMC @F252@
+0 @I1155@ INDI
+1 NAME Heather /Morrison/
+1 SEX F
+1 BIRT
+2 DATE 18 APR 1988
+1 FAMC @F255@
+0 @I1156@ INDI
+1 NAME Justin /Morrison/
+1 SEX M
+1 BIRT
+2 DATE 18 OCT 1990
+1 FAMC @F255@
+0 @I1157@ INDI
+1 NAME (male) /Wm Wright/
+1 SEX M
+1 BIRT
+2 DATE 29 JAN 1937
+1 DEAT
+1 FAMS @F14@
+0 @I1158@ INDI
+1 NAME Curt /Vanner/
+1 SEX M
+1 DEAT
+1 FAMS @F397@
+0 @I1159@ INDI
+1 NAME Jeffery Wright /?/
+1 SEX M
+1 DEAT
+1 FAMC @F14@
+0 @I1160@ INDI
+1 NAME Jerrod Wright /?/
+1 SEX M
+1 DEAT
+1 FAMC @F14@
+0 @I1161@ INDI
+1 NAME Ryan /Guerra/
+1 SEX M
+1 DEAT
+1 FAMC @F16@
+0 @I1162@ INDI
+1 NAME Casey Bergseid /x/
+1 SEX F
+1 BIRT
+2 DATE 23 DEC 1970
+1 FAMC @F16@
+1 FAMS @F397@
+0 @I1163@ INDI
+1 NAME Taylor /Vanner/
+1 SEX M
+1 DEAT
+1 FAMC @F397@
+0 @I1164@ INDI
+1 NAME Jayde /Vanner/
+1 SEX M
+1 DEAT
+1 FAMC @F397@
+0 @I1165@ INDI
+1 NAME Gage /Vanner/
+1 SEX M
+1 DEAT
+1 FAMC @F397@
+0 @I1166@ INDI
+1 NAME Theresa /?/
+1 SEX F
+1 DEAT
+1 FAMS @F17@
+0 @I1167@ INDI
+1 NAME Charles /Faries/
+1 SEX M
+1 DEAT
+1 FAMS @F15@
+0 @I1168@ INDI
+1 NAME Steve /Lien/
+1 SEX M
+1 DEAT
+1 FAMC @F23@
+0 @I1169@ INDI
+1 NAME Patty /Lien/
+1 SEX F
+1 DEAT
+1 FAMC @F23@
+1 FAMS @F398@
+0 @I1170@ INDI
+1 NAME Roger /Blakeway/
+1 SEX M
+1 DEAT
+1 FAMS @F398@
+0 @I1171@ INDI
+1 NAME Randy /Lomsdal/
+1 SEX F
+1 DEAT
+1 FAMS @F95@
+0 @I1172@ INDI
+1 NAME Adrian /Erickson/
+1 SEX M
+1 BIRT
+2 DATE 06 MAR 2008
+1 FAMC @F41@
+0 @I1173@ INDI
+1 NAME Tom /Butler/
+1 SEX M
+1 DEAT
+1 FAMS @F378@
+0 @I1174@ INDI
+1 NAME Bernard /DesRoches/
+1 SEX M
+1 DEAT
+1 FAMS @F45@
+0 @I1175@ INDI
+1 NAME Donna /?/
+1 SEX F
+1 DEAT
+1 FAMC @F399@
+0 @I1176@ INDI
+1 NAME Donna /Des/
+1 SEX F
+1 DEAT
+1 FAMS @F45@
+0 @I1177@ INDI
+1 NAME Rasmus /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 15 OCT 1841
+1 DEAT
+2 DATE 06 APR 1927
+1 FAMC @F400@
+1 FAMS @F401@
+1 FAMS @F276@
+0 @I1178@ INDI
+1 NAME Agate /Lavik/
+1 SEX F
+1 BIRT
+2 DATE 1821
+1 DEAT
+2 DATE 1907
+2 PLAC Lutheran Church Cem at Rindal MN
+1 FAMC @F400@
+1 FAMS @F402@
+0 @I1179@ INDI
+1 NAME -- /Ofstedahl/
+1 SEX M
+1 DEAT
+1 FAMS @F402@
+0 @I1180@ INDI
+1 NAME Agnes /Grimsrud/
+1 SEX F
+1 BIRT
+2 DATE 03 AUG 1907
+1 DEAT
+2 DATE 2003
+1 FAMC @F2@
+1 FAMS @F403@
+0 @I1181@ INDI
+1 NAME Marie /Grimsrud/
+1 SEX F
+1 BIRT
+2 DATE 19 APR 1909
+2 PLAC Bagley, MN
+1 BAPM
+2 DATE 16 MAY 1909
+1 DEAT
+2 DATE 09 NOV 1982
+2 PLAC Moorhead, MN
+1 FAMC @F2@
+1 FAMS @F404@
+0 @I1182@ INDI
+1 NAME Valborg /Grimsrud/
+1 SEX F
+1 BIRT
+2 DATE 06 MAY 1914
+2 PLAC Moscow, ID
+1 DEAT
+2 DATE 08 JUL 1977
+2 PLAC Moorhead, MN
+1 FAMC @F2@
+1 FAMS @F405@
+0 @I1183@ INDI
+1 NAME Carl /Grimsrud/
+1 SEX M
+1 BIRT
+2 DATE 14 MAR 1917
+1 DEAT
+2 DATE 25 AUG 1984
+2 PLAC Elkton Oregon
+1 FAMC @F2@
+1 FAMS @F406@
+0 @I1184@ INDI
+1 NAME Dorothea /Grimsrud/
+1 SEX F
+1 BIRT
+2 DATE 29 MAR 1911
+1 DEAT
+2 DATE 24 MAR 1924
+2 PLAC St. Hilaire, MN
+1 FAMC @F2@
+0 @I1185@ INDI
+1 NAME Joseph /Langemo/
+1 SEX M
+1 BIRT
+2 DATE 15 SEP 1906
+2 PLAC Edingurg, ND
+1 DEAT
+2 DATE 16 JAN 1972
+2 PLAC Moorhead, MN
+1 FAMS @F404@
+0 @I1186@ INDI
+1 NAME James /Langemo/
+1 SEX M
+1 DEAT
+1 FAMC @F404@
+0 @I1187@ INDI
+1 NAME Ruth /Langemo/
+1 SEX F
+1 BIRT
+2 DATE 18 FEB 1938
+2 PLAC Wadena, MN
+1 DEAT
+2 DATE 21 JAN 1979
+2 PLAC Porte Alegre Brazil
+1 FAMC @F404@
+1 FAMS @F407@
+1 NOTE Ruth and husband Don were missionerys in Brazil
+0 @I1188@ INDI
+1 NAME Joan /Langemo/
+1 SEX F
+1 DEAT
+1 FAMC @F404@
+0 @I1189@ INDI
+1 NAME Joseph Mark /Langemo/
+1 SEX M
+1 DEAT
+1 FAMC @F404@
+1 FAMS @F408@
+0 @I1190@ INDI
+1 NAME Lorraine Marie /Hanson/
+1 SEX F
+1 DEAT
+1 FAMS @F408@
+0 @I1191@ INDI
+1 NAME Jerome /Skeim/
+1 SEX M
+1 BIRT
+2 DATE 10 FEB 1913
+2 PLAC Audubon, MN
+1 DEAT
+2 DATE 13 JAN 1974
+2 PLAC Moorhead, MN
+1 FAMC @F409@
+1 FAMS @F405@
+0 @I1192@ INDI
+1 NAME Jerome JR /Skeim/
+1 SEX M
+1 DEAT
+1 FAMC @F405@
+0 @I1193@ INDI
+1 NAME Richard /Skeim/
+1 SEX M
+1 DEAT
+1 FAMC @F405@
+0 @I1194@ INDI
+1 NAME Donald /Nelson/
+1 SEX M
+1 DEAT
+1 FAMS @F407@
+0 @I1195@ INDI
+1 NAME Andrea Kirsten /Nelson/
+1 SEX F
+1 BIRT
+2 DATE 02 FEB 1978
+1 FAMC @F407@
+0 @I1196@ INDI
+1 NAME Andres Johannesson /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 1734
+1 DEAT
+2 DATE 1818
+1 FAMS @F410@
+0 @I1197@ INDI
+1 NAME Maria Andresdatter /Namdal/
+1 SEX F
+1 BIRT
+2 DATE 1738
+1 DEAT
+2 DATE 1829
+1 FAMS @F410@
+0 @I1198@ INDI
+1 NAME Johannes /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 1760
+1 DEAT
+2 DATE 1820
+1 FAMC @F410@
+1 FAMS @F411@
+0 @I1199@ INDI
+1 NAME Agate Knutsdatter /Aldal/
+1 SEX F
+1 BIRT
+2 DATE (_ _ 1761)
+1 DEAT
+2 DATE (_ _ 1824)
+1 FAMS @F411@
+0 @I1200@ INDI
+1 NAME Brita /Lavik/
+1 SEX F
+1 BIRT
+2 DATE 1764
+1 DEAT Y
+1 FAMC @F410@
+1 FAMS @F412@
+0 @I1201@ INDI
+1 NAME Jacob Somonson /Bindingsbo/
+1 SEX M
+1 DEAT
+1 FAMS @F412@
+0 @I1202@ INDI
+1 NAME Andres /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 1774
+1 DEAT
+2 DATE 1862
+1 FAMC @F410@
+1 FAMS @F413@
+0 @I1203@ INDI
+1 NAME Anne /Nesse/
+1 SEX F
+1 DEAT
+1 FAMS @F413@
+0 @I1204@ INDI
+1 NAME Anna /Lavik/
+1 SEX F
+1 BIRT
+2 DATE 1780
+1 DEAT
+2 DATE 1860
+1 FAMC @F410@
+1 FAMS @F414@
+0 @I1205@ INDI
+1 NAME __ /Nygaard/
+1 SEX M
+1 DEAT
+1 FAMS @F414@
+0 @I1206@ INDI
+1 NAME Johannes /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 1874
+1 DEAT Y
+1 FAMC @F410@
+1 FAMS @F415@
+0 @I1207@ INDI
+1 NAME Kari Vikingsdatter /Almelid/
+1 SEX F
+1 DEAT
+1 FAMS @F415@
+0 @I1208@ INDI
+1 NAME Anders /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 1792
+1 DEAT
+2 DATE 1848
+1 FAMC @F411@
+1 FAMS @F400@
+0 @I1209@ INDI
+1 NAME Dordei Knutsdatter /Vetlejord/
+1 SEX F
+1 BIRT
+2 DATE 1800
+1 DEAT
+2 DATE 1856
+1 FAMS @F400@
+0 @I1210@ INDI
+1 NAME Knut /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 1794
+1 DEAT
+2 DATE 1863
+1 FAMC @F411@
+1 FAMS @F416@
+0 @I1211@ INDI
+1 NAME Anna Andresdatter /Skjervheim/
+1 SEX F
+1 DEAT
+1 FAMS @F416@
+0 @I1212@ INDI
+1 NAME Simon /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 1796
+1 DEAT Y
+1 FAMC @F411@
+1 FAMS @F417@
+0 @I1213@ INDI
+1 NAME Synneva /Hommedal/
+1 SEX F
+1 DEAT
+1 FAMS @F417@
+0 @I1214@ INDI
+1 NAME Maria /Lavik/
+1 SEX F
+1 BIRT
+2 DATE 1797
+1 DEAT
+2 DATE 1869
+1 FAMC @F411@
+0 @I1215@ INDI
+1 NAME Olav /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 1798
+1 DEAT
+2 DATE 1863
+1 FAMC @F411@
+1 FAMS @F418@
+0 @I1216@ INDI
+1 NAME Kristbjorg /Larsdatter/
+1 SEX F
+1 DEAT
+1 FAMS @F418@
+0 @I1217@ INDI
+1 NAME Maria /Lavik/
+1 SEX F
+1 BIRT
+2 DATE 1800
+1 DEAT
+2 DATE 1870
+1 FAMC @F411@
+1 FAMS @F419@
+0 @I1218@ INDI
+1 NAME Halvard Johannesson /Flatekval/
+1 SEX M
+1 BIRT
+2 DATE 1798
+1 DEAT
+2 DATE 1869
+1 FAMS @F419@
+0 @I1219@ INDI
+1 NAME Ingeborg /Tuff/
+1 SEX F
+1 BIRT
+2 DATE 23 MAY 1853
+1 DEAT
+2 DATE 07 OCT 1886
+1 FAMC @F420@
+1 FAMS @F276@
+0 @I1220@ INDI
+1 NAME Antonnette /Hagen/
+1 SEX F
+1 BIRT
+2 DATE 26 MAY 1865
+1 DEAT
+2 DATE 06 DEC 1940
+1 FAMS @F401@
+0 @I1221@ INDI
+1 NAME Andrew /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 06 JUN 1874
+1 DEAT
+2 DATE 04 JUL 1900
+1 FAMC @F276@
+0 @I1222@ INDI
+1 NAME Marie /Lavik/
+1 SEX F
+1 BIRT
+2 DATE 07 FEB 1876
+1 DEAT
+2 DATE 1902
+1 FAMC @F276@
+0 @I1223@ INDI
+1 NAME Peter /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 13 AUG 1879
+1 DEAT
+2 DATE 1910
+1 FAMC @F276@
+0 @I1224@ INDI
+1 NAME John R /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 31 JAN 1881
+1 DEAT
+2 DATE 07 MAR 1969
+1 FAMC @F276@
+1 FAMS @F421@
+0 @I1225@ INDI
+1 NAME Hannah Marie /Lavik/
+1 SEX F
+1 BIRT
+2 DATE 20 DEC 1882
+1 DEAT
+2 DATE 1908
+1 FAMC @F276@
+0 @I1226@ INDI
+1 NAME Ingvald Anton /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 01 FEB 1891
+1 DEAT
+2 DATE 1960
+1 FAMC @F401@
+1 FAMS @F422@
+0 @I1227@ INDI
+1 NAME Rudolph Halbert /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 30 APR 1892
+1 DEAT Y
+1 FAMC @F401@
+1 FAMS @F423@
+0 @I1228@ INDI
+1 NAME Anton Nicolai /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 28 JAN 1894
+1 DEAT
+2 DATE 23 SEP 1975
+1 FAMC @F401@
+1 FAMS @F424@
+0 @I1229@ INDI
+1 NAME Theodore /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 1896
+1 DEAT
+2 DATE 28 JAN 1920
+1 FAMC @F401@
+0 @I1230@ INDI
+1 NAME Robert /Kerr/
+1 SEX M
+1 BIRT
+2 DATE 13 FEB 1913
+2 PLAC New Zealand
+1 DEAT
+1 FAMS @F403@
+0 @I1231@ INDI
+1 NAME Christopher /Kerr/
+1 SEX M
+1 BIRT
+2 DATE 01 DEC 1954
+1 FAMC @F403@
+0 @I1232@ INDI
+1 NAME Betty /Wagner/
+1 SEX F
+1 DEAT
+1 FAMS @F406@
+0 @I1233@ INDI
+1 NAME Sophie B /Bergh/
+1 SEX F
+1 BIRT
+2 DATE 10 JUL 1877
+1 DEAT Y
+1 FAMS @F421@
+0 @I1234@ INDI
+1 NAME Rolf Johan /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 20 JUN 1907
+1 DEAT
+1 FAMC @F421@
+1 FAMS @F425@
+0 @I1235@ INDI
+1 NAME Valborg Bergliot /Lavik/
+1 SEX F
+1 BIRT
+2 DATE 04 AUG 1909
+1 DEAT
+1 FAMC @F421@
+1 FAMS @F426@
+0 @I1236@ INDI
+1 NAME Robert J /Bancroft/
+1 SEX M
+1 BIRT
+2 DATE 11 JUN 1908
+1 DEAT
+1 FAMS @F426@
+0 @I1237@ INDI
+1 NAME Norma Marguerite /Lavik/
+1 SEX F
+1 BIRT
+2 DATE 18 NOV 1911
+1 DEAT
+1 FAMC @F421@
+1 FAMS @F427@
+0 @I1238@ INDI
+1 NAME Paul Sophus /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 11 FEB 1915
+1 DEAT
+1 FAMC @F421@
+1 FAMS @F428@
+0 @I1239@ INDI
+1 NAME Clara Bolette /Gronhovd/
+1 SEX F
+1 BIRT
+2 DATE 28 MAY 1897
+1 DEAT
+2 DATE 1975
+1 FAMS @F422@
+0 @I1240@ INDI
+1 NAME Agnes Marie /Lavik/
+1 SEX F
+1 BIRT
+2 DATE 27 MAR 1923
+1 DEAT
+1 FAMC @F422@
+1 FAMS @F429@
+0 @I1241@ INDI
+1 NAME Harold Ingvald /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 19 JAN 1927
+1 DEAT
+1 FAMC @F422@
+0 @I1242@ INDI
+1 NAME Melvin Theodore /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 07 MAY 1929
+1 DEAT
+1 FAMC @F422@
+0 @I1243@ INDI
+1 NAME Robert Andrew /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 26 DEC 1932
+1 DEAT
+1 FAMC @F422@
+0 @I1244@ INDI
+1 NAME Ethel Charlotte /Larsen/
+1 SEX F
+1 BIRT
+2 DATE 27 AUG 1899
+1 DEAT Y
+1 FAMS @F423@
+0 @I1245@ INDI
+1 NAME Ruth Charolette /Lavik/
+1 SEX F
+1 BIRT
+2 DATE 29 AUG 1923
+1 DEAT
+1 FAMC @F423@
+0 @I1246@ INDI
+1 NAME Borghild /Eid/
+1 SEX F
+1 BIRT
+2 PLAC Oslo Norway
+1 DEAT
+1 FAMS @F424@
+0 @I1247@ INDI
+1 NAME Aimee /Peterson/
+1 SEX F
+1 BIRT
+2 DATE 13 FEB 1910
+1 DEAT
+1 FAMS @F425@
+0 @I1248@ INDI
+1 NAME Norma Jean /Bancroft/
+1 SEX F
+1 BIRT
+2 DATE 15 OCT 1943
+1 FAMC @F426@
+0 @I1249@ INDI
+1 NAME Sharon Rose /Bancroft/
+1 SEX F
+1 BIRT
+2 DATE 21 JUL 1947
+1 FAMC @F426@
+0 @I1250@ INDI
+1 NAME John Carl /Bennewitz/
+1 SEX M
+1 BIRT
+2 DATE 25 OCT 1909
+1 DEAT
+1 FAMS @F427@
+0 @I1251@ INDI
+1 NAME John Rolf /Bennewitz/
+1 SEX M
+1 BIRT
+2 DATE 03 DEC 1947
+1 FAMC @F427@
+0 @I1252@ INDI
+1 NAME Ethe Irene /Ingebrigtsen/
+1 SEX F
+1 BIRT
+2 DATE 15 OCT 1915
+1 DEAT
+1 FAMS @F428@
+0 @I1253@ INDI
+1 NAME Aimee /Lavik/
+1 SEX F
+1 BIRT
+2 DATE 20 FEB 1944
+1 FAMC @F428@
+0 @I1254@ INDI
+1 NAME Paul Richard /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 02 OCT 1946
+1 FAMC @F428@
+0 @I1255@ INDI
+1 NAME John Rolf /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 23 FEB 1953
+1 FAMC @F428@
+0 @I1256@ INDI
+1 NAME Irene Gay /Lavik/
+1 SEX F
+1 BIRT
+2 DATE 12 JUL 1955
+1 FAMC @F428@
+0 @I1257@ INDI
+1 NAME Donald E /Iverson/
+1 SEX M
+1 DEAT
+1 FAMS @F429@
+0 @I1258@ INDI
+1 NAME Jon /Iverson/
+1 SEX M
+1 BIRT
+2 DATE 25 FEB 1950
+1 FAMC @F429@
+0 @I1259@ INDI
+1 NAME Susan /Iverson/
+1 SEX F
+1 BIRT
+2 DATE 25 AUG 1951
+1 FAMC @F429@
+0 @I1260@ INDI
+1 NAME Johannes /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 1823
+1 DEAT
+2 DATE 1827
+1 FAMC @F400@
+1 FAMS @F430@
+0 @I1261@ INDI
+1 NAME Kari Andresdatter /Kyte/
+1 SEX F
+1 BIRT
+2 DATE 1820
+1 DEAT
+2 DATE 1907
+1 FAMS @F430@
+0 @I1262@ INDI
+1 NAME Knut /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 1824
+1 DEAT
+2 DATE 1896
+1 FAMC @F400@
+1 FAMS @F431@
+0 @I1263@ INDI
+1 NAME Agate Knutsdatter /Lavik/
+1 SEX F
+1 DEAT
+2 DATE 1879
+1 FAMS @F431@
+0 @I1264@ INDI
+1 NAME Johannes /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 1824
+1 DEAT
+2 DATE 1835
+1 FAMC @F400@
+0 @I1265@ INDI
+1 NAME Maria /Lavik/
+1 SEX F
+1 BIRT
+2 DATE 1824
+1 DEAT
+2 DATE 1864
+1 FAMC @F400@
+1 FAMS @F432@
+0 @I1266@ INDI
+1 NAME Johannes H /Flatekval/
+1 SEX M
+1 DEAT
+1 FAMS @F432@
+0 @I1267@ INDI
+1 NAME Torbjor /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 1832
+1 DEAT
+2 DATE 1906
+2 PLAC In America
+1 FAMC @F400@
+0 @I1268@ INDI
+1 NAME Johannes /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 1835
+1 DEAT
+2 DATE 1855
+1 FAMC @F400@
+0 @I1269@ INDI
+1 NAME Knut /Lavik/
+1 SEX M
+1 BIRT
+2 DATE 1839
+1 DEAT
+2 DATE 1917
+1 FAMC @F400@
+1 FAMS @F433@
+0 @I1270@ INDI
+1 NAME Ingeborg Halvorsdatter /Flatekval/
+1 SEX F
+1 DEAT
+1 FAMS @F433@
+0 @I1271@ INDI
+1 NAME John /Ofstedahl/
+1 SEX M
+1 DEAT
+1 FAMC @F402@
+0 @I1272@ INDI
+1 NAME Simon /Ofstedahl/
+1 SEX M
+1 DEAT
+1 FAMC @F402@
+1 FAMS @F434@
+0 @I1273@ INDI
+1 NAME Kari /Tuff/
+1 SEX F
+1 DEAT
+1 FAMC @F420@
+1 FAMS @F434@
+0 @I1274@ INDI
+1 NAME Father----- /Tuff/
+1 SEX M
+1 DEAT
+1 FAMS @F420@
+0 @I1275@ INDI
+1 NAME Peter /Ofstedahl/
+1 SEX M
+1 DEAT
+1 FAMC @F434@
+1 FAMS @F435@
+0 @I1276@ INDI
+1 NAME Palmer /Ofstedahl/
+1 SEX M
+1 DEAT
+1 FAMC @F435@
+0 @I1277@ INDI
+1 NAME Child2 /Ofstedahl/
+1 SEX M
+1 DEAT
+1 FAMC @F434@
+0 @I1278@ INDI
+1 NAME Martha /Ofstedahl/
+1 SEX F
+1 DEAT
+1 FAMC @F434@
+1 FAMS @F436@
+0 @I1279@ INDI
+1 NAME Ole /Refling/
+1 SEX M
+1 DEAT
+1 FAMS @F436@
+0 @I1280@ INDI
+1 NAME Kiaya Mai /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 12 MAR 2003
+2 PLAC Anchorage Alaska
+1 FAMC @F32@
+0 @I1281@ INDI
+1 NAME Anu /Tynkkynen/
+1 SEX F
+1 BIRT
+2 DATE 25 DEC 1968
+2 PLAC Finland
+1 FAMS @F33@
+0 @I1282@ INDI
+1 NAME Theo Mattias Kullenpoika /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 07 NOV 2007
+2 PLAC Singapore
+1 FAMC @F33@
+0 @I1283@ INDI
+1 NAME Shannon Celeste /Cherry/
+1 SEX F
+1 BIRT
+2 DATE (10 JAN)
+2 PLAC Dillingham Alaska
+1 DEAT
+1 FAMS @F34@
+0 @I1284@ INDI
+1 NAME Aidan Edward /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 20 AUG 2001
+2 PLAC Anchorage Alaska
+1 FAMC @F34@
+0 @I1285@ INDI
+1 NAME Avery Celeste /Anderson/
+1 SEX F
+1 BIRT
+2 DATE 12 JAN 2004
+2 PLAC Anchorage Alaska
+1 FAMC @F34@
+0 @I1286@ INDI
+1 NAME Gavin Nels /Anderson/
+1 SEX M
+1 BIRT
+2 DATE 05 MAY 2010
+2 PLAC Dillingham
+1 FAMC @F34@
+0 @I1287@ INDI
+1 NAME Gulbrand /Grimsrud/
+1 SEX M
+1 BIRT
+2 DATE 22 FEB 1831
+2 PLAC Oier Norway
+1 DEAT
+2 DATE 02 AUG 1896
+2 PLAC Coon Valley WIsconsin
+1 FAMC @F437@
+1 FAMS @F1@
+1 NOTE From Oier in the Gudbrandsdalen valley in Norway Gulbrand and his wido
+2 CONC wed mother Sonnove came in the spring of 1858 on the sailship Drobak
+2 CONC .  After 7 weeks they landed at Quebec and went by steamboat to Chicag
+2 CONC o, by rail to LaCrosse Wisconsin then overland to settle in the townsh
+2 CONC ip of Hamburg - Vernon County Wisconsin (Coon Valley).
+2 CONT 
+2 CONT They are buried at Coon Valley Cemetery.
+0 @I1288@ INDI
+1 NAME xx /xx/
+1 SEX F
+1 DEAT
+1 FAMC @F438@
+0 @I1289@ INDI
+1 NAME Amanda /Bergseid/
+1 SEX F
+1 BIRT
+2 DATE 11 NOV 1995
+1 FAMC @F19@
+0 @I1290@ INDI
+1 NAME Danny /Bergseid/
+1 SEX M
+1 BIRT
+2 DATE 26 FEB 1998
+1 FAMC @F19@
+0 @I1291@ INDI
+1 NAME Lauren /States/
+1 SEX F
+1 DEAT
+1 FAMC @F20@
+0 @I1292@ INDI
+1 NAME Lindsey /States/
+1 SEX F
+1 DEAT
+1 FAMC @F20@
+0 @I1293@ INDI
+1 NAME Greg /Mortenson/
+1 SEX M
+1 DEAT
+1 FAMC @F116@
+0 @I1294@ INDI
+1 NAME Beverly /-/
+1 SEX F
+1 DEAT
+1 FAMS @F116@
+0 @I1295@ INDI
+1 NAME Jennifer /?/
+1 SEX F
+1 DEAT
+1 FAMC @F439@
+0 @I1296@ INDI
+1 NAME Leslie Ann /?/
+1 SEX F
+1 DEAT
+1 FAMC @F440@
+0 @I1297@ INDI
+1 NAME Christine /?/
+1 SEX M
+1 DEAT
+1 FAMC @F441@
+0 @I1298@ INDI
+1 NAME Synnov Engebretsdatter /Grimsrud/
+1 SEX F
+1 BIRT
+2 DATE 09 OCT 1791
+2 PLAC Oier Norway
+1 DEAT
+2 DATE 19 NOV 1867
+2 PLAC Coon Valley WIsconsin
+1 FAMC @F442@
+1 FAMS @F437@
+1 NOTE The spelling we have seen here is Sonnove
+0 @I1299@ INDI
+1 NAME Olia /Lie/
+1 SEX F
+1 BIRT
+2 DATE 22 APR 1827
+2 PLAC Oier Norway
+1 DEAT
+2 DATE 29 AUG 1893
+2 PLAC Coon Valley WIsconsin
+1 FAMS @F1@
+0 @I1300@ INDI
+1 NAME x /Grimsrud/
+1 SEX M
+1 DEAT
+1 FAMC @F443@
+0 @I1301@ INDI
+1 NAME Johan /Grimsrud/
+1 SEX M
+1 DEAT
+1 FAMC @F1@
+0 @I1302@ INDI
+1 NAME Johan Alfert /Grimsrud/
+1 SEX M
+1 BIRT
+2 DATE 28 MAY 1864
+1 DEAT
+2 DATE 1938
+2 PLAC Coon Valley WIsconsin
+1 FAMC @F1@
+1 NOTE When we (Carl, Wanda and Gudrun) were at LaCrosse Wi for a Solar Lag w
+2 CONC e went to Norskedalen Museum. there we met the Lady (a Grimsrud who wa
+2 CONC s married to a Brye) who lived on the farm that was Johan's.  She invi
+2 CONC ted us to the farm and while there she showed us a trunk that had th
+2 CONC e Grimsrud name from Oier in 1858.  This was the trunk that Gulbrand a
+2 CONC nd his mother had brought from Norway.  The next morning she called u
+2 CONC s at the motel and said if we wanted it we could come back to the far
+2 CONC m and get it which we did.  A wonderful piece with which to make a con
+2 CONC nection with Gudbransdal Norway.
+0 @I1303@ INDI
+1 NAME Christina Sofia /Grimsrud/
+1 SEX F
+1 BIRT
+2 DATE 1866
+2 PLAC Coon Valley WIsconsin
+1 DEAT
+2 DATE 08 DEC 1927
+2 PLAC Poulsbo Washington
+1 BURI
+2 DATE 15 DEC 1927
+2 PLAC First Lutheran Cemetry Poulsbo Wa
+1 FAMC @F1@
+1 FAMS @F444@
+0 @I1304@ INDI
+1 NAME Bertha Olina /Grimsrud/
+1 SEX F
+1 BIRT
+2 DATE 14 MAR 1869
+1 DEAT
+2 DATE 15 NOV 1894
+2 PLAC Clifford North Dakota
+1 BURI
+2 PLAC Clifford Cemetery
+1 FAMC @F1@
+0 @I1305@ INDI
+1 NAME Ole /Stadshaug/
+1 SEX M
+1 BIRT
+2 DATE 1867
+2 PLAC Dovre Norway
+1 DEAT
+2 DATE 25 MAY 1931
+2 PLAC Poulsbo Washington
+1 BURI
+2 DATE 29 MAY 1931
+2 PLAC First Lutheran Cemetry Poulsbo Wa
+1 FAMS @F444@
+0 @I1306@ INDI
+1 NAME Johannas /Grimsrud/
+1 SEX M
+1 BIRT
+2 DATE 17 JUL 1797
+1 DEAT
+2 DATE 30 OCT 1850
+2 PLAC Oier Norway
+1 FAMS @F437@
+0 @I1307@ INDI
+1 NAME x /Synnov Engebretsdatter Grimsrud/
+1 SEX M
+1 DEAT
+1 FAMC @F445@
+0 @I1308@ INDI
+1 NAME Engebret Olsen Sundgaard /Grimsrud/
+1 SEX M
+1 DEAT
+2 DATE 18 SEP 1756
+1 FAMS @F442@
+0 @I1309@ INDI
+1 NAME Beret Olsdatter /Grimsrud/
+1 SEX F
+1 DEAT
+1 FAMS @F442@
+0 @I1310@ INDI
+1 NAME Aanund /Gundersen/
+1 SEX M
+1 DEAT
+1 FAMS @F3@
+1 FAMS @F446@
+0 @I1311@ INDI
+1 NAME Tarbjorn /Knudsen/
+1 SEX M
+1 DEAT
+1 FAMS @F5@
+0 @I1312@ INDI
+1 NAME Tone /Olsdatter/
+1 SEX F
+1 DEAT
+1 FAMS @F3@
+1 FAMS @F447@
+0 @I1313@ INDI
+1 NAME Unknown /?/
+1 SEX F
+1 DEAT
+1 FAMS @F9@
+0 @I1314@ INDI
+1 NAME Lenora /Kittelson/
+1 SEX F
+1 DEAT
+1 FAMC @F9@
+0 @I1315@ INDI
+1 NAME Theodore /Kittelson/
+1 SEX M
+1 DEAT
+1 FAMC @F9@
+0 @I1316@ INDI
+1 NAME Susan /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F193@
+0 @I1317@ INDI
+1 NAME Sally /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F193@
+0 @I1318@ INDI
+1 NAME Ardel /Amundson/
+1 SEX F
+1 DEAT
+1 FAMC @F193@
+0 @I1319@ INDI
+1 NAME John /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F193@
+0 @I1320@ INDI
+1 NAME Magrete /Kvernstuen/
+1 SEX F
+1 BIRT
+2 DATE 1858
+1 DEAT Y
+1 FAMS @F275@
+0 @I1321@ INDI
+1 NAME Anton /Kvernstuen/
+1 SEX M
+1 BIRT
+2 DATE 1880
+1 DEAT Y
+1 FAMC @F275@
+0 @I1322@ INDI
+1 NAME Inga /Kvernstuen/
+1 SEX F
+1 BIRT
+2 DATE 1891
+1 DEAT Y
+1 FAMC @F275@
+0 @I1323@ INDI
+1 NAME Karen Marie /Kvernstuen/
+1 SEX F
+1 BIRT
+2 DATE 1887
+1 DEAT Y
+1 FAMC @F275@
+1 FAMS @F448@
+0 @I1324@ INDI
+1 NAME Jenny /Kvernstuen/
+1 SEX F
+1 BIRT
+2 DATE 1901
+1 DEAT Y
+1 FAMC @F275@
+1 FAMS @F449@
+0 @I1325@ INDI
+1 NAME Anders /Helgelandshagen/
+1 SEX M
+1 DEAT
+1 FAMS @F449@
+0 @I1326@ INDI
+1 NAME Ingeborg /Helgelandshagen/
+1 SEX F
+1 BIRT
+2 DATE 28 JUL 1939
+1 DEAT
+1 FAMC @F449@
+1 FAMS @F450@
+0 @I1327@ INDI
+1 NAME Karl /Karlsen/
+1 SEX M
+1 BIRT
+2 DATE 02 JUN 1924
+1 DEAT
+1 FAMS @F450@
+0 @I1328@ INDI
+1 NAME Arne /Karlsen/
+1 SEX M
+1 BIRT
+2 DATE 11 NOV 1963
+1 FAMC @F450@
+1 FAMS @F451@
+0 @I1329@ INDI
+1 NAME Helga /Karlsen/
+1 SEX F
+1 BIRT
+2 DATE 26 JAN 1973
+1 FAMC @F450@
+1 FAMS @F452@
+0 @I1330@ INDI
+1 NAME Aina /?/
+1 SEX F
+1 DEAT
+1 FAMS @F451@
+0 @I1331@ INDI
+1 NAME Kjetil /?/
+1 SEX M
+1 DEAT
+1 FAMS @F453@
+0 @I1332@ INDI
+1 NAME Kjetil /?/
+1 SEX M
+1 DEAT
+1 FAMS @F452@
+0 @I1333@ INDI
+1 NAME x /Aaserud/
+1 SEX M
+1 DEAT
+1 FAMS @F448@
+0 @I1334@ INDI
+1 NAME Karen Marie /Aaserud/
+1 SEX F
+1 BIRT
+2 DATE 19 MAR 1927
+1 DEAT
+2 DATE 01 FEB 1997
+1 FAMC @F448@
+1 FAMS @F454@
+0 @I1335@ INDI
+1 NAME Ragnar /Aaserud/
+1 SEX M
+1 BIRT
+2 DATE 18 MAR 1933
+1 DEAT
+2 DATE 03 JUL 1998
+1 FAMC @F448@
+1 FAMS @F455@
+0 @I1336@ INDI
+1 NAME Arne /Aaserud/
+1 SEX M
+1 BIRT
+2 DATE 06 SEP 1920
+1 DEAT
+2 DATE 1954
+1 FAMC @F448@
+0 @I1337@ INDI
+1 NAME Rigmor /Aaserud/
+1 SEX F
+1 BIRT
+2 DATE 26 JUN 1960
+1 FAMC @F454@
+0 @I1338@ INDI
+1 NAME Frank /Aaserud/
+1 SEX M
+1 BIRT
+2 DATE 12 APR 1965
+1 FAMC @F455@
+0 @I1339@ INDI
+1 NAME Larry /Maxwell/
+1 SEX M
+1 DEAT
+2 DATE 28 AUG 2011
+1 FAMS @F166@
+0 @I1340@ INDI
+1 NAME John /Habedank/
+1 SEX M
+1 DEAT
+1 FAMS @F162@
+0 @I1341@ INDI
+1 NAME Peter /Habedank/
+1 SEX M
+1 DEAT
+1 FAMC @F162@
+1 FAMS @F456@
+0 @I1342@ INDI
+1 NAME Courtney /Austinson/
+1 SEX F
+1 DEAT
+1 FAMS @F456@
+0 @I1343@ INDI
+1 NAME Peter /Gonyo/
+1 SEX M
+1 DEAT
+1 FAMS @F393@
+0 @I1344@ INDI
+1 NAME xxx /?/
+1 SEX M
+1 DEAT
+1 FAMC @F457@
+0 @I1345@ INDI
+1 NAME sss /?/
+1 SEX M
+1 DEAT
+1 FAMC @F458@
+0 @I1346@ INDI
+1 NAME Kari Lynn Klingsporn /?/
+1 SEX F
+1 DEAT
+1 FAMS @F115@
+0 @I1347@ INDI
+1 NAME Emil Anderson /?/
+1 SEX M
+1 DEAT
+1 FAMS @F81@
+0 @I1348@ INDI
+1 NAME Florence Westlund /?/
+1 SEX F
+1 DEAT
+1 FAMS @F81@
+0 @I1349@ INDI
+1 NAME Gjert Skeim /?/
+1 SEX M
+1 DEAT
+1 FAMS @F409@
+0 @I1350@ INDI
+1 NAME Josephine Thorp /?/
+1 SEX F
+1 DEAT
+1 FAMS @F409@
+0 @I1351@ INDI
+1 NAME Cordelia Skeim /?/
+1 SEX F
+1 BIRT
+2 DATE (AUG 1 1915)
+1 DEAT
+2 DATE (SEP 5 2000)
+1 FAMC @F409@
+0 @I1352@ INDI
+1 NAME Nathaniel Joseph Walker /?/
+1 SEX M
+1 BIRT
+2 DATE (JUL 25 2000)
+1 DEAT
+1 FAMC @F163@
+0 @I1353@ INDI
+1 NAME David /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F210@
+0 @I1354@ INDI
+1 NAME Steven /Amundson/
+1 SEX M
+1 DEAT
+1 FAMC @F210@
+0 @I1355@ INDI
+1 NAME "John" L /Anderson/
+1 SEX M
+1 DEAT
+1 FAMS @F341@
+0 @I1356@ INDI
+1 NAME Marius /Christianson/
+1 SEX M
+1 BIRT
+2 DATE 21 JUN 1872
+1 DEAT
+2 DATE 07 JUL 1934
+1 FAMS @F339@
+1 NOTE Buried at Rodnes cemetery west of Erskine Mn
+0 @I1357@ INDI
+1 NAME Simon /Sherbrooke/
+1 SEX M
+1 BIRT
+2 DATE 1904
+1 DEAT
+2 DATE 1970
+1 FAMS @F277@
+0 @I1358@ INDI
+1 NAME Tim /Utke/
+1 SEX M
+1 DEAT
+1 FAMS @F161@
+0 @I1359@ INDI
+1 NAME Carissa /Utke/
+1 SEX F
+1 DEAT
+1 FAMC @F161@
+1 FAMS @F459@
+0 @I1360@ INDI
+1 NAME Nid /Collins/
+1 SEX M
+1 DEAT
+1 FAMS @F459@
+0 @I1361@ INDI
+1 NAME Foxx /Collins/
+1 SEX M
+1 DEAT
+1 FAMC @F459@
+0 @I1362@ INDI
+1 NAME Susan /Grimsrud/
+1 SEX F
+1 DEAT
+1 FAMC @F460@
+0 @I1363@ INDI
+1 NAME Sally /Grimsrud/
+1 SEX F
+1 DEAT
+1 FAMC @F461@
+0 @I1364@ INDI
+1 NAME Sally /Grimsrud/
+1 SEX F
+1 DEAT
+1 FAMC @F406@
+0 @I1365@ INDI
+1 NAME Susan /Grimsrud/
+1 SEX F
+1 DEAT
+1 FAMC @F406@
+1 FAMS @F462@
+0 @I1366@ INDI
+1 NAME Peggy /Grimsrud/
+1 SEX F
+1 DEAT
+1 FAMC @F406@
+0 @I1367@ INDI
+1 NAME Ted /Grimsrud/
+1 SEX M
+1 DEAT
+1 FAMC @F406@
+0 @I1368@ INDI
+1 NAME Beth /Grimsrud/
+1 SEX F
+1 DEAT
+1 FAMC @F406@
+0 @I1369@ INDI
+1 NAME Ray /Ansel/
+1 SEX M
+1 DEAT
+1 FAMS @F462@
+0 @I1370@ INDI
+1 NAME Emily /Ansel/
+1 SEX F
+1 DEAT
+1 FAMC @F462@
+0 @I1371@ INDI
+1 NAME Robert /Hadland/
+1 SEX M
+1 DEAT
+1 FAMS @F108@
+0 @I1372@ INDI
+1 NAME Jennifer /Ketcher/
+1 SEX F
+1 BIRT
+2 DATE 14 OCT 1978
+1 FAMS @F43@
+0 @I1373@ INDI
+1 NAME Otto Cornell /Erickson/
+1 SEX M
+1 BIRT
+2 DATE 23 SEP 2018
+1 FAMC @F43@
+0 @I1424@ INDI
+1 NAME Savannah /Voeltz/
+1 SEX F
+1 BIRT
+2 DATE 27 NOV 1995
+1 FAMS @F463@
+0 @I1425@ INDI
+1 NAME Jackson /Johnson/
+1 SEX M
+1 BIRT
+2 DATE 12 NOV 1996
+1 FAMS @F464@
+0 @I1426@ INDI
+1 NAME Alyssa /Erickson/
+1 SEX F
+1 DEAT
+1 FAMC @F47@
+0 @I1427@ INDI
+1 NAME Wyatt /Erickson/
+1 SEX M
+1 DEAT
+1 FAMC @F47@
+0 @F1@ FAM
+1 MARR
+2 DATE 16 OCT 1861
+2 PLAC Coon Valley WIsconsin
+1 HUSB @I1287@
+1 WIFE @I1299@
+1 CHIL @I1301@
+1 CHIL @I1302@
+1 CHIL @I1303@
+1 CHIL @I1304@
+1 CHIL @I1@
+0 @F2@ FAM
+1 MARR
+2 DATE 08 SEP 1904
+2 PLAC Milnor North Dakota
+1 HUSB @I1@
+1 WIFE @I734@
+1 CHIL @I53@
+1 CHIL @I1180@
+1 CHIL @I1181@
+1 CHIL @I1184@
+1 CHIL @I1182@
+1 CHIL @I1183@
+0 @F3@ FAM
+1 MARR Y
+1 HUSB @I1310@
+1 WIFE @I1312@
+1 CHIL @I2@
+0 @F4@ FAM
+1 MARR
+2 DATE 03 JUL 1846
+2 PLAC Kviteseid Telemarken, Norway
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I4@
+1 CHIL @I79@
+1 CHIL @I78@
+1 CHIL @I77@
+1 CHIL @I83@
+1 CHIL @I81@
+1 CHIL @I80@
+1 CHIL @I82@
+0 @F5@ FAM
+1 MARR Y
+1 HUSB @I1311@
+1 CHIL @I3@
+0 @F6@ FAM
+1 MARR
+2 DATE ABT 1874
+1 HUSB @I5@
+1 WIFE @I4@
+1 CHIL @I6@
+1 CHIL @I12@
+1 CHIL @I25@
+1 CHIL @I26@
+1 CHIL @I27@
+1 CHIL @I28@
+0 @F7@ FAM
+1 MARR Y
+1 HUSB @I305@
+1 WIFE @I306@
+1 CHIL @I307@
+1 CHIL @I308@
+1 CHIL @I5@
+0 @F8@ FAM
+1 MARR
+2 DATE MAY 1901
+1 HUSB @I7@
+1 WIFE @I6@
+1 CHIL @I8@
+1 CHIL @I9@
+0 @F9@ FAM
+1 MARR Y
+1 HUSB @I7@
+1 WIFE @I1313@
+1 CHIL @I1314@
+1 CHIL @I1315@
+0 @F10@ FAM
+1 MARR Y
+1 HUSB @I10@
+1 WIFE @I9@
+1 CHIL @I11@
+0 @F11@ FAM
+1 MARR
+2 DATE 01 DEC 1909
+1 HUSB @I13@
+1 WIFE @I12@
+1 CHIL @I14@
+1 CHIL @I15@
+1 CHIL @I21@
+0 @F12@ FAM
+1 MARR Y
+1 HUSB @I15@
+1 WIFE @I16@
+1 CHIL @I17@
+0 @F13@ FAM
+1 MARR Y
+1 HUSB @I15@
+1 WIFE @I18@
+1 CHIL @I19@
+1 CHIL @I20@
+0 @F14@ FAM
+1 MARR Y
+1 HUSB @I1157@
+1 WIFE @I17@
+1 CHIL @I1159@
+1 CHIL @I1160@
+0 @F15@ FAM
+1 MARR Y
+1 HUSB @I1167@
+1 WIFE @I17@
+0 @F16@ FAM
+1 MARR Y
+1 HUSB @I19@
+1 CHIL @I1162@
+1 CHIL @I1161@
+0 @F17@ FAM
+1 MARR Y
+1 HUSB @I20@
+1 WIFE @I1166@
+0 @F18@ FAM
+1 MARR Y
+1 HUSB @I21@
+1 WIFE @I22@
+1 CHIL @I23@
+1 CHIL @I24@
+0 @F19@ FAM
+1 MARR
+2 DATE 18 JUN 1988
+1 HUSB @I23@
+1 WIFE @I157@
+1 CHIL @I1289@
+1 CHIL @I1290@
+0 @F20@ FAM
+1 MARR Y
+1 HUSB @I158@
+1 WIFE @I24@
+1 CHIL @I1291@
+1 CHIL @I159@
+1 CHIL @I1292@
+0 @F21@ FAM
+1 MARR
+2 DATE 17 JUL 1919
+1 HUSB @I29@
+1 WIFE @I27@
+1 CHIL @I30@
+1 CHIL @I31@
+1 CHIL @I32@
+0 @F22@ FAM
+1 MARR
+2 DATE 21 JUN 1935
+1 HUSB @I28@
+1 WIFE @I53@
+1 CHIL @I49@
+1 CHIL @I54@
+1 CHIL @I55@
+1 CHIL @I56@
+1 CHIL @I57@
+0 @F23@ FAM
+1 MARR
+2 DATE 31 MAY 1947
+1 HUSB @I33@
+1 WIFE @I30@
+1 CHIL @I1168@
+1 CHIL @I1169@
+0 @F24@ FAM
+1 MARR
+2 DATE 17 FEB 1945
+1 HUSB @I31@
+1 WIFE @I34@
+1 CHIL @I35@
+1 CHIL @I36@
+1 CHIL @I37@
+1 CHIL @I40@
+0 @F25@ FAM
+1 MARR
+2 DATE 10 JUN 1950
+1 HUSB @I32@
+1 WIFE @I42@
+1 CHIL @I43@
+1 CHIL @I44@
+1 CHIL @I45@
+0 @F26@ FAM
+1 MARR
+2 DATE 19 OCT 1985
+1 HUSB @I38@
+1 WIFE @I36@
+0 @F27@ FAM
+1 MARR
+2 DATE ABT 1986
+1 HUSB @I37@
+1 WIFE @I39@
+0 @F28@ FAM
+1 MARR
+2 DATE 19 DEC 1979
+1 HUSB @I41@
+1 WIFE @I40@
+0 @F29@ FAM
+1 MARR Y
+1 HUSB @I46@
+1 WIFE @I43@
+0 @F30@ FAM
+1 MARR Y
+1 HUSB @I47@
+1 WIFE @I45@
+0 @F31@ FAM
+1 MARR
+2 DATE 06 SEP 1963
+2 PLAC Dillingham AK
+1 HUSB @I48@
+1 WIFE @I49@
+1 CHIL @I50@
+1 CHIL @I51@
+1 CHIL @I52@
+0 @F32@ FAM
+1 MARR
+2 DATE 14 APR 1989
+2 PLAC Tokyo Japan
+1 HUSB @I160@
+1 WIFE @I50@
+1 CHIL @I161@
+1 CHIL @I1280@
+0 @F33@ FAM
+1 MARR
+2 DATE 26 MAY 2006
+2 PLAC Helsinki Finland
+1 HUSB @I51@
+1 WIFE @I1281@
+1 CHIL @I1282@
+0 @F34@ FAM
+1 MARR
+2 DATE 29 MAR 1996
+2 PLAC Las Vegas Nevada
+1 HUSB @I52@
+1 WIFE @I1283@
+1 CHIL @I1284@
+1 CHIL @I1285@
+1 CHIL @I1286@
+0 @F35@ FAM
+1 MARR
+2 DATE 26 JUN 1960
+1 HUSB @I58@
+1 WIFE @I54@
+1 CHIL @I59@
+1 CHIL @I60@
+0 @F36@ FAM
+1 MARR
+2 DATE 11 JUN 1960
+2 PLAC Salem Lutheran Church Hitterdal, MN
+1 HUSB @I55@
+1 WIFE @I61@
+1 CHIL @I62@
+1 CHIL @I63@
+1 CHIL @I64@
+0 @F37@ FAM
+1 MARR
+2 DATE JUL 1965
+1 HUSB @I56@
+1 WIFE @I70@
+1 CHIL @I71@
+1 CHIL @I72@
+1 CHIL @I73@
+0 @F38@ FAM
+1 MARR
+2 DATE ABT 1994
+1 HUSB @I60@
+1 WIFE @I442@
+1 CHIL @I441@
+0 @F39@ FAM
+1 MARR
+2 DATE 09 DEC 1914
+2 PLAC Parke Township, Hawley, MN
+1 HUSB @I368@
+1 WIFE @I369@
+1 CHIL @I370@
+1 CHIL @I371@
+1 CHIL @I372@
+1 CHIL @I373@
+1 CHIL @I374@
+1 CHIL @I375@
+1 CHIL @I376@
+1 CHIL @I377@
+1 CHIL @I378@
+1 CHIL @I379@
+1 CHIL @I380@
+1 CHIL @I381@
+1 CHIL @I61@
+0 @F40@ FAM
+1 MARR
+2 DATE 02 JUN 1984
+2 PLAC Bluffton MN
+1 DIV
+2 DATE 2001
+1 HUSB @I62@
+1 WIFE @I65@
+0 @F41@ FAM
+1 MARR
+2 DATE 12 JUL 2003
+2 PLAC Duluth MN
+1 HUSB @I62@
+1 WIFE @I1060@
+1 CHIL @I1059@
+1 CHIL @I1172@
+0 @F42@ FAM
+1 MARR
+2 DATE 12 JUN 1987
+1 DIV
+2 DATE 1997
+1 HUSB @I63@
+1 WIFE @I66@
+1 CHIL @I67@
+1 CHIL @I68@
+1 CHIL @I163@
+0 @F43@ FAM
+1 MARR
+2 DATE 22 JAN 2018
+1 HUSB @I63@
+1 WIFE @I1372@
+1 CHIL @I1373@
+0 @F44@ FAM
+1 MARR
+2 DATE 29 JUN 1991
+1 HUSB @I69@
+1 WIFE @I64@
+1 CHIL @I154@
+1 CHIL @I435@
+0 @F45@ FAM
+1 MARR Y
+1 HUSB @I1174@
+1 WIFE @I1176@
+1 CHIL @I66@
+0 @F46@ FAM
+1 MARR Y
+1 HUSB @I155@
+1 WIFE @I156@
+1 CHIL @I69@
+0 @F47@ FAM
+1 MARR
+2 DATE OCT 1993
+1 HUSB @I71@
+1 WIFE @I74@
+1 CHIL @I1426@
+1 CHIL @I1427@
+0 @F48@ FAM
+1 MARR
+2 DATE DEC 1992
+1 HUSB @I72@
+1 WIFE @I75@
+1 CHIL @I162@
+1 CHIL @I76@
+0 @F49@ FAM
+1 MARR Y
+1 HUSB @I84@
+1 WIFE @I77@
+1 CHIL @I85@
+1 CHIL @I86@
+1 CHIL @I87@
+1 CHIL @I88@
+1 CHIL @I89@
+0 @F50@ FAM
+1 MARR
+2 DATE ABT 1879
+1 HUSB @I90@
+1 WIFE @I78@
+1 CHIL @I91@
+1 CHIL @I92@
+1 CHIL @I95@
+1 CHIL @I96@
+1 CHIL @I97@
+1 CHIL @I93@
+1 CHIL @I94@
+0 @F51@ FAM
+1 MARR
+2 DATE 12 MAY 1881
+1 HUSB @I79@
+1 WIFE @I164@
+1 CHIL @I165@
+1 CHIL @I197@
+1 CHIL @I198@
+1 CHIL @I199@
+1 CHIL @I200@
+1 CHIL @I201@
+1 CHIL @I202@
+0 @F52@ FAM
+1 MARR
+2 DATE 12 MAR 1887
+1 HUSB @I291@
+1 WIFE @I80@
+1 CHIL @I296@
+1 CHIL @I297@
+1 CHIL @I292@
+1 CHIL @I298@
+1 CHIL @I293@
+1 CHIL @I294@
+1 CHIL @I295@
+1 CHIL @I299@
+0 @F53@ FAM
+1 MARR Y
+1 HUSB @I300@
+1 WIFE @I82@
+1 CHIL @I301@
+1 CHIL @I302@
+1 CHIL @I303@
+1 CHIL @I304@
+0 @F54@ FAM
+1 MARR
+2 DATE 02 JUL 1912
+1 HUSB @I98@
+1 WIFE @I91@
+1 CHIL @I99@
+1 CHIL @I100@
+1 CHIL @I101@
+1 CHIL @I102@
+1 CHIL @I103@
+0 @F55@ FAM
+1 MARR Y
+1 HUSB @I149@
+1 WIFE @I92@
+0 @F56@ FAM
+1 MARR Y
+1 HUSB @I93@
+1 WIFE @I150@
+0 @F57@ FAM
+1 MARR
+2 DATE 06 NOV 1916
+1 HUSB @I94@
+1 WIFE @I151@
+1 CHIL @I152@
+0 @F58@ FAM
+1 MARR
+2 DATE 12 DEC 1941
+1 HUSB @I99@
+1 WIFE @I104@
+1 CHIL @I105@
+1 CHIL @I106@
+1 CHIL @I107@
+0 @F59@ FAM
+1 MARR
+2 DATE 09 JUN 1940
+1 HUSB @I112@
+1 WIFE @I101@
+1 CHIL @I113@
+1 CHIL @I114@
+0 @F60@ FAM
+1 MARR
+2 DATE 10 NOV 1943
+1 HUSB @I102@
+1 WIFE @I121@
+1 CHIL @I122@
+1 CHIL @I123@
+1 CHIL @I124@
+1 CHIL @I125@
+1 CHIL @I126@
+0 @F61@ FAM
+1 MARR
+2 DATE 31 JAN 1953
+1 HUSB @I103@
+1 WIFE @I142@
+1 CHIL @I143@
+1 CHIL @I144@
+1 CHIL @I145@
+1 CHIL @I146@
+0 @F62@ FAM
+1 MARR Y
+1 HUSB @I108@
+1 WIFE @I106@
+1 CHIL @I109@
+0 @F63@ FAM
+1 MARR Y
+1 HUSB @I107@
+1 WIFE @I110@
+1 CHIL @I111@
+0 @F64@ FAM
+1 MARR Y
+1 HUSB @I113@
+1 WIFE @I115@
+1 CHIL @I116@
+1 CHIL @I117@
+0 @F65@ FAM
+1 MARR Y
+1 HUSB @I114@
+1 WIFE @I118@
+1 CHIL @I119@
+1 CHIL @I120@
+0 @F66@ FAM
+1 MARR Y
+1 HUSB @I127@
+1 WIFE @I122@
+1 CHIL @I128@
+1 CHIL @I129@
+1 CHIL @I130@
+1 CHIL @I131@
+0 @F67@ FAM
+1 MARR Y
+1 HUSB @I132@
+1 WIFE @I123@
+1 CHIL @I133@
+1 CHIL @I134@
+0 @F68@ FAM
+1 MARR Y
+1 HUSB @I135@
+1 WIFE @I124@
+1 CHIL @I136@
+1 CHIL @I137@
+0 @F69@ FAM
+1 MARR Y
+1 HUSB @I138@
+1 WIFE @I125@
+1 CHIL @I139@
+0 @F70@ FAM
+1 MARR Y
+1 HUSB @I126@
+1 WIFE @I140@
+1 CHIL @I141@
+0 @F71@ FAM
+1 MARR
+2 DATE MAY 1981
+1 HUSB @I147@
+1 WIFE @I144@
+1 CHIL @I148@
+0 @F72@ FAM
+1 MARR Y
+1 HUSB @I153@
+1 WIFE @I152@
+0 @F73@ FAM
+1 MARR
+2 DATE 29 JUN 1910
+1 HUSB @I165@
+1 WIFE @I168@
+1 CHIL @I166@
+1 CHIL @I167@
+1 CHIL @I196@
+0 @F74@ FAM
+1 MARR Y
+1 HUSB @I182@
+1 WIFE @I166@
+0 @F75@ FAM
+1 MARR
+2 DATE 19 NOV 1939
+1 HUSB @I167@
+1 WIFE @I169@
+1 CHIL @I170@
+1 CHIL @I171@
+1 CHIL @I172@
+1 CHIL @I173@
+1 CHIL @I174@
+1 CHIL @I175@
+0 @F76@ FAM
+1 MARR
+2 DATE 05 JUN 1964
+1 HUSB @I176@
+1 WIFE @I170@
+1 CHIL @I177@
+1 CHIL @I178@
+0 @F77@ FAM
+1 MARR
+2 DATE 24 AUG 1963
+1 HUSB @I179@
+1 WIFE @I171@
+1 CHIL @I180@
+1 CHIL @I181@
+0 @F78@ FAM
+1 MARR
+2 DATE 08 JUL 1972
+1 HUSB @I172@
+1 WIFE @I186@
+1 CHIL @I187@
+1 CHIL @I188@
+1 CHIL @I189@
+0 @F79@ FAM
+1 MARR
+2 DATE 14 SEP 1968
+1 HUSB @I190@
+1 WIFE @I173@
+1 CHIL @I191@
+1 CHIL @I192@
+0 @F80@ FAM
+1 MARR
+2 DATE 08 OCT 1977
+1 HUSB @I193@
+1 WIFE @I175@
+1 CHIL @I194@
+1 CHIL @I195@
+0 @F81@ FAM
+1 MARR Y
+1 HUSB @I1347@
+1 WIFE @I1348@
+1 CHIL @I179@
+0 @F82@ FAM
+1 MARR
+2 DATE 17 MAY 1986
+1 HUSB @I183@
+1 WIFE @I180@
+1 CHIL @I184@
+0 @F83@ FAM
+1 MARR Y
+1 HUSB @I185@
+1 WIFE @I181@
+0 @F84@ FAM
+1 MARR
+2 DATE 23 OCT 1838
+1 HUSB @I196@
+1 WIFE @I203@
+1 CHIL @I204@
+1 CHIL @I205@
+1 CHIL @I206@
+1 CHIL @I207@
+0 @F85@ FAM
+1 MARR Y
+1 HUSB @I221@
+1 WIFE @I197@
+1 CHIL @I222@
+1 CHIL @I223@
+1 CHIL @I224@
+0 @F86@ FAM
+1 MARR Y
+1 HUSB @I198@
+1 WIFE @I226@
+1 CHIL @I227@
+1 CHIL @I228@
+0 @F87@ FAM
+1 MARR Y
+1 HUSB @I199@
+1 WIFE @I229@
+1 CHIL @I230@
+1 CHIL @I231@
+1 CHIL @I232@
+0 @F88@ FAM
+1 MARR
+2 DATE 31 OCT 1923
+1 HUSB @I234@
+1 WIFE @I200@
+1 CHIL @I235@
+1 CHIL @I236@
+1 CHIL @I237@
+0 @F89@ FAM
+1 MARR
+2 DATE ABT JUN 1929
+1 HUSB @I256@
+1 WIFE @I201@
+1 CHIL @I257@
+1 CHIL @I258@
+1 CHIL @I259@
+1 CHIL @I260@
+0 @F90@ FAM
+1 MARR Y
+1 HUSB @I288@
+1 WIFE @I202@
+1 CHIL @I289@
+1 CHIL @I290@
+0 @F91@ FAM
+1 MARR Y
+1 HUSB @I208@
+1 WIFE @I204@
+1 CHIL @I209@
+1 CHIL @I210@
+1 CHIL @I211@
+0 @F92@ FAM
+1 MARR
+2 DATE 26 NOV 1971
+1 HUSB @I205@
+1 WIFE @I212@
+1 CHIL @I213@
+1 CHIL @I214@
+1 CHIL @I215@
+0 @F93@ FAM
+1 MARR Y
+1 HUSB @I216@
+1 WIFE @I206@
+1 CHIL @I217@
+1 CHIL @I218@
+0 @F94@ FAM
+1 MARR Y
+1 HUSB @I207@
+1 WIFE @I219@
+1 CHIL @I220@
+0 @F95@ FAM
+1 MARR Y
+1 HUSB @I220@
+1 WIFE @I1171@
+0 @F96@ FAM
+1 MARR Y
+1 HUSB @I225@
+1 WIFE @I222@
+0 @F97@ FAM
+1 MARR Y
+1 HUSB @I233@
+1 WIFE @I232@
+0 @F98@ FAM
+1 MARR Y
+1 HUSB @I235@
+1 WIFE @I238@
+1 CHIL @I239@
+1 CHIL @I240@
+0 @F99@ FAM
+1 MARR
+2 DATE MAR 1952
+1 HUSB @I236@
+1 WIFE @I241@
+1 CHIL @I242@
+1 CHIL @I243@
+1 CHIL @I244@
+1 CHIL @I251@
+0 @F100@ FAM
+1 MARR Y
+1 HUSB @I237@
+1 WIFE @I252@
+1 CHIL @I253@
+1 CHIL @I254@
+1 CHIL @I255@
+0 @F101@ FAM
+1 MARR Y
+1 HUSB @I245@
+1 WIFE @I242@
+0 @F102@ FAM
+1 MARR Y
+1 HUSB @I246@
+1 WIFE @I243@
+1 CHIL @I247@
+0 @F103@ FAM
+1 MARR Y
+1 HUSB @I248@
+1 WIFE @I243@
+0 @F104@ FAM
+1 MARR Y
+1 HUSB @I244@
+1 WIFE @I249@
+1 CHIL @I250@
+0 @F105@ FAM
+1 MARR
+2 DATE 20 MAR 1954
+1 HUSB @I257@
+1 WIFE @I261@
+1 CHIL @I262@
+1 CHIL @I263@
+1 CHIL @I264@
+1 CHIL @I265@
+1 CHIL @I266@
+1 CHIL @I267@
+0 @F106@ FAM
+1 MARR
+2 DATE 15 AUG 1958
+1 HUSB @I258@
+1 WIFE @I281@
+1 CHIL @I282@
+1 CHIL @I283@
+1 CHIL @I284@
+1 CHIL @I285@
+0 @F107@ FAM
+1 MARR Y
+1 HUSB @I286@
+1 WIFE @I259@
+0 @F108@ FAM
+1 MARR Y
+1 HUSB @I1371@
+1 WIFE @I259@
+0 @F109@ FAM
+1 MARR Y
+1 HUSB @I287@
+1 WIFE @I260@
+0 @F110@ FAM
+1 MARR Y
+1 HUSB @I268@
+1 WIFE @I262@
+1 CHIL @I269@
+1 CHIL @I270@
+0 @F111@ FAM
+1 MARR Y
+1 HUSB @I271@
+1 WIFE @I263@
+1 CHIL @I272@
+1 CHIL @I273@
+0 @F112@ FAM
+1 MARR Y
+1 HUSB @I274@
+1 WIFE @I264@
+1 CHIL @I275@
+1 CHIL @I276@
+1 CHIL @I277@
+0 @F113@ FAM
+1 MARR Y
+1 HUSB @I278@
+1 WIFE @I265@
+1 CHIL @I279@
+0 @F114@ FAM
+1 MARR Y
+1 HUSB @I267@
+1 WIFE @I280@
+0 @F115@ FAM
+1 MARR
+2 DATE (OCT 2 1999)
+2 PLAC Fargo ND
+1 HUSB @I284@
+1 WIFE @I1346@
+0 @F116@ FAM
+1 MARR Y
+1 HUSB @I289@
+1 WIFE @I1294@
+1 CHIL @I1293@
+0 @F117@ FAM
+1 MARR Y
+1 HUSB @I307@
+1 WIFE @I309@
+1 CHIL @I310@
+1 CHIL @I311@
+1 CHIL @I312@
+1 CHIL @I313@
+1 CHIL @I314@
+1 CHIL @I315@
+0 @F118@ FAM
+1 MARR Y
+1 HUSB @I308@
+1 WIFE @I318@
+1 CHIL @I319@
+1 CHIL @I326@
+1 CHIL @I327@
+1 CHIL @I328@
+1 CHIL @I329@
+1 CHIL @I330@
+1 CHIL @I331@
+1 CHIL @I332@
+0 @F119@ FAM
+1 MARR Y
+1 HUSB @I316@
+1 WIFE @I312@
+0 @F120@ FAM
+1 MARR Y
+1 HUSB @I317@
+1 WIFE @I314@
+0 @F121@ FAM
+1 MARR Y
+1 HUSB @I319@
+1 WIFE @I333@
+1 CHIL @I320@
+1 CHIL @I321@
+1 CHIL @I322@
+0 @F122@ FAM
+1 MARR Y
+1 HUSB @I323@
+1 WIFE @I320@
+0 @F123@ FAM
+1 MARR Y
+1 HUSB @I324@
+1 WIFE @I321@
+0 @F124@ FAM
+1 MARR Y
+1 HUSB @I325@
+1 WIFE @I322@
+0 @F125@ FAM
+1 MARR Y
+1 HUSB @I334@
+1 WIFE @I326@
+1 CHIL @I335@
+1 CHIL @I336@
+1 CHIL @I337@
+0 @F126@ FAM
+1 MARR Y
+1 HUSB @I327@
+1 WIFE @I339@
+1 CHIL @I340@
+1 CHIL @I341@
+1 CHIL @I342@
+1 CHIL @I343@
+1 CHIL @I344@
+0 @F127@ FAM
+1 MARR Y
+1 HUSB @I346@
+1 WIFE @I328@
+1 CHIL @I347@
+1 CHIL @I348@
+1 CHIL @I349@
+1 CHIL @I350@
+1 CHIL @I351@
+1 CHIL @I352@
+0 @F128@ FAM
+1 MARR Y
+1 HUSB @I329@
+1 WIFE @I358@
+1 CHIL @I359@
+1 CHIL @I360@
+1 CHIL @I361@
+1 CHIL @I362@
+0 @F129@ FAM
+1 MARR Y
+1 HUSB @I363@
+1 WIFE @I330@
+0 @F130@ FAM
+1 MARR Y
+1 HUSB @I331@
+1 WIFE @I364@
+1 CHIL @I365@
+1 CHIL @I366@
+0 @F131@ FAM
+1 MARR Y
+1 HUSB @I338@
+1 WIFE @I335@
+0 @F132@ FAM
+1 MARR Y
+1 HUSB @I345@
+1 WIFE @I342@
+0 @F133@ FAM
+1 MARR Y
+1 HUSB @I343@
+1 CHIL @I1056@
+0 @F134@ FAM
+1 MARR Y
+1 HUSB @I353@
+1 WIFE @I348@
+0 @F135@ FAM
+1 MARR Y
+1 HUSB @I354@
+1 WIFE @I349@
+0 @F136@ FAM
+1 MARR Y
+1 HUSB @I355@
+1 WIFE @I350@
+0 @F137@ FAM
+1 MARR Y
+1 HUSB @I356@
+1 WIFE @I351@
+0 @F138@ FAM
+1 MARR Y
+1 HUSB @I357@
+1 WIFE @I352@
+0 @F139@ FAM
+1 MARR Y
+1 HUSB @I367@
+1 WIFE @I365@
+0 @F140@ FAM
+1 MARR Y
+1 HUSB @I443@
+1 WIFE @I444@
+1 CHIL @I723@
+1 CHIL @I724@
+1 CHIL @I368@
+1 CHIL @I725@
+1 CHIL @I727@
+1 CHIL @I726@
+1 CHIL @I728@
+0 @F141@ FAM
+1 MARR
+2 DATE 03 MAR 1890
+1 HUSB @I445@
+1 WIFE @I446@
+1 CHIL @I447@
+1 CHIL @I448@
+1 CHIL @I449@
+1 CHIL @I369@
+1 CHIL @I450@
+1 CHIL @I451@
+1 CHIL @I452@
+1 CHIL @I453@
+0 @F142@ FAM
+1 MARR
+2 DATE 29 DEC 1936
+1 HUSB @I382@
+1 WIFE @I370@
+1 CHIL @I383@
+1 CHIL @I384@
+1 CHIL @I385@
+0 @F143@ FAM
+1 MARR
+2 DATE 11 NOV 1937
+1 HUSB @I388@
+1 WIFE @I371@
+1 CHIL @I389@
+1 CHIL @I390@
+1 CHIL @I391@
+1 CHIL @I392@
+1 CHIL @I393@
+1 CHIL @I394@
+1 CHIL @I395@
+1 CHIL @I396@
+0 @F144@ FAM
+1 MARR
+2 DATE 22 MAR 1952
+2 PLAC Eksjo Lutheran Church, Lake Park, MN
+1 HUSB @I372@
+1 WIFE @I397@
+1 CHIL @I398@
+1 CHIL @I399@
+1 CHIL @I400@
+1 CHIL @I401@
+1 CHIL @I402@
+0 @F145@ FAM
+1 MARR
+2 DATE 14 APR 1951
+1 HUSB @I374@
+1 WIFE @I403@
+1 CHIL @I404@
+1 CHIL @I405@
+1 CHIL @I406@
+0 @F146@ FAM
+1 MARR
+2 DATE 09 AUG 1947
+2 PLAC Parke Lutheran Church, Hawley, MN
+1 HUSB @I407@
+1 WIFE @I375@
+1 CHIL @I408@
+1 CHIL @I409@
+1 CHIL @I410@
+1 CHIL @I411@
+0 @F147@ FAM
+1 MARR
+2 DATE 15 SEP 1956
+2 PLAC Salem Lutheran Church, Hitterdal, MN
+1 HUSB @I376@
+1 WIFE @I412@
+1 CHIL @I413@
+1 CHIL @I414@
+0 @F148@ FAM
+1 MARR
+2 DATE 22 DEC 1951
+2 PLAC Bethesda Lutheran Church, Moorhead, MN
+1 HUSB @I377@
+1 WIFE @I415@
+1 CHIL @I416@
+1 CHIL @I417@
+1 CHIL @I418@
+0 @F149@ FAM
+1 MARR
+2 DATE 06 JUN 1954
+2 PLAC At Home in Park Twnshp, Hawley, MN
+1 HUSB @I419@
+1 WIFE @I378@
+1 CHIL @I420@
+1 CHIL @I421@
+1 CHIL @I422@
+0 @F150@ FAM
+1 MARR
+2 DATE 23 DEC 1955
+2 PLAC Pelican Rapids, MN
+1 HUSB @I423@
+1 WIFE @I379@
+1 CHIL @I424@
+1 CHIL @I425@
+1 CHIL @I426@
+0 @F151@ FAM
+1 MARR
+2 DATE 09 JUL 1955
+2 PLAC Parke Lutheran Church, Hawley, MN
+1 DIV
+2 DATE 2000
+1 HUSB @I427@
+1 WIFE @I380@
+1 CHIL @I428@
+1 CHIL @I429@
+0 @F152@ FAM
+1 MARR
+2 DATE 15 JUL 1960
+2 PLAC Hawley, MN
+1 DIV
+2 DATE 1980
+1 HUSB @I381@
+1 WIFE @I430@
+1 CHIL @I431@
+1 CHIL @I432@
+1 CHIL @I433@
+0 @F153@ FAM
+1 MARR
+2 DATE 04 SEP 1982
+2 PLAC Rollag, MN
+1 HUSB @I381@
+1 WIFE @I434@
+0 @F154@ FAM
+1 MARR
+2 DATE 09 NOV 1968
+1 HUSB @I386@
+1 WIFE @I384@
+1 CHIL @I387@
+0 @F155@ FAM
+1 MARR
+2 DATE 19 JUN 2004
+1 HUSB @I1104@
+1 WIFE @I387@
+0 @F156@ FAM
+1 MARR Y
+1 HUSB @I389@
+1 WIFE @I1068@
+1 CHIL @I1069@
+1 CHIL @I1071@
+0 @F157@ FAM
+1 MARR Y
+1 HUSB @I1093@
+1 WIFE @I391@
+1 CHIL @I1094@
+1 CHIL @I1095@
+1 CHIL @I1096@
+0 @F158@ FAM
+1 MARR Y
+1 HUSB @I1121@
+1 WIFE @I392@
+1 CHIL @I1123@
+1 CHIL @I1124@
+0 @F159@ FAM
+1 MARR Y
+1 HUSB @I1122@
+1 WIFE @I392@
+0 @F160@ FAM
+1 MARR Y
+1 HUSB @I1064@
+1 WIFE @I393@
+1 CHIL @I1061@
+1 CHIL @I1063@
+0 @F161@ FAM
+1 MARR Y
+1 HUSB @I1358@
+1 WIFE @I394@
+1 CHIL @I1359@
+0 @F162@ FAM
+1 MARR Y
+1 HUSB @I1340@
+1 WIFE @I399@
+1 CHIL @I1341@
+0 @F163@ FAM
+1 MARR Y
+1 HUSB @I1144@
+1 WIFE @I402@
+1 CHIL @I1145@
+1 CHIL @I1352@
+0 @F164@ FAM
+1 MARR Y
+1 HUSB @I1097@
+1 WIFE @I404@
+1 CHIL @I1098@
+1 CHIL @I1099@
+1 CHIL @I1100@
+1 CHIL @I1101@
+0 @F165@ FAM
+1 MARR Y
+1 HUSB @I406@
+1 WIFE @I1105@
+1 CHIL @I1106@
+1 CHIL @I1107@
+0 @F166@ FAM
+1 MARR
+2 DATE 19 MAR 1988
+1 HUSB @I1339@
+1 WIFE @I418@
+0 @F167@ FAM
+1 MARR Y
+1 HUSB @I424@
+1 WIFE @I1146@
+0 @F168@ FAM
+1 MARR Y
+1 HUSB @I424@
+1 WIFE @I1147@
+1 CHIL @I1148@
+0 @F169@ FAM
+1 MARR
+2 DATE 12 JUL 1997
+1 HUSB @I425@
+1 WIFE @I1128@
+0 @F170@ FAM
+1 MARR Y
+1 HUSB @I1118@
+1 WIFE @I429@
+1 CHIL @I1120@
+0 @F171@ FAM
+1 MARR
+2 DATE 13 SEP 1997
+1 HUSB @I1119@
+1 WIFE @I429@
+0 @F172@ FAM
+1 MARR Y
+1 HUSB @I436@
+1 WIFE @I866@
+1 CHIL @I437@
+1 CHIL @I439@
+1 CHIL @I440@
+1 CHIL @I438@
+0 @F173@ FAM
+1 MARR Y
+1 HUSB @I729@
+1 WIFE @I730@
+1 CHIL @I731@
+1 CHIL @I732@
+1 CHIL @I733@
+1 CHIL @I443@
+1 CHIL @I735@
+0 @F174@ FAM
+1 MARR
+2 DATE 07 MAR 1862
+1 HUSB @I739@
+1 WIFE @I740@
+1 CHIL @I444@
+1 CHIL @I741@
+1 CHIL @I742@
+1 CHIL @I743@
+1 CHIL @I744@
+0 @F175@ FAM
+1 MARR Y
+1 HUSB @I455@
+1 WIFE @I454@
+1 CHIL @I460@
+1 CHIL @I457@
+1 CHIL @I461@
+1 CHIL @I462@
+1 CHIL @I463@
+1 CHIL @I562@
+1 CHIL @I465@
+1 CHIL @I466@
+1 CHIL @I458@
+1 CHIL @I459@
+1 CHIL @I445@
+0 @F176@ FAM
+1 MARR
+2 DATE 24 NOV 1865
+1 HUSB @I936@
+1 WIFE @I937@
+1 CHIL @I446@
+1 CHIL @I938@
+1 CHIL @I939@
+1 CHIL @I940@
+1 CHIL @I941@
+1 CHIL @I942@
+1 CHIL @I943@
+1 CHIL @I944@
+0 @F177@ FAM
+1 MARR
+2 DATE 21 FEB 1914
+2 PLAC Estevan, Saskatchewan, Canada
+1 HUSB @I766@
+1 WIFE @I447@
+0 @F178@ FAM
+1 MARR Y
+1 HUSB @I448@
+1 WIFE @I476@
+1 CHIL @I478@
+1 CHIL @I477@
+1 CHIL @I479@
+1 CHIL @I482@
+1 CHIL @I480@
+1 CHIL @I481@
+1 CHIL @I486@
+1 CHIL @I483@
+1 CHIL @I484@
+1 CHIL @I485@
+0 @F179@ FAM
+1 MARR Y
+1 HUSB @I487@
+1 WIFE @I449@
+1 CHIL @I489@
+1 CHIL @I490@
+1 CHIL @I493@
+1 CHIL @I762@
+0 @F180@ FAM
+1 MARR Y
+1 HUSB @I488@
+1 WIFE @I449@
+1 CHIL @I491@
+1 CHIL @I492@
+0 @F181@ FAM
+1 MARR
+2 DATE 15 JAN 1927
+1 HUSB @I450@
+1 WIFE @I494@
+1 CHIL @I495@
+1 CHIL @I496@
+1 CHIL @I497@
+1 CHIL @I498@
+0 @F182@ FAM
+1 MARR Y
+1 HUSB @I453@
+1 WIFE @I499@
+1 CHIL @I500@
+0 @F183@ FAM
+1 MARR Y
+1 HUSB @I456@
+1 CHIL @I454@
+0 @F184@ FAM
+1 MARR Y
+1 HUSB @I457@
+1 CHIL @I512@
+1 CHIL @I513@
+1 CHIL @I514@
+1 CHIL @I515@
+1 CHIL @I516@
+1 CHIL @I517@
+1 CHIL @I518@
+1 CHIL @I464@
+1 CHIL @I519@
+1 CHIL @I468@
+1 CHIL @I520@
+0 @F185@ FAM
+1 MARR Y
+1 HUSB @I581@
+1 WIFE @I458@
+1 CHIL @I582@
+1 CHIL @I763@
+1 CHIL @I764@
+1 CHIL @I765@
+1 CHIL @I766@
+1 CHIL @I767@
+0 @F186@ FAM
+1 MARR Y
+1 HUSB @I583@
+1 WIFE @I459@
+1 CHIL @I584@
+1 CHIL @I585@
+1 CHIL @I586@
+1 CHIL @I587@
+1 CHIL @I588@
+1 CHIL @I589@
+0 @F187@ FAM
+1 MARR Y
+1 HUSB @I464@
+1 WIFE @I501@
+1 CHIL @I502@
+1 CHIL @I503@
+1 CHIL @I504@
+1 CHIL @I505@
+1 CHIL @I506@
+1 CHIL @I507@
+0 @F188@ FAM
+1 MARR Y
+1 CHIL @I467@
+0 @F189@ FAM
+1 MARR Y
+1 HUSB @I468@
+1 WIFE @I469@
+1 CHIL @I555@
+1 CHIL @I475@
+1 CHIL @I471@
+1 CHIL @I472@
+1 CHIL @I473@
+1 CHIL @I474@
+0 @F190@ FAM
+1 MARR Y
+1 CHIL @I470@
+0 @F191@ FAM
+1 MARR Y
+1 HUSB @I557@
+1 WIFE @I471@
+1 CHIL @I720@
+0 @F192@ FAM
+1 MARR Y
+1 HUSB @I472@
+1 WIFE @I558@
+1 CHIL @I721@
+1 CHIL @I722@
+0 @F193@ FAM
+1 MARR Y
+1 HUSB @I473@
+1 WIFE @I559@
+1 CHIL @I1316@
+1 CHIL @I1317@
+1 CHIL @I1318@
+1 CHIL @I1319@
+0 @F194@ FAM
+1 MARR Y
+1 HUSB @I474@
+1 WIFE @I560@
+0 @F195@ FAM
+1 MARR Y
+1 HUSB @I477@
+1 WIFE @I603@
+1 CHIL @I604@
+0 @F196@ FAM
+1 MARR Y
+1 HUSB @I590@
+1 WIFE @I478@
+1 CHIL @I591@
+1 CHIL @I592@
+1 CHIL @I593@
+1 CHIL @I594@
+0 @F197@ FAM
+1 MARR Y
+1 HUSB @I606@
+1 WIFE @I479@
+1 CHIL @I607@
+1 CHIL @I608@
+0 @F198@ FAM
+1 MARR Y
+1 HUSB @I480@
+1 WIFE @I618@
+1 CHIL @I619@
+1 CHIL @I620@
+1 CHIL @I621@
+1 CHIL @I622@
+0 @F199@ FAM
+1 MARR
+2 DATE 25 JUN 1955
+1 HUSB @I609@
+1 WIFE @I482@
+1 CHIL @I610@
+1 CHIL @I611@
+1 CHIL @I612@
+1 CHIL @I613@
+1 CHIL @I614@
+1 CHIL @I615@
+0 @F200@ FAM
+1 MARR Y
+1 HUSB @I636@
+1 WIFE @I489@
+0 @F201@ FAM
+1 MARR Y
+1 HUSB @I490@
+1 WIFE @I637@
+1 CHIL @I638@
+1 CHIL @I639@
+1 CHIL @I640@
+0 @F202@ FAM
+1 MARR Y
+1 HUSB @I491@
+1 WIFE @I650@
+1 CHIL @I651@
+1 CHIL @I652@
+1 CHIL @I653@
+0 @F203@ FAM
+1 MARR Y
+1 HUSB @I492@
+1 WIFE @I659@
+1 CHIL @I660@
+0 @F204@ FAM
+1 MARR Y
+1 HUSB @I493@
+1 WIFE @I641@
+1 CHIL @I642@
+1 CHIL @I643@
+1 CHIL @I644@
+0 @F205@ FAM
+1 MARR Y
+1 HUSB @I661@
+1 WIFE @I495@
+1 CHIL @I662@
+1 CHIL @I663@
+1 CHIL @I664@
+1 CHIL @I665@
+1 CHIL @I666@
+0 @F206@ FAM
+1 MARR
+2 DATE 14 MAY 1947
+1 HUSB @I667@
+1 WIFE @I496@
+0 @F207@ FAM
+1 MARR Y
+1 HUSB @I668@
+1 WIFE @I497@
+1 CHIL @I669@
+1 CHIL @I670@
+1 CHIL @I671@
+1 CHIL @I672@
+0 @F208@ FAM
+1 MARR Y
+1 HUSB @I498@
+1 WIFE @I673@
+1 CHIL @I674@
+1 CHIL @I675@
+1 CHIL @I676@
+0 @F209@ FAM
+1 MARR
+2 DATE 28 MAY 1941
+2 PLAC East Clermont Lutheran Church IA
+1 HUSB @I502@
+1 WIFE @I508@
+1 CHIL @I711@
+1 CHIL @I712@
+0 @F210@ FAM
+1 MARR Y
+1 HUSB @I503@
+1 WIFE @I509@
+1 CHIL @I713@
+1 CHIL @I1353@
+1 CHIL @I1354@
+0 @F211@ FAM
+1 MARR Y
+1 HUSB @I504@
+1 WIFE @I510@
+1 CHIL @I714@
+1 CHIL @I715@
+1 CHIL @I716@
+0 @F212@ FAM
+1 MARR
+2 DATE 05 AUG 1950
+1 HUSB @I511@
+1 WIFE @I507@
+1 CHIL @I717@
+0 @F213@ FAM
+1 MARR Y
+1 HUSB @I521@
+1 WIFE @I512@
+1 CHIL @I522@
+1 CHIL @I523@
+0 @F214@ FAM
+1 MARR Y
+1 HUSB @I513@
+1 WIFE @I524@
+1 CHIL @I525@
+1 CHIL @I526@
+1 CHIL @I527@
+1 CHIL @I528@
+0 @F215@ FAM
+1 MARR Y
+1 HUSB @I517@
+1 WIFE @I535@
+1 CHIL @I536@
+1 CHIL @I537@
+0 @F216@ FAM
+1 MARR Y
+1 HUSB @I518@
+1 WIFE @I540@
+1 CHIL @I541@
+1 CHIL @I542@
+1 CHIL @I543@
+1 CHIL @I547@
+0 @F217@ FAM
+1 MARR Y
+1 HUSB @I549@
+1 WIFE @I519@
+1 CHIL @I550@
+1 CHIL @I551@
+1 CHIL @I552@
+0 @F218@ FAM
+1 MARR Y
+1 HUSB @I561@
+1 WIFE @I520@
+0 @F219@ FAM
+1 MARR Y
+1 HUSB @I522@
+1 CHIL @I677@
+1 CHIL @I678@
+1 CHIL @I679@
+0 @F220@ FAM
+1 MARR Y
+1 HUSB @I529@
+1 WIFE @I525@
+1 CHIL @I530@
+1 CHIL @I531@
+1 CHIL @I532@
+0 @F221@ FAM
+1 MARR Y
+1 HUSB @I526@
+1 WIFE @I533@
+1 CHIL @I680@
+1 CHIL @I681@
+1 CHIL @I682@
+1 CHIL @I683@
+1 CHIL @I684@
+0 @F222@ FAM
+1 MARR Y
+1 HUSB @I527@
+1 CHIL @I685@
+1 CHIL @I686@
+1 CHIL @I687@
+1 CHIL @I688@
+1 CHIL @I689@
+1 CHIL @I690@
+0 @F223@ FAM
+1 MARR Y
+1 HUSB @I534@
+1 WIFE @I528@
+1 CHIL @I691@
+1 CHIL @I692@
+0 @F224@ FAM
+1 MARR Y
+1 HUSB @I538@
+1 WIFE @I536@
+1 CHIL @I693@
+1 CHIL @I694@
+1 CHIL @I695@
+1 CHIL @I696@
+0 @F225@ FAM
+1 MARR Y
+1 HUSB @I537@
+1 WIFE @I539@
+1 CHIL @I697@
+1 CHIL @I698@
+1 CHIL @I699@
+0 @F226@ FAM
+1 MARR Y
+1 HUSB @I544@
+1 WIFE @I541@
+1 CHIL @I700@
+1 CHIL @I701@
+1 CHIL @I702@
+1 CHIL @I703@
+0 @F227@ FAM
+1 MARR Y
+1 HUSB @I545@
+1 WIFE @I542@
+1 CHIL @I704@
+1 CHIL @I705@
+1 CHIL @I706@
+1 CHIL @I707@
+1 CHIL @I708@
+0 @F228@ FAM
+1 MARR Y
+1 HUSB @I543@
+1 WIFE @I546@
+1 CHIL @I709@
+1 CHIL @I710@
+0 @F229@ FAM
+1 MARR Y
+1 HUSB @I548@
+1 WIFE @I547@
+0 @F230@ FAM
+1 MARR Y
+1 HUSB @I553@
+1 WIFE @I550@
+0 @F231@ FAM
+1 MARR Y
+1 HUSB @I554@
+1 WIFE @I552@
+1 CHIL @I718@
+0 @F232@ FAM
+1 MARR Y
+1 HUSB @I555@
+1 WIFE @I556@
+1 CHIL @I719@
+0 @F233@ FAM
+1 MARR Y
+1 HUSB @I562@
+1 CHIL @I563@
+1 CHIL @I564@
+1 CHIL @I565@
+1 CHIL @I566@
+1 CHIL @I567@
+1 CHIL @I568@
+0 @F234@ FAM
+1 MARR Y
+1 HUSB @I563@
+1 WIFE @I569@
+1 CHIL @I570@
+1 CHIL @I571@
+1 CHIL @I572@
+1 CHIL @I573@
+1 CHIL @I574@
+1 CHIL @I575@
+1 CHIL @I576@
+1 CHIL @I577@
+1 CHIL @I578@
+1 CHIL @I579@
+0 @F235@ FAM
+1 MARR Y
+1 HUSB @I564@
+1 WIFE @I631@
+1 CHIL @I632@
+0 @F236@ FAM
+1 MARR Y
+1 HUSB @I565@
+1 WIFE @I634@
+0 @F237@ FAM
+1 MARR Y
+1 HUSB @I635@
+1 WIFE @I566@
+0 @F238@ FAM
+1 MARR Y
+1 HUSB @I570@
+1 WIFE @I623@
+0 @F239@ FAM
+1 MARR Y
+1 HUSB @I580@
+1 WIFE @I571@
+0 @F240@ FAM
+1 MARR Y
+1 HUSB @I624@
+1 WIFE @I572@
+0 @F241@ FAM
+1 MARR Y
+1 HUSB @I625@
+1 WIFE @I575@
+0 @F242@ FAM
+1 MARR Y
+1 HUSB @I626@
+1 WIFE @I576@
+0 @F243@ FAM
+1 MARR Y
+1 HUSB @I627@
+1 WIFE @I576@
+0 @F244@ FAM
+1 MARR Y
+1 HUSB @I577@
+1 WIFE @I628@
+0 @F245@ FAM
+1 MARR Y
+1 HUSB @I578@
+1 WIFE @I629@
+0 @F246@ FAM
+1 MARR Y
+1 HUSB @I579@
+1 WIFE @I630@
+0 @F247@ FAM
+1 MARR Y
+1 HUSB @I595@
+1 WIFE @I591@
+1 CHIL @I596@
+1 CHIL @I597@
+0 @F248@ FAM
+1 MARR
+2 DATE 15 SEP 2001
+1 HUSB @I1067@
+1 WIFE @I591@
+0 @F249@ FAM
+1 MARR Y
+1 HUSB @I598@
+1 WIFE @I592@
+1 CHIL @I599@
+1 CHIL @I600@
+0 @F250@ FAM
+1 MARR Y
+1 HUSB @I593@
+1 WIFE @I601@
+1 CHIL @I602@
+0 @F251@ FAM
+1 MARR
+2 DATE 20 JUL 2002
+1 HUSB @I605@
+1 WIFE @I604@
+0 @F252@ FAM
+1 MARR
+2 DATE 21 JUN 1997
+1 HUSB @I1127@
+1 WIFE @I610@
+1 CHIL @I1153@
+1 CHIL @I1154@
+0 @F253@ FAM
+1 MARR Y
+1 HUSB @I611@
+1 WIFE @I616@
+0 @F254@ FAM
+1 MARR
+2 DATE 30 MAR 1996
+1 HUSB @I612@
+1 WIFE @I1115@
+0 @F255@ FAM
+1 MARR
+2 DATE 03 JUL 1998
+1 HUSB @I613@
+1 WIFE @I617@
+1 CHIL @I1129@
+1 CHIL @I1155@
+1 CHIL @I1156@
+0 @F256@ FAM
+1 MARR Y
+1 HUSB @I1080@
+1 WIFE @I614@
+1 CHIL @I1081@
+0 @F257@ FAM
+1 MARR Y
+1 HUSB @I1137@
+1 WIFE @I615@
+1 CHIL @I1138@
+0 @F258@ FAM
+1 MARR Y
+1 WIFE @I620@
+1 CHIL @I1065@
+0 @F259@ FAM
+1 MARR Y
+1 HUSB @I1116@
+1 WIFE @I622@
+0 @F260@ FAM
+1 MARR
+2 DATE 09 AUG 1996
+1 HUSB @I1117@
+1 WIFE @I622@
+1 CHIL @I1134@
+1 CHIL @I1149@
+0 @F261@ FAM
+1 MARR Y
+1 HUSB @I632@
+1 WIFE @I633@
+0 @F262@ FAM
+1 MARR
+2 DATE 06 APR 1973
+1 HUSB @I770@
+1 WIFE @I638@
+1 CHIL @I773@
+1 CHIL @I774@
+0 @F263@ FAM
+1 MARR
+2 DATE 25 MAY 1979
+1 DIV
+2 DATE 1986
+1 HUSB @I771@
+1 WIFE @I640@
+1 CHIL @I772@
+0 @F264@ FAM
+1 MARR Y
+1 HUSB @I645@
+1 WIFE @I642@
+1 CHIL @I646@
+1 CHIL @I647@
+1 CHIL @I648@
+1 CHIL @I649@
+0 @F265@ FAM
+1 MARR
+2 DATE 01 MAY 1997
+1 HUSB @I1126@
+1 WIFE @I650@
+0 @F266@ FAM
+1 MARR Y
+1 HUSB @I654@
+1 WIFE @I651@
+1 CHIL @I655@
+1 CHIL @I656@
+1 CHIL @I657@
+0 @F267@ FAM
+1 MARR
+2 DATE (FEB 11 1995)
+1 HUSB @I658@
+1 WIFE @I651@
+0 @F268@ FAM
+1 MARR Y
+1 HUSB @I1132@
+1 WIFE @I653@
+1 CHIL @I1133@
+0 @F269@ FAM
+1 MARR Y
+1 HUSB @I1074@
+1 WIFE @I664@
+1 CHIL @I1075@
+0 @F270@ FAM
+1 MARR Y
+1 HUSB @I671@
+1 WIFE @I1135@
+1 CHIL @I1136@
+0 @F271@ FAM
+1 MARR Y
+1 HUSB @I1130@
+1 WIFE @I675@
+1 CHIL @I1131@
+0 @F272@ FAM
+1 MARR
+2 DATE 27 JUL 1997
+1 HUSB @I676@
+1 WIFE @I1078@
+1 CHIL @I1152@
+1 CHIL @I1079@
+0 @F273@ FAM
+1 MARR Y
+1 HUSB @I726@
+1 WIFE @I738@
+0 @F274@ FAM
+1 MARR Y
+1 HUSB @I728@
+1 WIFE @I736@
+1 CHIL @I737@
+0 @F275@ FAM
+1 MARR Y
+1 HUSB @I731@
+1 WIFE @I1320@
+1 CHIL @I1321@
+1 CHIL @I1323@
+1 CHIL @I1322@
+1 CHIL @I1324@
+0 @F276@ FAM
+1 MARR
+2 DATE 1873
+1 HUSB @I1177@
+1 WIFE @I1219@
+1 CHIL @I1221@
+1 CHIL @I1222@
+1 CHIL @I1223@
+1 CHIL @I734@
+1 CHIL @I1224@
+1 CHIL @I1225@
+0 @F277@ FAM
+1 MARR Y
+1 HUSB @I1357@
+1 WIFE @I736@
+0 @F278@ FAM
+1 MARR Y
+1 HUSB @I851@
+1 WIFE @I852@
+1 CHIL @I853@
+1 CHIL @I739@
+0 @F279@ FAM
+1 MARR Y
+1 HUSB @I777@
+1 WIFE @I778@
+1 CHIL @I779@
+1 CHIL @I780@
+1 CHIL @I781@
+1 CHIL @I782@
+1 CHIL @I783@
+1 CHIL @I740@
+0 @F280@ FAM
+1 MARR Y
+1 HUSB @I745@
+1 WIFE @I743@
+1 CHIL @I746@
+1 CHIL @I747@
+1 CHIL @I748@
+1 CHIL @I749@
+1 CHIL @I750@
+1 CHIL @I751@
+0 @F281@ FAM
+1 MARR Y
+1 HUSB @I744@
+1 WIFE @I807@
+1 CHIL @I829@
+1 CHIL @I830@
+1 CHIL @I831@
+1 CHIL @I832@
+1 CHIL @I833@
+1 CHIL @I834@
+1 CHIL @I835@
+0 @F282@ FAM
+1 MARR Y
+1 HUSB @I746@
+1 WIFE @I808@
+1 CHIL @I849@
+0 @F283@ FAM
+1 MARR
+2 DATE 22 JAN 1921
+1 HUSB @I809@
+1 WIFE @I747@
+1 CHIL @I810@
+1 CHIL @I811@
+1 CHIL @I812@
+1 CHIL @I813@
+1 CHIL @I814@
+1 CHIL @I815@
+0 @F284@ FAM
+1 MARR Y
+1 HUSB @I753@
+1 WIFE @I748@
+1 CHIL @I754@
+1 CHIL @I755@
+1 CHIL @I756@
+1 CHIL @I757@
+1 CHIL @I758@
+1 CHIL @I759@
+0 @F285@ FAM
+1 MARR Y
+1 HUSB @I760@
+1 WIFE @I749@
+1 CHIL @I761@
+0 @F286@ FAM
+1 MARR Y
+1 HUSB @I750@
+1 WIFE @I826@
+0 @F287@ FAM
+1 MARR Y
+1 HUSB @I751@
+1 WIFE @I752@
+1 CHIL @I827@
+1 CHIL @I828@
+0 @F288@ FAM
+1 MARR Y
+1 HUSB @I821@
+1 WIFE @I754@
+0 @F289@ FAM
+1 MARR Y
+1 HUSB @I822@
+1 WIFE @I755@
+0 @F290@ FAM
+1 MARR Y
+1 HUSB @I823@
+1 WIFE @I758@
+0 @F291@ FAM
+1 MARR Y
+1 HUSB @I759@
+1 WIFE @I824@
+0 @F292@ FAM
+1 MARR Y
+1 HUSB @I761@
+1 WIFE @I825@
+0 @F293@ FAM
+1 MARR Y
+1 HUSB @I763@
+1 WIFE @I1052@
+0 @F294@ FAM
+1 MARR
+2 DATE 17 FEB 1904
+2 PLAC Minot, ND
+1 HUSB @I769@
+1 WIFE @I764@
+0 @F295@ FAM
+1 MARR
+2 DATE 04 OCT 1911
+2 PLAC Bowbells ND
+1 HUSB @I765@
+1 WIFE @I1053@
+1 CHIL @I1054@
+1 CHIL @I1055@
+0 @F296@ FAM
+1 MARR
+2 DATE 04 OCT 1911
+1 HUSB @I765@
+0 @F297@ FAM
+1 MARR
+2 DATE 03 JAN 1922
+1 HUSB @I767@
+1 WIFE @I768@
+0 @F298@ FAM
+1 MARR
+2 DATE 15 FEB 1992
+1 HUSB @I775@
+1 WIFE @I773@
+1 CHIL @I776@
+0 @F299@ FAM
+1 MARR Y
+1 HUSB @I784@
+1 WIFE @I779@
+0 @F300@ FAM
+1 MARR
+2 DATE 12 JUL 1851
+2 PLAC Norway
+1 HUSB @I781@
+1 WIFE @I785@
+1 CHIL @I796@
+1 CHIL @I797@
+1 CHIL @I798@
+1 CHIL @I799@
+1 CHIL @I800@
+1 CHIL @I801@
+1 CHIL @I802@
+1 CHIL @I803@
+1 CHIL @I804@
+1 CHIL @I805@
+1 CHIL @I806@
+1 CHIL @I807@
+0 @F301@ FAM
+1 MARR Y
+1 HUSB @I786@
+1 WIFE @I783@
+1 CHIL @I787@
+0 @F302@ FAM
+1 MARR Y
+1 HUSB @I795@
+1 WIFE @I787@
+1 CHIL @I792@
+1 CHIL @I788@
+1 CHIL @I789@
+1 CHIL @I790@
+1 CHIL @I791@
+1 CHIL @I793@
+0 @F303@ FAM
+1 MARR Y
+1 HUSB @I790@
+0 @F304@ FAM
+1 MARR Y
+1 HUSB @I791@
+0 @F305@ FAM
+1 MARR Y
+1 HUSB @I792@
+1 WIFE @I794@
+0 @F306@ FAM
+1 MARR
+2 DATE 28 JUN 1958
+1 HUSB @I810@
+1 WIFE @I816@
+1 CHIL @I867@
+0 @F307@ FAM
+1 MARR
+2 DATE 30 OCT 1948
+1 HUSB @I817@
+1 WIFE @I811@
+1 CHIL @I868@
+1 CHIL @I869@
+0 @F308@ FAM
+1 MARR
+2 DATE 18 OCT 1947
+1 HUSB @I818@
+1 WIFE @I812@
+1 CHIL @I878@
+1 CHIL @I879@
+1 CHIL @I880@
+1 CHIL @I881@
+0 @F309@ FAM
+1 MARR
+2 DATE 28 MAY 1955
+1 HUSB @I814@
+1 WIFE @I819@
+1 CHIL @I894@
+1 CHIL @I895@
+0 @F310@ FAM
+1 MARR
+2 DATE 10 DEC 1965
+1 HUSB @I815@
+1 WIFE @I820@
+1 CHIL @I900@
+1 CHIL @I901@
+0 @F311@ FAM
+1 MARR
+2 DATE 03 DEC 1926
+1 HUSB @I836@
+1 WIFE @I830@
+1 CHIL @I837@
+1 CHIL @I838@
+1 CHIL @I839@
+1 CHIL @I840@
+0 @F312@ FAM
+1 MARR Y
+1 HUSB @I831@
+1 WIFE @I841@
+1 CHIL @I842@
+1 CHIL @I843@
+1 CHIL @I844@
+0 @F313@ FAM
+1 MARR Y
+1 HUSB @I845@
+1 WIFE @I832@
+1 CHIL @I846@
+0 @F314@ FAM
+1 MARR Y
+1 HUSB @I847@
+1 WIFE @I833@
+1 CHIL @I848@
+1 CHIL @I902@
+0 @F315@ FAM
+1 MARR Y
+1 HUSB @I837@
+1 WIFE @I904@
+1 CHIL @I905@
+1 CHIL @I906@
+1 CHIL @I907@
+0 @F316@ FAM
+1 MARR Y
+1 HUSB @I838@
+1 WIFE @I908@
+1 CHIL @I909@
+1 CHIL @I910@
+1 CHIL @I911@
+0 @F317@ FAM
+1 MARR Y
+1 HUSB @I839@
+1 WIFE @I922@
+1 CHIL @I923@
+1 CHIL @I924@
+1 CHIL @I925@
+1 CHIL @I926@
+1 CHIL @I927@
+0 @F318@ FAM
+1 MARR Y
+1 HUSB @I933@
+1 WIFE @I840@
+1 CHIL @I934@
+1 CHIL @I935@
+0 @F319@ FAM
+1 MARR Y
+1 HUSB @I903@
+1 WIFE @I842@
+0 @F320@ FAM
+1 MARR
+2 DATE 29 DEC 1967
+1 HUSB @I849@
+1 WIFE @I850@
+1 CHIL @I1083@
+1 CHIL @I1086@
+0 @F321@ FAM
+1 MARR Y
+1 HUSB @I853@
+1 CHIL @I854@
+1 CHIL @I855@
+1 CHIL @I856@
+1 CHIL @I857@
+1 CHIL @I858@
+1 CHIL @I859@
+0 @F322@ FAM
+1 MARR Y
+1 HUSB @I859@
+1 CHIL @I860@
+1 CHIL @I861@
+1 CHIL @I862@
+1 CHIL @I863@
+1 CHIL @I864@
+0 @F323@ FAM
+1 MARR Y
+1 HUSB @I861@
+1 WIFE @I865@
+1 CHIL @I866@
+1 CHIL @I1057@
+0 @F324@ FAM
+1 MARR Y
+1 WIFE @I866@
+0 @F325@ FAM
+1 MARR
+2 DATE 01 SEP 1968
+1 HUSB @I870@
+1 WIFE @I868@
+1 CHIL @I871@
+1 CHIL @I873@
+0 @F326@ FAM
+1 MARR
+2 DATE 27 NOV 1971
+1 HUSB @I874@
+1 WIFE @I869@
+1 CHIL @I875@
+1 CHIL @I876@
+1 CHIL @I877@
+0 @F327@ FAM
+1 MARR Y
+1 HUSB @I872@
+1 WIFE @I871@
+0 @F328@ FAM
+1 MARR
+2 DATE 21 DEC 1968
+1 HUSB @I878@
+1 WIFE @I882@
+1 CHIL @I883@
+1 CHIL @I884@
+0 @F329@ FAM
+1 MARR
+2 DATE 18 JUN 1970
+1 HUSB @I885@
+1 WIFE @I880@
+1 CHIL @I886@
+1 CHIL @I887@
+0 @F330@ FAM
+1 MARR
+2 DATE 18 OCT 1980
+1 HUSB @I888@
+1 WIFE @I880@
+1 CHIL @I889@
+0 @F331@ FAM
+1 MARR
+2 DATE 15 JUL 1972
+1 HUSB @I890@
+1 WIFE @I881@
+1 CHIL @I891@
+1 CHIL @I892@
+1 CHIL @I893@
+0 @F332@ FAM
+1 MARR Y
+1 HUSB @I896@
+1 WIFE @I894@
+1 CHIL @I897@
+0 @F333@ FAM
+1 MARR Y
+1 HUSB @I898@
+1 WIFE @I895@
+1 CHIL @I899@
+0 @F334@ FAM
+1 MARR Y
+1 HUSB @I909@
+1 WIFE @I912@
+1 CHIL @I913@
+1 CHIL @I914@
+1 CHIL @I915@
+0 @F335@ FAM
+1 MARR Y
+1 HUSB @I910@
+1 WIFE @I916@
+1 CHIL @I917@
+1 CHIL @I918@
+1 CHIL @I919@
+0 @F336@ FAM
+1 MARR Y
+1 HUSB @I920@
+1 WIFE @I911@
+1 CHIL @I921@
+0 @F337@ FAM
+1 MARR Y
+1 HUSB @I928@
+1 WIFE @I923@
+1 CHIL @I929@
+1 CHIL @I930@
+0 @F338@ FAM
+1 MARR Y
+1 HUSB @I931@
+1 WIFE @I924@
+1 CHIL @I932@
+0 @F339@ FAM
+1 MARR Y
+1 HUSB @I1356@
+1 WIFE @I938@
+0 @F340@ FAM
+1 MARR Y
+1 HUSB @I939@
+1 WIFE @I1045@
+1 CHIL @I1046@
+1 CHIL @I1047@
+1 CHIL @I1048@
+1 CHIL @I1049@
+1 CHIL @I1050@
+0 @F341@ FAM
+1 MARR
+2 DATE 05 AUG 1901
+2 PLAC Polk County MN
+1 HUSB @I1355@
+1 WIFE @I940@
+1 CHIL @I1090@
+0 @F342@ FAM
+1 MARR
+2 DATE 15 FEB 1909
+2 PLAC Minot, ND
+1 HUSB @I943@
+1 WIFE @I945@
+1 CHIL @I946@
+1 CHIL @I947@
+1 CHIL @I948@
+1 CHIL @I949@
+1 CHIL @I950@
+1 CHIL @I951@
+1 CHIL @I952@
+1 CHIL @I953@
+1 CHIL @I954@
+1 CHIL @I955@
+0 @F343@ FAM
+1 MARR
+2 DATE 30 OCT 1953
+2 PLAC Minot, ND
+1 HUSB @I946@
+1 WIFE @I956@
+1 CHIL @I957@
+0 @F344@ FAM
+1 MARR
+2 DATE 1937
+1 HUSB @I947@
+1 WIFE @I959@
+1 CHIL @I960@
+0 @F345@ FAM
+1 MARR Y
+1 HUSB @I968@
+1 WIFE @I948@
+1 CHIL @I969@
+1 CHIL @I970@
+1 CHIL @I971@
+1 CHIL @I972@
+1 CHIL @I973@
+0 @F346@ FAM
+1 MARR
+2 DATE 25 MAR 1945
+2 PLAC Minot, ND
+1 HUSB @I986@
+1 WIFE @I949@
+1 CHIL @I987@
+0 @F347@ FAM
+1 MARR
+2 DATE 19 MAY 1946
+2 PLAC Minot, ND
+1 HUSB @I992@
+1 WIFE @I950@
+1 CHIL @I993@
+1 CHIL @I994@
+1 CHIL @I995@
+0 @F348@ FAM
+1 MARR Y
+1 HUSB @I952@
+1 WIFE @I1002@
+1 CHIL @I1003@
+1 CHIL @I1004@
+1 CHIL @I1005@
+0 @F349@ FAM
+1 MARR
+2 DATE 08 JUN 1949
+1 HUSB @I953@
+1 WIFE @I1006@
+1 CHIL @I1007@
+1 CHIL @I1008@
+0 @F350@ FAM
+1 MARR
+2 DATE 13 DEC 1945
+1 HUSB @I1016@
+1 WIFE @I954@
+1 CHIL @I1017@
+1 CHIL @I1018@
+1 CHIL @I1019@
+1 CHIL @I1020@
+0 @F351@ FAM
+1 MARR
+2 DATE 23 SEP 1946
+1 HUSB @I1033@
+1 WIFE @I955@
+1 CHIL @I1034@
+1 CHIL @I1035@
+1 CHIL @I1036@
+0 @F352@ FAM
+1 MARR
+2 DATE 26 AUG 1977
+2 PLAC Minot, ND
+1 HUSB @I1044@
+1 WIFE @I955@
+0 @F353@ FAM
+1 MARR
+2 DATE 27 OCT 1982
+2 PLAC Powers Lake, ND
+1 HUSB @I957@
+1 WIFE @I958@
+0 @F354@ FAM
+1 MARR
+2 DATE 18 MAY 1956
+2 PLAC Bismarck, ND
+1 HUSB @I961@
+1 WIFE @I960@
+1 CHIL @I964@
+1 CHIL @I962@
+1 CHIL @I963@
+1 CHIL @I965@
+0 @F355@ FAM
+1 MARR
+2 DATE JUL 1983
+1 HUSB @I964@
+1 WIFE @I966@
+1 CHIL @I967@
+0 @F356@ FAM
+1 MARR
+2 DATE 19 SEP 1962
+1 HUSB @I974@
+1 WIFE @I969@
+1 CHIL @I975@
+1 CHIL @I976@
+0 @F357@ FAM
+1 MARR
+2 DATE 30 JUL 1966
+1 HUSB @I970@
+1 WIFE @I977@
+1 CHIL @I978@
+1 CHIL @I979@
+0 @F358@ FAM
+1 MARR
+2 DATE 22 OCT 1982
+1 HUSB @I970@
+1 WIFE @I980@
+0 @F359@ FAM
+1 MARR
+2 DATE 09 SEP 1967
+1 HUSB @I981@
+1 WIFE @I971@
+1 CHIL @I982@
+1 CHIL @I983@
+0 @F360@ FAM
+1 MARR
+2 DATE 20 JAN 1973
+1 HUSB @I972@
+1 WIFE @I984@
+0 @F361@ FAM
+1 MARR
+2 DATE 21 OCT 1978
+1 HUSB @I985@
+1 WIFE @I973@
+0 @F362@ FAM
+1 MARR
+2 DATE 28 NOV 1964
+2 PLAC Bottineau, ND
+1 HUSB @I987@
+1 WIFE @I988@
+1 CHIL @I989@
+1 CHIL @I990@
+0 @F363@ FAM
+1 MARR
+2 DATE 23 JUN 1984
+1 HUSB @I987@
+1 WIFE @I991@
+0 @F364@ FAM
+1 MARR
+2 DATE 05 JUN 1976
+2 PLAC Waseca, MN
+1 HUSB @I993@
+1 WIFE @I996@
+1 CHIL @I997@
+1 CHIL @I998@
+0 @F365@ FAM
+1 MARR
+2 DATE 30 JUN 1973
+2 PLAC Breckenridge, MN
+1 HUSB @I994@
+1 WIFE @I999@
+1 CHIL @I1000@
+1 CHIL @I1001@
+0 @F366@ FAM
+1 MARR
+2 DATE 18 AUG 1975
+2 PLAC Sioux Falls, SD
+1 HUSB @I1007@
+1 WIFE @I1009@
+1 CHIL @I1010@
+1 CHIL @I1011@
+1 CHIL @I1012@
+0 @F367@ FAM
+1 MARR
+2 DATE 14 FEB 1974
+2 PLAC Sioux Falls, SD
+1 HUSB @I1008@
+1 WIFE @I1013@
+1 CHIL @I1014@
+1 CHIL @I1015@
+0 @F368@ FAM
+1 MARR Y
+1 HUSB @I1021@
+1 WIFE @I1017@
+1 CHIL @I1022@
+1 CHIL @I1023@
+0 @F369@ FAM
+1 MARR
+2 DATE 29 DEC 1968
+2 PLAC Columbus, ND
+1 HUSB @I1024@
+1 WIFE @I1018@
+1 CHIL @I1025@
+1 CHIL @I1026@
+1 CHIL @I1027@
+0 @F370@ FAM
+1 MARR
+2 DATE 13 AUG 1977
+2 PLAC Alice, ND
+1 HUSB @I1019@
+1 WIFE @I1028@
+1 CHIL @I1029@
+1 CHIL @I1030@
+0 @F371@ FAM
+1 MARR
+2 DATE 22 DEC 1980
+2 PLAC Columbus
+1 HUSB @I1031@
+1 WIFE @I1020@
+1 CHIL @I1032@
+0 @F372@ FAM
+1 MARR
+2 DATE 15 JAN 1972
+1 HUSB @I1034@
+1 WIFE @I1037@
+1 CHIL @I1038@
+1 CHIL @I1039@
+0 @F373@ FAM
+1 MARR Y
+1 HUSB @I1040@
+1 WIFE @I1035@
+0 @F374@ FAM
+1 MARR Y
+1 HUSB @I1041@
+1 WIFE @I1035@
+1 CHIL @I1042@
+0 @F375@ FAM
+1 MARR
+2 DATE 07 JUN 1985
+1 HUSB @I1036@
+1 WIFE @I1043@
+0 @F376@ FAM
+1 MARR Y
+1 HUSB @I1051@
+1 WIFE @I1050@
+0 @F377@ FAM
+1 MARR Y
+1 HUSB @I1058@
+1 WIFE @I1057@
+0 @F378@ FAM
+1 MARR Y
+1 HUSB @I1173@
+1 CHIL @I1060@
+0 @F379@ FAM
+1 MARR
+2 DATE 14 JUN 2003
+1 HUSB @I1062@
+1 WIFE @I1061@
+0 @F380@ FAM
+1 MARR
+2 DATE 02 FEB 2002
+1 HUSB @I1066@
+1 WIFE @I1065@
+1 CHIL @I1111@
+0 @F381@ FAM
+1 MARR
+2 DATE 07 OCT 1995
+1 HUSB @I1069@
+1 WIFE @I1070@
+1 CHIL @I1143@
+1 CHIL @I1142@
+1 CHIL @I1082@
+0 @F382@ FAM
+1 MARR Y
+1 HUSB @I1071@
+1 WIFE @I1072@
+1 CHIL @I1073@
+1 CHIL @I1110@
+0 @F383@ FAM
+1 MARR Y
+1 HUSB @I1076@
+1 WIFE @I1075@
+1 CHIL @I1077@
+0 @F384@ FAM
+1 MARR Y
+1 HUSB @I1083@
+1 WIFE @I1084@
+1 CHIL @I1085@
+1 CHIL @I1114@
+0 @F385@ FAM
+1 MARR
+2 DATE 12 JUN 1999
+1 HUSB @I1086@
+1 WIFE @I1087@
+1 CHIL @I1088@
+0 @F386@ FAM
+1 MARR Y
+1 HUSB @I1089@
+1 WIFE @I1090@
+1 CHIL @I1091@
+0 @F387@ FAM
+1 MARR Y
+1 HUSB @I1092@
+1 WIFE @I1091@
+0 @F388@ FAM
+1 MARR Y
+1 HUSB @I1094@
+1 WIFE @I1139@
+1 CHIL @I1140@
+1 CHIL @I1141@
+0 @F389@ FAM
+1 MARR Y
+1 HUSB @I1095@
+1 WIFE @I1112@
+1 CHIL @I1113@
+0 @F390@ FAM
+1 MARR Y
+1 WIFE @I1098@
+0 @F391@ FAM
+1 MARR
+2 DATE 06 AUG 2004
+1 HUSB @I1099@
+1 WIFE @I1103@
+0 @F392@ FAM
+1 MARR
+2 DATE 05 JUN 2004
+1 HUSB @I1102@
+1 WIFE @I1100@
+0 @F393@ FAM
+1 MARR
+2 DATE 10 SEP 2011
+1 HUSB @I1343@
+1 WIFE @I1101@
+0 @F394@ FAM
+1 MARR
+2 DATE (OCT 30 1999)
+1 HUSB @I1108@
+1 WIFE @I1106@
+1 CHIL @I1109@
+0 @F395@ FAM
+1 MARR Y
+1 HUSB @I1150@
+1 WIFE @I1123@
+1 CHIL @I1151@
+0 @F396@ FAM
+1 MARR
+2 DATE 1997
+1 HUSB @I1125@
+1 WIFE @I1124@
+0 @F397@ FAM
+1 MARR Y
+1 HUSB @I1158@
+1 WIFE @I1162@
+1 CHIL @I1163@
+1 CHIL @I1164@
+1 CHIL @I1165@
+0 @F398@ FAM
+1 MARR Y
+1 HUSB @I1170@
+1 WIFE @I1169@
+0 @F399@ FAM
+1 MARR Y
+1 CHIL @I1175@
+0 @F400@ FAM
+1 MARR Y
+1 HUSB @I1208@
+1 WIFE @I1209@
+1 CHIL @I1178@
+1 CHIL @I1260@
+1 CHIL @I1262@
+1 CHIL @I1264@
+1 CHIL @I1265@
+1 CHIL @I1267@
+1 CHIL @I1268@
+1 CHIL @I1269@
+1 CHIL @I1177@
+0 @F401@ FAM
+1 MARR
+2 DATE (DEC)
+1 HUSB @I1177@
+1 WIFE @I1220@
+1 CHIL @I1226@
+1 CHIL @I1227@
+1 CHIL @I1228@
+1 CHIL @I1229@
+0 @F402@ FAM
+1 MARR Y
+1 HUSB @I1179@
+1 WIFE @I1178@
+1 CHIL @I1271@
+1 CHIL @I1272@
+0 @F403@ FAM
+1 MARR
+2 DATE 04 OCT 1950
+2 PLAC St Paul MN
+1 HUSB @I1230@
+1 WIFE @I1180@
+1 CHIL @I1231@
+0 @F404@ FAM
+1 MARR
+2 DATE 15 SEP 1934
+2 PLAC Hitterdal MN
+1 HUSB @I1185@
+1 WIFE @I1181@
+1 CHIL @I1186@
+1 CHIL @I1187@
+1 CHIL @I1188@
+1 CHIL @I1189@
+0 @F405@ FAM
+1 MARR
+2 DATE 21 JUL 1939
+2 PLAC Hitterdal, MN
+1 HUSB @I1191@
+1 WIFE @I1182@
+1 CHIL @I1192@
+1 CHIL @I1193@
+0 @F406@ FAM
+1 MARR
+2 DATE JAN 1945
+1 HUSB @I1183@
+1 WIFE @I1232@
+1 CHIL @I1365@
+1 CHIL @I1364@
+1 CHIL @I1366@
+1 CHIL @I1367@
+1 CHIL @I1368@
+0 @F407@ FAM
+1 MARR
+2 DATE (JUN)
+1 HUSB @I1194@
+1 WIFE @I1187@
+1 CHIL @I1195@
+0 @F408@ FAM
+1 MARR
+2 DATE 17 MAY 1969
+2 PLAC Glyndon Lutheran Church Glyndon, MN
+1 HUSB @I1189@
+1 WIFE @I1190@
+0 @F409@ FAM
+1 MARR Y
+1 HUSB @I1349@
+1 WIFE @I1350@
+1 CHIL @I1191@
+1 CHIL @I1351@
+0 @F410@ FAM
+1 MARR Y
+1 HUSB @I1196@
+1 WIFE @I1197@
+1 CHIL @I1198@
+1 CHIL @I1200@
+1 CHIL @I1202@
+1 CHIL @I1204@
+1 CHIL @I1206@
+0 @F411@ FAM
+1 MARR Y
+1 HUSB @I1198@
+1 WIFE @I1199@
+1 CHIL @I1208@
+1 CHIL @I1210@
+1 CHIL @I1212@
+1 CHIL @I1214@
+1 CHIL @I1215@
+1 CHIL @I1217@
+0 @F412@ FAM
+1 MARR Y
+1 HUSB @I1201@
+1 WIFE @I1200@
+0 @F413@ FAM
+1 MARR Y
+1 HUSB @I1202@
+1 WIFE @I1203@
+0 @F414@ FAM
+1 MARR Y
+1 HUSB @I1205@
+1 WIFE @I1204@
+0 @F415@ FAM
+1 MARR Y
+1 HUSB @I1206@
+1 WIFE @I1207@
+0 @F416@ FAM
+1 MARR Y
+1 HUSB @I1210@
+1 WIFE @I1211@
+0 @F417@ FAM
+1 MARR Y
+1 HUSB @I1212@
+1 WIFE @I1213@
+0 @F418@ FAM
+1 MARR Y
+1 HUSB @I1215@
+1 WIFE @I1216@
+0 @F419@ FAM
+1 MARR Y
+1 HUSB @I1218@
+1 WIFE @I1217@
+0 @F420@ FAM
+1 MARR Y
+1 HUSB @I1274@
+1 CHIL @I1273@
+1 CHIL @I1219@
+0 @F421@ FAM
+1 MARR
+2 DATE 02 AUG 1906
+1 HUSB @I1224@
+1 WIFE @I1233@
+1 CHIL @I1234@
+1 CHIL @I1235@
+1 CHIL @I1237@
+1 CHIL @I1238@
+0 @F422@ FAM
+1 MARR
+2 DATE 13 JUN 1922
+1 HUSB @I1226@
+1 WIFE @I1239@
+1 CHIL @I1240@
+1 CHIL @I1241@
+1 CHIL @I1242@
+1 CHIL @I1243@
+0 @F423@ FAM
+1 MARR
+2 DATE 24 AUG 1922
+1 HUSB @I1227@
+1 WIFE @I1244@
+1 CHIL @I1245@
+0 @F424@ FAM
+1 MARR
+2 DATE 28 JAN 1933
+1 HUSB @I1228@
+1 WIFE @I1246@
+0 @F425@ FAM
+1 MARR
+2 DATE 23 JUN 1935
+1 HUSB @I1234@
+1 WIFE @I1247@
+0 @F426@ FAM
+1 MARR
+2 DATE 29 JUN 1935
+1 HUSB @I1236@
+1 WIFE @I1235@
+1 CHIL @I1248@
+1 CHIL @I1249@
+0 @F427@ FAM
+1 MARR
+2 DATE 29 JUN 1935
+1 HUSB @I1250@
+1 WIFE @I1237@
+1 CHIL @I1251@
+0 @F428@ FAM
+1 MARR
+2 DATE 27 JUN 1941
+1 HUSB @I1238@
+1 WIFE @I1252@
+1 CHIL @I1253@
+1 CHIL @I1254@
+1 CHIL @I1255@
+1 CHIL @I1256@
+0 @F429@ FAM
+1 MARR
+2 DATE 25 DEC 1945
+1 HUSB @I1257@
+1 WIFE @I1240@
+1 CHIL @I1258@
+1 CHIL @I1259@
+0 @F430@ FAM
+1 MARR Y
+1 HUSB @I1260@
+1 WIFE @I1261@
+0 @F431@ FAM
+1 MARR Y
+1 HUSB @I1262@
+1 WIFE @I1263@
+0 @F432@ FAM
+1 MARR Y
+1 HUSB @I1266@
+1 WIFE @I1265@
+0 @F433@ FAM
+1 MARR Y
+1 HUSB @I1269@
+1 WIFE @I1270@
+0 @F434@ FAM
+1 MARR Y
+1 HUSB @I1272@
+1 WIFE @I1273@
+1 CHIL @I1275@
+1 CHIL @I1277@
+1 CHIL @I1278@
+0 @F435@ FAM
+1 MARR Y
+1 HUSB @I1275@
+1 CHIL @I1276@
+0 @F436@ FAM
+1 MARR Y
+1 HUSB @I1279@
+1 WIFE @I1278@
+0 @F437@ FAM
+1 MARR Y
+1 HUSB @I1306@
+1 WIFE @I1298@
+1 CHIL @I1287@
+0 @F438@ FAM
+1 MARR Y
+1 CHIL @I1288@
+0 @F439@ FAM
+1 MARR Y
+1 CHIL @I1295@
+0 @F440@ FAM
+1 MARR Y
+1 CHIL @I1296@
+0 @F441@ FAM
+1 MARR Y
+1 CHIL @I1297@
+0 @F442@ FAM
+1 MARR Y
+1 HUSB @I1308@
+1 WIFE @I1309@
+1 CHIL @I1298@
+0 @F443@ FAM
+1 MARR Y
+1 CHIL @I1300@
+0 @F444@ FAM
+1 MARR Y
+1 HUSB @I1305@
+1 WIFE @I1303@
+0 @F445@ FAM
+1 MARR Y
+1 CHIL @I1307@
+0 @F446@ FAM
+1 MARR Y
+1 HUSB @I1310@
+0 @F447@ FAM
+1 MARR Y
+1 WIFE @I1312@
+0 @F448@ FAM
+1 MARR Y
+1 HUSB @I1333@
+1 WIFE @I1323@
+1 CHIL @I1336@
+1 CHIL @I1334@
+1 CHIL @I1335@
+0 @F449@ FAM
+1 MARR Y
+1 HUSB @I1325@
+1 WIFE @I1324@
+1 CHIL @I1326@
+0 @F450@ FAM
+1 MARR Y
+1 HUSB @I1327@
+1 WIFE @I1326@
+1 CHIL @I1328@
+1 CHIL @I1329@
+0 @F451@ FAM
+1 MARR Y
+1 HUSB @I1328@
+1 WIFE @I1330@
+0 @F452@ FAM
+1 MARR Y
+1 HUSB @I1332@
+1 WIFE @I1329@
+0 @F453@ FAM
+1 MARR Y
+1 HUSB @I1331@
+0 @F454@ FAM
+1 MARR Y
+1 WIFE @I1334@
+1 CHIL @I1337@
+0 @F455@ FAM
+1 MARR Y
+1 HUSB @I1335@
+1 CHIL @I1338@
+0 @F456@ FAM
+1 MARR
+2 DATE 27 AUG 2011
+1 HUSB @I1341@
+1 WIFE @I1342@
+0 @F457@ FAM
+1 MARR Y
+1 CHIL @I1344@
+0 @F458@ FAM
+1 MARR Y
+1 CHIL @I1345@
+0 @F459@ FAM
+1 MARR
+2 DATE 2013
+1 HUSB @I1360@
+1 WIFE @I1359@
+1 CHIL @I1361@
+0 @F460@ FAM
+1 MARR Y
+1 CHIL @I1362@
+0 @F461@ FAM
+1 MARR Y
+1 CHIL @I1363@
+0 @F462@ FAM
+1 MARR Y
+1 HUSB @I1369@
+1 WIFE @I1365@
+1 CHIL @I1370@
+0 @F463@ FAM
+1 MARR
+2 DATE 13 OCT 2018
+1 HUSB @I154@
+1 WIFE @I1424@
+0 @F464@ FAM
+1 MARR
+2 DATE 22 JAN 2022
+2 PLAC Hallock Mn
+1 HUSB @I1425@
+1 WIFE @I435@
+0 @F465@ FAM
+1 HUSB @I1357@
+0 TRLR
